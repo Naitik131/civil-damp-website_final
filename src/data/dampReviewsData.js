@@ -16,10 +16,8 @@ export const courseReviews = [
     "difficulty": "Easy",
     "rating": 4,
     "leniency": "8/10",
-    "senior": "Himanshu Shete",
-    "reviewer": "Raj Achliya",
-    "batch": "2027",
-    "date": "24/08/2026",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {
       "Teaching quality": "8/10",
       "Approachability": "9/10",
@@ -27,25 +25,9 @@ export const courseReviews = [
       "Exam predictability": "10/10",
       "Overall rating": "9/10"
     },
-    "review": "Elective name & code: Engineering Law (CE324) This elective covers contracts and laws related to civil engineering. I picked it mainly because of its good grading. It is best suited for students interested in law or those planning to pursue core civil engineering.",
-    "rawContent": "During the call:\n\n\u2022 Type up your notes immediately after the call while memory is fresh/do as you wish I only care about output, also we need really short answers.\n\nCall Details\n\nYour name: Raj Achliya\n\nSenior's name: Himanshu Shete\n\nSenior's batch/year: 2027\n\nDate of call: 24/08/2026\n\nSection(s) covered: All\n\nElective Review\n\nElective name & code: Engineering Law (CE324)\n\nSemester taken: 5th\n\nProfessor: Milind Wankhede\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThis elective covers contracts and laws related to civil engineering. I picked it mainly because of its good grading. It is best suited for students interested in law or those planning to pursue core civil engineering.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nThe course improved my understanding of contracts and the relevant legal sections, although it is largely based on rote learning. It did not complement my major, BTP, IDP, or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nIt is more knowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1-10, 10 being very lenient), and is it easy to score well with consistent effort?\n\nThe grading components are a court-type scenario component, a midsem, and an endsem. I would rate the leniency 8/10. It is quite easy to score well with consistent effort, especially for those who are comfortable with rote learning.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1-10:\n\n1. Teaching quality: 8/10\n\n2. Approachability: 9/10\n\n3. Evaluation fairness: 10/10\n\n4. Exam predictability: 10/10\n\n5. Overall rating: 9/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nThis elective is a good choice for students interested in law, those planning to pursue core civil engineering, or anyone looking for good grading. Evaluation is very fair, and the exams closely match what is taught in class. The main drawback is that the course relies heavily on rote learning.",
+    "review": "This elective covers contracts and laws related to civil engineering. I picked it mainly because of its good grading. It is best suited for students interested in law or those planning to pursue core civil engineering.",
+    "rawContent": "Elective Review\n\nElective name & code: Engineering Law (CE324)\n\nSemester taken: 5th\n\nProfessor: Milind Wankhede\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThis elective covers contracts and laws related to civil engineering. I picked it mainly because of its good grading. It is best suited for students interested in law or those planning to pursue core civil engineering.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nThe course improved my understanding of contracts and the relevant legal sections, although it is largely based on rote learning. It did not complement my major, BTP, IDP, or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nIt is more knowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1-10, 10 being very lenient), and is it easy to score well with consistent effort?\n\nThe grading components are a court-type scenario component, a midsem, and an endsem. I would rate the leniency 8/10. It is quite easy to score well with consistent effort, especially for those who are comfortable with rote learning.\n\nCourse Review\n\nRate 1-10:\n\n1. Teaching quality: 8/10\n\n2. Approachability: 9/10\n\n3. Evaluation fairness: 10/10\n\n4. Exam predictability: 10/10\n\n5. Overall rating: 9/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nThis elective is a good choice for students interested in law, those planning to pursue core civil engineering, or anyone looking for good grading. Evaluation is very fair, and the exams closely match what is taught in class. The main drawback is that the course relies heavily on rote learning.",
     "verbatimSections": [
-      {
-        "heading": "During the call:",
-        "lines": [
-          "\u2022 Type up your notes immediately after the call while memory is fresh/do as you wish I only care about output, also we need really short answers."
-        ]
-      },
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Raj Achliya",
-          "Senior's name: Himanshu Shete",
-          "Senior's batch/year: 2027",
-          "Date of call: 24/08/2026",
-          "Section(s) covered: All"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -80,7 +62,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1-10:",
           "1. Teaching quality: 8/10",
           "2. Approachability: 9/10",
@@ -105,10 +86,8 @@ export const courseReviews = [
     "difficulty": "Hard",
     "rating": 3,
     "leniency": "4/10",
-    "senior": "Ashwin Mankar",
-    "reviewer": "Raj Achliya",
-    "batch": "2027",
-    "date": "21/08/2026",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {
       "Teaching quality": "9/10",
       "Approachability": "9/10",
@@ -116,25 +95,9 @@ export const courseReviews = [
       "Exam predictability": "8/10",
       "Overall rating": "6/10"
     },
-    "review": "Elective name & code: Introduction to Offshore Engineering (CE410) This elective is an introduction to ocean engineering and wave modelling. I picked it out of personal interest in the subject. It is a beginner-level course, so no prior background is needed.",
-    "rawContent": "During the call:\n\n\u2022 Type up your notes immediately after the call while memory is fresh/do as you wish I only care about output, also we need really short answers.\n\nCall Details\n\nYour name: Raj Achliya\n\nSenior's name: Ashwin Mankar\n\nSenior's batch/year: 2027\n\nDate of call: 21/08/2026\n\nSection(s) covered: All\n\nElective Review\n\nElective name & code: Introduction to Offshore Engineering (CE410)\n\nSemester taken: 6th\n\nProfessor: Gowri Shankar\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThis elective is an introduction to ocean engineering and wave modelling. I picked it out of personal interest in the subject. It is a beginner-level course, so no prior background is needed.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nThere were not many deep takeaways, but the course gave good general exposure to ocean engineering. It did complement my internship, since the internship work used some of the same concepts covered in the coursework.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nIt is more knowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1-10, 10 being very lenient), and is it easy to score well with consistent effort?\n\nThe grading components are a quiz, a midsem, and an endsem. The grading is fairly strict, and I would rate the leniency 4/10, since even a score of 85/100 got a BB grade. It is a rote-learning type course, so consistent effort helps, but scoring a high grade is not easy.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1-10:\n\n1. Teaching quality: 9/10\n\n2. Approachability: 9/10\n\n3. Evaluation fairness: 6/10\n\n4. Exam predictability: 8/10\n\n5. Overall rating: 6/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nThis elective is best suited for beginners who want general exposure to ocean engineering. The professor explains concepts clearly and is approachable, and the exams closely follow what is taught in class. However, the lectures are not very engaging, and the strict grading is a red flag, since even 85/100 got a BB grade.",
+    "review": "This elective is an introduction to ocean engineering and wave modelling. I picked it out of personal interest in the subject. It is a beginner-level course, so no prior background is needed.",
+    "rawContent": "Elective Review\n\nElective name & code: Introduction to Offshore Engineering (CE410)\n\nSemester taken: 6th\n\nProfessor: Gowri Shankar\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThis elective is an introduction to ocean engineering and wave modelling. I picked it out of personal interest in the subject. It is a beginner-level course, so no prior background is needed.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nThere were not many deep takeaways, but the course gave good general exposure to ocean engineering. It did complement my internship, since the internship work used some of the same concepts covered in the coursework.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nIt is more knowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1-10, 10 being very lenient), and is it easy to score well with consistent effort?\n\nThe grading components are a quiz, a midsem, and an endsem. The grading is fairly strict, and I would rate the leniency 4/10, since even a score of 85/100 got a BB grade. It is a rote-learning type course, so consistent effort helps, but scoring a high grade is not easy.\n\nCourse Review\n\nRate 1-10:\n\n1. Teaching quality: 9/10\n\n2. Approachability: 9/10\n\n3. Evaluation fairness: 6/10\n\n4. Exam predictability: 8/10\n\n5. Overall rating: 6/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nThis elective is best suited for beginners who want general exposure to ocean engineering. The professor explains concepts clearly and is approachable, and the exams closely follow what is taught in class. However, the lectures are not very engaging, and the strict grading is a red flag, since even 85/100 got a BB grade.",
     "verbatimSections": [
-      {
-        "heading": "During the call:",
-        "lines": [
-          "\u2022 Type up your notes immediately after the call while memory is fresh/do as you wish I only care about output, also we need really short answers."
-        ]
-      },
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Raj Achliya",
-          "Senior's name: Ashwin Mankar",
-          "Senior's batch/year: 2027",
-          "Date of call: 21/08/2026",
-          "Section(s) covered: All"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -169,7 +132,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1-10:",
           "1. Teaching quality: 9/10",
           "2. Approachability: 9/10",
@@ -194,10 +156,8 @@ export const courseReviews = [
     "difficulty": "Easy",
     "rating": 4,
     "leniency": "8/10",
-    "senior": "Himanshu Shete",
-    "reviewer": "Raj Achliya",
-    "batch": "2027",
-    "date": "24/08/2026",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {
       "Teaching quality": "9/10",
       "Approachability": "10/10",
@@ -205,25 +165,9 @@ export const courseReviews = [
       "Exam predictability": "8/10",
       "Overall rating": "9/10"
     },
-    "review": "Elective name & code: Concrete Technology (CE484) Professor: Prakash Nanthagopalan (1st half), Swathy Manohar (2nd half)",
-    "rawContent": "During the call:\n\n\u2022 Type up your notes immediately after the call while memory is fresh/do as you wish I only care about output, also we need really short answers.\n\nCall Details\n\nYour name: Raj Achliya\n\nSenior's name: Himanshu Shete\n\nSenior's batch/year: 2027\n\nDate of call: 24/08/2026\n\nSection(s) covered: All\n\nElective Review\n\nElective name & code: Concrete Technology (CE484)\n\nSemester taken: 4th\n\nProfessor: Prakash Nanthagopalan (1st half), Swathy Manohar (2nd half)\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThis elective is mainly about concrete and its properties in detail. I picked it because BMC was taught by the same professor and I had an empty slot in my timetable. No specific background is needed, but it suits anyone who liked the BMC course, since it is on similar lines.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nThe course is centered around concrete and includes lab visits for further demonstrations. It did not complement my major, BTP, IDP, or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nIt is more knowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1-10, 10 being very lenient), and is it easy to score well with consistent effort?\n\nThe grading components are a lab-based paper, a midsem, and an endsem. I would rate the leniency 8/10. Scoring well is possible with consistent effort, but the course is slightly demanding.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1-10:\n\n1. Teaching quality: 9/10\n\n2. Approachability: 10/10\n\n3. Evaluation fairness: 9/10\n\n4. Exam predictability: 8/10\n\n5. Overall rating: 9/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nThis elective is a good fit for anyone who enjoyed BMC, since it builds on similar topics. Both professors teach clearly, keep lectures engaging, and are very approachable, and the lab visits are a pleasant addition. Students should be prepared for a slightly demanding workload to score well.",
+    "review": "This elective is mainly about concrete and its properties in detail. I picked it because BMC was taught by the same professor and I had an empty slot in my timetable. No specific background is needed, but it suits anyone who liked the BMC course, since it is on similar lines.",
+    "rawContent": "Elective Review\n\nElective name & code: Concrete Technology (CE484)\n\nSemester taken: 4th\n\nProfessor: Prakash Nanthagopalan (1st half), Swathy Manohar (2nd half)\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThis elective is mainly about concrete and its properties in detail. I picked it because BMC was taught by the same professor and I had an empty slot in my timetable. No specific background is needed, but it suits anyone who liked the BMC course, since it is on similar lines.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nThe course is centered around concrete and includes lab visits for further demonstrations. It did not complement my major, BTP, IDP, or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nIt is more knowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1-10, 10 being very lenient), and is it easy to score well with consistent effort?\n\nThe grading components are a lab-based paper, a midsem, and an endsem. I would rate the leniency 8/10. Scoring well is possible with consistent effort, but the course is slightly demanding.\n\nCourse Review\n\nRate 1-10:\n\n1. Teaching quality: 9/10\n\n2. Approachability: 10/10\n\n3. Evaluation fairness: 9/10\n\n4. Exam predictability: 8/10\n\n5. Overall rating: 9/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nThis elective is a good fit for anyone who enjoyed BMC, since it builds on similar topics. Both professors teach clearly, keep lectures engaging, and are very approachable, and the lab visits are a pleasant addition. Students should be prepared for a slightly demanding workload to score well.",
     "verbatimSections": [
-      {
-        "heading": "During the call:",
-        "lines": [
-          "\u2022 Type up your notes immediately after the call while memory is fresh/do as you wish I only care about output, also we need really short answers."
-        ]
-      },
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Raj Achliya",
-          "Senior's name: Himanshu Shete",
-          "Senior's batch/year: 2027",
-          "Date of call: 24/08/2026",
-          "Section(s) covered: All"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -258,7 +202,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1-10:",
           "1. Teaching quality: 9/10",
           "2. Approachability: 10/10",
@@ -283,10 +226,8 @@ export const courseReviews = [
     "difficulty": "Medium",
     "rating": 4,
     "leniency": "7/10",
-    "senior": "Vishwat Dubey",
-    "reviewer": "Raj Achliya",
-    "batch": "2027",
-    "date": "03/09/2026",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {
       "Teaching quality": "8/10",
       "Approachability": "8/10",
@@ -294,25 +235,9 @@ export const courseReviews = [
       "Exam predictability": "8/10",
       "Overall rating": "8/10"
     },
-    "review": "Elective name & code: Numerical Techniques in Hydraulic Engineering (CE607) This is an optimization-based course and is essentially an advanced version of Numerical Methods (CE465). Since CE465 is compulsory for civil students, there is no separate prerequisite for CE607. I took ",
-    "rawContent": "During the call:\n\n\u2022 Type up your notes immediately after the call while memory is fresh/do as you wish I only care about output, also we need really short answers.\n\nCall Details\n\nYour name: Raj Achliya\n\nSenior's name: Vishwat Dubey\n\nSenior's batch/year: 2027\n\nDate of call: 03/09/2026\n\nSection(s) covered: All\n\nElective Review\n\nElective name & code: Numerical Techniques in Hydraulic Engineering (CE607)\n\nSemester taken: 6th\n\nProfessor: Eldho\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThis is an optimization-based course and is essentially an advanced version of Numerical Methods (CE465). Since CE465 is compulsory for civil students, there is no separate prerequisite for CE607. I took it because I liked CE465, and it is best suited for those who enjoy hydraulics.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nI learned many numerical techniques that are applicable to hydraulic engineering problems. It did not complement my major, BTP, IDP, or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nIt is more knowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1-10, 10 being very lenient), and is it easy to score well with consistent effort?\n\nThe grading components are assignments, a midsem, an endsem, and open-book quizzes. I would rate the leniency 7/10. It is easy to score well with consistent effort, since the papers are quite easy, although the assignments are slightly time-consuming. Note that 80% attendance is compulsory.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1-10:\n\n1. Teaching quality: 8/10\n\n2. Approachability: 8/10\n\n3. Evaluation fairness: 10/10\n\n4. Exam predictability: 8/10\n\n5. Overall rating: 8/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nThis elective is a good choice for students who liked CE465 and enjoy hydraulics. Evaluation is very fair and the papers are quite easy, but the lectures are not very engaging. Students should also keep in mind that 80% attendance is compulsory.",
+    "review": "This is an optimization-based course and is essentially an advanced version of Numerical Methods (CE465). Since CE465 is compulsory for civil students, there is no separate prerequisite for CE607. I took it because I liked CE465, and it is best suited for those who enjoy hydrauli",
+    "rawContent": "Elective Review\n\nElective name & code: Numerical Techniques in Hydraulic Engineering (CE607)\n\nSemester taken: 6th\n\nProfessor: Eldho\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThis is an optimization-based course and is essentially an advanced version of Numerical Methods (CE465). Since CE465 is compulsory for civil students, there is no separate prerequisite for CE607. I took it because I liked CE465, and it is best suited for those who enjoy hydraulics.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nI learned many numerical techniques that are applicable to hydraulic engineering problems. It did not complement my major, BTP, IDP, or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nIt is more knowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1-10, 10 being very lenient), and is it easy to score well with consistent effort?\n\nThe grading components are assignments, a midsem, an endsem, and open-book quizzes. I would rate the leniency 7/10. It is easy to score well with consistent effort, since the papers are quite easy, although the assignments are slightly time-consuming. Note that 80% attendance is compulsory.\n\nCourse Review\n\nRate 1-10:\n\n1. Teaching quality: 8/10\n\n2. Approachability: 8/10\n\n3. Evaluation fairness: 10/10\n\n4. Exam predictability: 8/10\n\n5. Overall rating: 8/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nThis elective is a good choice for students who liked CE465 and enjoy hydraulics. Evaluation is very fair and the papers are quite easy, but the lectures are not very engaging. Students should also keep in mind that 80% attendance is compulsory.",
     "verbatimSections": [
-      {
-        "heading": "During the call:",
-        "lines": [
-          "\u2022 Type up your notes immediately after the call while memory is fresh/do as you wish I only care about output, also we need really short answers."
-        ]
-      },
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Raj Achliya",
-          "Senior's name: Vishwat Dubey",
-          "Senior's batch/year: 2027",
-          "Date of call: 03/09/2026",
-          "Section(s) covered: All"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -347,7 +272,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1-10:",
           "1. Teaching quality: 8/10",
           "2. Approachability: 8/10",
@@ -372,10 +296,8 @@ export const courseReviews = [
     "difficulty": "Medium",
     "rating": 4,
     "leniency": "6/10",
-    "senior": "Ashwin Mankar",
-    "reviewer": "Raj Achliya",
-    "batch": "2027",
-    "date": "21/08/2026",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {
       "Teaching quality": "10/10",
       "Approachability": "10/10",
@@ -383,25 +305,9 @@ export const courseReviews = [
       "Exam predictability": "7/10",
       "Overall rating": "8/10"
     },
-    "review": "Elective name & code: Digital Image Processing (CE712) This elective is about processing satellite images to extract useful information, such as differentiating land from lakes. I picked it because the course description sounded interesting. It is suited for everyone, since even ",
-    "rawContent": "During the call:\n\n\u2022 Type up your notes immediately after the call while memory is fresh/do as you wish I only care about output, also we need really short answers.\n\nCall Details\n\nYour name: Raj Achliya\n\nSenior's name: Ashwin Mankar\n\nSenior's batch/year: 2027\n\nDate of call: 21/08/2026\n\nSection(s) covered: All\n\nElective Review\n\nElective name & code: Digital Image Processing (CE712)\n\nSemester taken: 5th\n\nProfessor: Indu J\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThis elective is about processing satellite images to extract useful information, such as differentiating land from lakes. I picked it because the course description sounded interesting. It is suited for everyone, since even a complete beginner can take it.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nI found the course very interesting, and my key takeaway was learning about CNN filters. It complemented my internship well, since my internship project was similar to the work done in this course.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nIt is more skill-building.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1-10, 10 being very lenient), and is it easy to score well with consistent effort?\n\nThe grading components are assignments, lab assignments, a final project, a midsem, and quizzes, with no endsem. I would rate the leniency 6/10. It is easy to score well with consistent effort, although the course is slightly time-consuming.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1-10:\n\n1. Teaching quality: 10/10\n\n2. Approachability: 10/10\n\n3. Evaluation fairness: 7/10\n\n4. Exam predictability: 7/10\n\n5. Overall rating: 8/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nThis elective is recommended for anyone interested in satellite imagery or image processing, including complete beginners. The professor explains concepts very clearly, keeps lectures engaging, and is very approachable. One red flag is that lecture slides are not shared with students.",
+    "review": "This elective is about processing satellite images to extract useful information, such as differentiating land from lakes. I picked it because the course description sounded interesting. It is suited for everyone, since even a complete beginner can take it.",
+    "rawContent": "Elective Review\n\nElective name & code: Digital Image Processing (CE712)\n\nSemester taken: 5th\n\nProfessor: Indu J\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThis elective is about processing satellite images to extract useful information, such as differentiating land from lakes. I picked it because the course description sounded interesting. It is suited for everyone, since even a complete beginner can take it.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nI found the course very interesting, and my key takeaway was learning about CNN filters. It complemented my internship well, since my internship project was similar to the work done in this course.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nIt is more skill-building.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1-10, 10 being very lenient), and is it easy to score well with consistent effort?\n\nThe grading components are assignments, lab assignments, a final project, a midsem, and quizzes, with no endsem. I would rate the leniency 6/10. It is easy to score well with consistent effort, although the course is slightly time-consuming.\n\nCourse Review\n\nRate 1-10:\n\n1. Teaching quality: 10/10\n\n2. Approachability: 10/10\n\n3. Evaluation fairness: 7/10\n\n4. Exam predictability: 7/10\n\n5. Overall rating: 8/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nThis elective is recommended for anyone interested in satellite imagery or image processing, including complete beginners. The professor explains concepts very clearly, keeps lectures engaging, and is very approachable. One red flag is that lecture slides are not shared with students.",
     "verbatimSections": [
-      {
-        "heading": "During the call:",
-        "lines": [
-          "\u2022 Type up your notes immediately after the call while memory is fresh/do as you wish I only care about output, also we need really short answers."
-        ]
-      },
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Raj Achliya",
-          "Senior's name: Ashwin Mankar",
-          "Senior's batch/year: 2027",
-          "Date of call: 21/08/2026",
-          "Section(s) covered: All"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -436,7 +342,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1-10:",
           "1. Teaching quality: 10/10",
           "2. Approachability: 10/10",
@@ -461,10 +366,8 @@ export const courseReviews = [
     "difficulty": "Hard",
     "rating": 3,
     "leniency": "5/10",
-    "senior": "Vishwat Dubey",
-    "reviewer": "Raj Achliya",
-    "batch": "2027",
-    "date": "03/09/2026",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {
       "Teaching quality": "7/10",
       "Approachability": "4/10",
@@ -472,25 +375,9 @@ export const courseReviews = [
       "Exam predictability": "8/10",
       "Overall rating": "6/10"
     },
-    "review": "Elective name & code: Digital Image Processing (CE712) This elective deals with satellite imagery and the techniques used to extract meaningful information from it, such as distinguishing between land and water bodies. I picked it because it is a genuinely interesting subject are",
-    "rawContent": "During the call:\n\n\u2022 Type up your notes immediately after the call while memory is fresh/do as you wish I only care about output, also we need really short answers.\n\nCall Details\n\nYour name: Raj Achliya\n\nSenior's name: Vishwat Dubey\n\nSenior's batch/year: 2027\n\nDate of call: 03/09/2026\n\nSection(s) covered: All\n\nElective Review\n\nElective name & code: Digital Image Processing (CE712)\n\nSemester taken: 5th\n\nProfessor: Indu J\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThis elective deals with satellite imagery and the techniques used to extract meaningful information from it, such as distinguishing between land and water bodies. I picked it because it is a genuinely interesting subject area. No prior background is needed, and a complete beginner can take it comfortably.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nI got a solid grasp of CNN filters and image-processing concepts, which made the course genuinely engaging. It did not complement my major, BTP, IDP, or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nIt is more skill-building.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1-10, 10 being very lenient), and is it easy to score well with consistent effort?\n\nThe grading components are assignments, lab assignments, a final project, a midsem, and quizzes, with no endsem. I would rate the leniency 5/10, since only 1 AA was given out of roughly 200 students, even though the course itself is fairly easy. Scoring well is possible with consistent effort, but it is slightly time-consuming, since notes must be taken in class and the lab work takes time, although AI use is allowed for the labs.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1-10:\n\n1. Teaching quality: 7/10\n\n2. Approachability: 4/10\n\n3. Evaluation fairness: 5/10\n\n4. Exam predictability: 8/10\n\n5. Overall rating: 6/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nThis elective suits beginners who are interested in satellite imagery and image processing. The main red flags are the harsh grading, with only 1 AA out of roughly 200 students, and the fact that slides are not shared, so students need to take their own notes during lectures. On the positive side, AI use is allowed for the lab work.",
+    "review": "This elective deals with satellite imagery and the techniques used to extract meaningful information from it, such as distinguishing between land and water bodies. I picked it because it is a genuinely interesting subject area. No prior background is needed, and a complete beginn",
+    "rawContent": "Elective Review\n\nElective name & code: Digital Image Processing (CE712)\n\nSemester taken: 5th\n\nProfessor: Indu J\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThis elective deals with satellite imagery and the techniques used to extract meaningful information from it, such as distinguishing between land and water bodies. I picked it because it is a genuinely interesting subject area. No prior background is needed, and a complete beginner can take it comfortably.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nI got a solid grasp of CNN filters and image-processing concepts, which made the course genuinely engaging. It did not complement my major, BTP, IDP, or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nIt is more skill-building.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1-10, 10 being very lenient), and is it easy to score well with consistent effort?\n\nThe grading components are assignments, lab assignments, a final project, a midsem, and quizzes, with no endsem. I would rate the leniency 5/10, since only 1 AA was given out of roughly 200 students, even though the course itself is fairly easy. Scoring well is possible with consistent effort, but it is slightly time-consuming, since notes must be taken in class and the lab work takes time, although AI use is allowed for the labs.\n\nCourse Review\n\nRate 1-10:\n\n1. Teaching quality: 7/10\n\n2. Approachability: 4/10\n\n3. Evaluation fairness: 5/10\n\n4. Exam predictability: 8/10\n\n5. Overall rating: 6/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nThis elective suits beginners who are interested in satellite imagery and image processing. The main red flags are the harsh grading, with only 1 AA out of roughly 200 students, and the fact that slides are not shared, so students need to take their own notes during lectures. On the positive side, AI use is allowed for the lab work.",
     "verbatimSections": [
-      {
-        "heading": "During the call:",
-        "lines": [
-          "\u2022 Type up your notes immediately after the call while memory is fresh/do as you wish I only care about output, also we need really short answers."
-        ]
-      },
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Raj Achliya",
-          "Senior's name: Vishwat Dubey",
-          "Senior's batch/year: 2027",
-          "Date of call: 03/09/2026",
-          "Section(s) covered: All"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -525,7 +412,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1-10:",
           "1. Teaching quality: 7/10",
           "2. Approachability: 4/10",
@@ -550,10 +436,8 @@ export const courseReviews = [
     "difficulty": "Easy",
     "rating": 4,
     "leniency": "9/10",
-    "senior": "Himanshu Shete",
-    "reviewer": "Raj Achliya",
-    "batch": "2027",
-    "date": "24/08/2026",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {
       "Teaching quality": "9/10",
       "Approachability": "10/10",
@@ -561,25 +445,9 @@ export const courseReviews = [
       "Exam predictability": "7/10",
       "Overall rating": "9/10"
     },
-    "review": "Elective name & code: Pavement Systems Engineering (CE742) This elective is all about pavements. I had no specific reason for choosing it. It is beginner-friendly, so no specific background is needed.",
-    "rawContent": "During the call:\n\n\u2022 Type up your notes immediately after the call while memory is fresh/do as you wish I only care about output, also we need really short answers.\n\nCall Details\n\nYour name: Raj Achliya\n\nSenior's name: Himanshu Shete\n\nSenior's batch/year: 2027\n\nDate of call: 24/08/2026\n\nSection(s) covered: All\n\nElective Review\n\nElective name & code: Pavement Systems Engineering (CE742)\n\nSemester taken: 5th\n\nProfessor: Dharamveer Singh\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThis elective is all about pavements. I had no specific reason for choosing it. It is beginner-friendly, so no specific background is needed.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nI learned about the different types of pavements and other related details in depth. It did not complement my major, BTP, IDP, or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nIt is more skill-building.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1-10, 10 being very lenient), and is it easy to score well with consistent effort?\n\nThe grading components are class participation, a midsem, and an endsem. I would rate the leniency 9/10. It is quite easy to score well with consistent effort.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1-10:\n\n1. Teaching quality: 9/10\n\n2. Approachability: 10/10\n\n3. Evaluation fairness: 10/10\n\n4. Exam predictability: 7/10\n\n5. Overall rating: 9/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nThis elective is a good choice for beginners and anyone looking for lenient grading. The lectures are very engaging, the professor is highly approachable, and evaluation is very fair. The only minor drawback is that the exams are somewhat less predictable than the rest of the course.",
+    "review": "This elective is all about pavements. I had no specific reason for choosing it. It is beginner-friendly, so no specific background is needed.",
+    "rawContent": "Elective Review\n\nElective name & code: Pavement Systems Engineering (CE742)\n\nSemester taken: 5th\n\nProfessor: Dharamveer Singh\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThis elective is all about pavements. I had no specific reason for choosing it. It is beginner-friendly, so no specific background is needed.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nI learned about the different types of pavements and other related details in depth. It did not complement my major, BTP, IDP, or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nIt is more skill-building.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1-10, 10 being very lenient), and is it easy to score well with consistent effort?\n\nThe grading components are class participation, a midsem, and an endsem. I would rate the leniency 9/10. It is quite easy to score well with consistent effort.\n\nCourse Review\n\nRate 1-10:\n\n1. Teaching quality: 9/10\n\n2. Approachability: 10/10\n\n3. Evaluation fairness: 10/10\n\n4. Exam predictability: 7/10\n\n5. Overall rating: 9/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nThis elective is a good choice for beginners and anyone looking for lenient grading. The lectures are very engaging, the professor is highly approachable, and evaluation is very fair. The only minor drawback is that the exams are somewhat less predictable than the rest of the course.",
     "verbatimSections": [
-      {
-        "heading": "During the call:",
-        "lines": [
-          "\u2022 Type up your notes immediately after the call while memory is fresh/do as you wish I only care about output, also we need really short answers."
-        ]
-      },
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Raj Achliya",
-          "Senior's name: Himanshu Shete",
-          "Senior's batch/year: 2027",
-          "Date of call: 24/08/2026",
-          "Section(s) covered: All"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -614,7 +482,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1-10:",
           "1. Teaching quality: 9/10",
           "2. Approachability: 10/10",
@@ -639,10 +506,8 @@ export const courseReviews = [
     "difficulty": "Easy",
     "rating": 5,
     "leniency": "9/10",
-    "senior": "Vishwat Dubey",
-    "reviewer": "Raj Achliya",
-    "batch": "2027",
-    "date": "03/09/2026",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {
       "Teaching quality": "10/10",
       "Approachability": "10/10",
@@ -650,25 +515,9 @@ export const courseReviews = [
       "Exam predictability": "10/10",
       "Overall rating": "10/10"
     },
-    "review": "Elective name & code: Transportation Project Evaluation and Decision Making (CE776) This elective covers the evaluation of transportation projects and decision making, and its syllabus is very similar to EC101. I picked it mainly because of the good grading and the class particip",
-    "rawContent": "During the call:\n\n\u2022 Type up your notes immediately after the call while memory is fresh/do as you wish I only care about output, also we need really short answers.\n\nCall Details\n\nYour name: Raj Achliya\n\nSenior's name: Vishwat Dubey\n\nSenior's batch/year: 2027\n\nDate of call: 03/09/2026\n\nSection(s) covered: All\n\nElective Review\n\nElective name & code: Transportation Project Evaluation and Decision Making (CE776)\n\nSemester taken: 6th\n\nProfessor: Veda Giri\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThis elective covers the evaluation of transportation projects and decision making, and its syllabus is very similar to EC101. I picked it mainly because of the good grading and the class participation component, and the overlap with EC101 made it an easy choice. No specific background is needed, and it is beginner-friendly.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nThe course is very relaxed overall, and the content up to the midsem overlaps heavily with EC101, so there is minimal additional academic load. It did not complement my major, BTP, IDP, or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nIt is more knowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1-10, 10 being very lenient), and is it easy to score well with consistent effort?\n\nThe grading components are a midsem, an endsem, and class participation. I would rate the leniency 9/10. It is a very easy course, and scoring well with consistent effort is very achievable.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1-10:\n\n1. Teaching quality: 10/10\n\n2. Approachability: 10/10\n\n3. Evaluation fairness: 10/10\n\n4. Exam predictability: 10/10\n\n5. Overall rating: 10/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nThis elective is highly recommended for anyone looking for an easy, well-graded course, especially those who have already done EC101. The professor teaches very clearly, keeps lectures engaging, is very approachable, and evaluates fairly. There are no notable red flags.",
+    "review": "This elective covers the evaluation of transportation projects and decision making, and its syllabus is very similar to EC101. I picked it mainly because of the good grading and the class participation component, and the overlap with EC101 made it an easy choice. No specific back",
+    "rawContent": "Elective Review\n\nElective name & code: Transportation Project Evaluation and Decision Making (CE776)\n\nSemester taken: 6th\n\nProfessor: Veda Giri\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThis elective covers the evaluation of transportation projects and decision making, and its syllabus is very similar to EC101. I picked it mainly because of the good grading and the class participation component, and the overlap with EC101 made it an easy choice. No specific background is needed, and it is beginner-friendly.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nThe course is very relaxed overall, and the content up to the midsem overlaps heavily with EC101, so there is minimal additional academic load. It did not complement my major, BTP, IDP, or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nIt is more knowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1-10, 10 being very lenient), and is it easy to score well with consistent effort?\n\nThe grading components are a midsem, an endsem, and class participation. I would rate the leniency 9/10. It is a very easy course, and scoring well with consistent effort is very achievable.\n\nCourse Review\n\nRate 1-10:\n\n1. Teaching quality: 10/10\n\n2. Approachability: 10/10\n\n3. Evaluation fairness: 10/10\n\n4. Exam predictability: 10/10\n\n5. Overall rating: 10/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nThis elective is highly recommended for anyone looking for an easy, well-graded course, especially those who have already done EC101. The professor teaches very clearly, keeps lectures engaging, is very approachable, and evaluates fairly. There are no notable red flags.",
     "verbatimSections": [
-      {
-        "heading": "During the call:",
-        "lines": [
-          "\u2022 Type up your notes immediately after the call while memory is fresh/do as you wish I only care about output, also we need really short answers."
-        ]
-      },
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Raj Achliya",
-          "Senior's name: Vishwat Dubey",
-          "Senior's batch/year: 2027",
-          "Date of call: 03/09/2026",
-          "Section(s) covered: All"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -703,7 +552,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1-10:",
           "1. Teaching quality: 10/10",
           "2. Approachability: 10/10",
@@ -728,10 +576,8 @@ export const courseReviews = [
     "difficulty": "Medium",
     "rating": 5,
     "leniency": "7/10",
-    "senior": "Aryan Kashyap",
-    "reviewer": "Raj Achliya",
-    "batch": "2027",
-    "date": "24/08/2026",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {
       "Teaching quality": "9/10",
       "Approachability": "10/10",
@@ -739,25 +585,9 @@ export const courseReviews = [
       "Exam predictability": "8/10",
       "Overall rating": "10/10"
     },
-    "review": "Elective name & code: Educational App Design (ET617) This is a 6-credit, client-driven, project-based course offered by the Centre for Educational Technology, focused on designing, building, testing, and documenting educational apps. It combines software engineering, learning des",
-    "rawContent": "During the call:\n\n\u2022 Type up your notes immediately after the call while memory is fresh/do as you wish I only care about output, also we need really short answers.\n\nCall Details\n\nYour name: Raj Achliya\n\nSenior's name: Aryan Kashyap\n\nSenior's batch/year: 2027\n\nDate of call: 24/08/2026\n\nSection(s) covered: All\n\nElective Review\n\nElective name & code: Educational App Design (ET617)\n\nSemester taken: 6th\n\nProfessor: Ramkumar Rajendran\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThis is a 6-credit, client-driven, project-based course offered by the Centre for Educational Technology, focused on designing, building, testing, and documenting educational apps. It combines software engineering, learning design, user research, accessibility, and AI in education, and the main project was building and personalizing an adaptive tutor system. I picked it partly because the professor was good to work with, and it is best suited for those interested in AI/ML and educational technology.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nIt is a practical, hands-on course where the topic is given, but the approach and method are left flexible for the team to decide. It complemented my overall profile well.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nIt is more knowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1-10, 10 being very lenient), and is it easy to score well with consistent effort?\n\nThe grading components are a midsem, an endsem, and a final PDT (project deliverable). I would rate the leniency 7/10. It is easy to score well with consistent effort.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1-10:\n\n1. Teaching quality: 9/10\n\n2. Approachability: 10/10\n\n3. Evaluation fairness: 9/10\n\n4. Exam predictability: 8/10\n\n5. Overall rating: 10/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nThis elective is a great fit for students interested in AI/ML and educational technology who enjoy hands-on project work. The professor is very approachable and good to work with, and teams get a lot of flexibility in how they approach the project. There are no notable red flags.",
+    "review": "This is a 6-credit, client-driven, project-based course offered by the Centre for Educational Technology, focused on designing, building, testing, and documenting educational apps. It combines software engineering, learning design, user research, accessibility, and AI in educatio",
+    "rawContent": "Elective Review\n\nElective name & code: Educational App Design (ET617)\n\nSemester taken: 6th\n\nProfessor: Ramkumar Rajendran\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThis is a 6-credit, client-driven, project-based course offered by the Centre for Educational Technology, focused on designing, building, testing, and documenting educational apps. It combines software engineering, learning design, user research, accessibility, and AI in education, and the main project was building and personalizing an adaptive tutor system. I picked it partly because the professor was good to work with, and it is best suited for those interested in AI/ML and educational technology.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nIt is a practical, hands-on course where the topic is given, but the approach and method are left flexible for the team to decide. It complemented my overall profile well.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nIt is more knowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1-10, 10 being very lenient), and is it easy to score well with consistent effort?\n\nThe grading components are a midsem, an endsem, and a final PDT (project deliverable). I would rate the leniency 7/10. It is easy to score well with consistent effort.\n\nCourse Review\n\nRate 1-10:\n\n1. Teaching quality: 9/10\n\n2. Approachability: 10/10\n\n3. Evaluation fairness: 9/10\n\n4. Exam predictability: 8/10\n\n5. Overall rating: 10/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nThis elective is a great fit for students interested in AI/ML and educational technology who enjoy hands-on project work. The professor is very approachable and good to work with, and teams get a lot of flexibility in how they approach the project. There are no notable red flags.",
     "verbatimSections": [
-      {
-        "heading": "During the call:",
-        "lines": [
-          "\u2022 Type up your notes immediately after the call while memory is fresh/do as you wish I only care about output, also we need really short answers."
-        ]
-      },
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Raj Achliya",
-          "Senior's name: Aryan Kashyap",
-          "Senior's batch/year: 2027",
-          "Date of call: 24/08/2026",
-          "Section(s) covered: All"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -792,7 +622,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1-10:",
           "1. Teaching quality: 9/10",
           "2. Approachability: 10/10",
@@ -817,35 +646,17 @@ export const courseReviews = [
     "difficulty": "Easy",
     "rating": 5,
     "leniency": "8/10",
-    "senior": "Aryan Kashyap",
-    "reviewer": "Raj Achliya",
-    "batch": "2027",
-    "date": "24/08/2026",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {
       "Teaching quality": "8/10",
       "Approachability": "10/10",
       "Evaluation fairness": "10/10",
       "Overall rating": "10/10"
     },
-    "review": "Elective name & code: Learning Analytics and Educational Data Mining (ET610) This course is about using data and machine learning in educational environments to improve learning outcomes, design better curricula, and understand student behavior. Topics range from data preprocessi",
-    "rawContent": "During the call:\n\n\u2022 Type up your notes immediately after the call while memory is fresh/do as you wish I only care about output, also we need really short answers.\n\nCall Details\n\nYour name: Raj Achliya\n\nSenior's name: Aryan Kashyap\n\nSenior's batch/year: 2027\n\nDate of call: 24/08/2026\n\nSection(s) covered: All\n\nElective Review\n\nElective name & code: Learning Analytics and Educational Data Mining (ET610)\n\nSemester taken: 5th\n\nProfessor: Ramkumar Rajendran\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThis course is about using data and machine learning in educational environments to improve learning outcomes, design better curricula, and understand student behavior. Topics range from data preprocessing and descriptive, diagnostic, and predictive analytics to text analytics, social network analysis, and multimodal learning analytics, with most hands-on work done in R. I took it after consulting friends who were also taking it, and it suits anyone interested in AI/ML.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nThe professor was very understanding and gave the team a lot of freedom, and the client-based design format made the learning practical and applied. It helped strengthen my resume, given the applied, client-facing nature of the project.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nIt is a balance of both skill-building and knowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1-10, 10 being very lenient), and is it easy to score well with consistent effort?\n\nThe grading components are client feedback, a final presentation, and team-based project work in 5-member teams, with no midsem or endsem. I would rate the leniency 8/10. It is easy to score well with consistent effort.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1-10:\n\n1. Teaching quality: 8/10\n\n2. Approachability: 10/10\n\n3. Evaluation fairness: 10/10\n\n4. Exam predictability: N/A (no midsem or endsem)\n\n5. Overall rating: 10/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nThis elective is a great choice for anyone interested in AI/ML who prefers project work over exams. The professor is very understanding and approachable, grading is fair, and the client-facing project adds real value to a resume. Students should be comfortable working in R and in 5-member teams.",
+    "review": "This course is about using data and machine learning in educational environments to improve learning outcomes, design better curricula, and understand student behavior. Topics range from data preprocessing and descriptive, diagnostic, and predictive analytics to text analytics, s",
+    "rawContent": "Elective Review\n\nElective name & code: Learning Analytics and Educational Data Mining (ET610)\n\nSemester taken: 5th\n\nProfessor: Ramkumar Rajendran\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThis course is about using data and machine learning in educational environments to improve learning outcomes, design better curricula, and understand student behavior. Topics range from data preprocessing and descriptive, diagnostic, and predictive analytics to text analytics, social network analysis, and multimodal learning analytics, with most hands-on work done in R. I took it after consulting friends who were also taking it, and it suits anyone interested in AI/ML.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nThe professor was very understanding and gave the team a lot of freedom, and the client-based design format made the learning practical and applied. It helped strengthen my resume, given the applied, client-facing nature of the project.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nIt is a balance of both skill-building and knowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1-10, 10 being very lenient), and is it easy to score well with consistent effort?\n\nThe grading components are client feedback, a final presentation, and team-based project work in 5-member teams, with no midsem or endsem. I would rate the leniency 8/10. It is easy to score well with consistent effort.\n\nCourse Review\n\nRate 1-10:\n\n1. Teaching quality: 8/10\n\n2. Approachability: 10/10\n\n3. Evaluation fairness: 10/10\n\n4. Exam predictability: N/A (no midsem or endsem)\n\n5. Overall rating: 10/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nThis elective is a great choice for anyone interested in AI/ML who prefers project work over exams. The professor is very understanding and approachable, grading is fair, and the client-facing project adds real value to a resume. Students should be comfortable working in R and in 5-member teams.",
     "verbatimSections": [
-      {
-        "heading": "During the call:",
-        "lines": [
-          "\u2022 Type up your notes immediately after the call while memory is fresh/do as you wish I only care about output, also we need really short answers."
-        ]
-      },
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Raj Achliya",
-          "Senior's name: Aryan Kashyap",
-          "Senior's batch/year: 2027",
-          "Date of call: 24/08/2026",
-          "Section(s) covered: All"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -880,7 +691,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1-10:",
           "1. Teaching quality: 8/10",
           "2. Approachability: 10/10",
@@ -905,24 +715,12 @@ export const courseReviews = [
     "difficulty": "Easy",
     "rating": 5,
     "leniency": "8/10",
-    "senior": "Samartha Maheshwari",
-    "reviewer": "Pratham Bagdi",
-    "batch": "2027",
-    "date": "2 September 2026",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {},
-    "review": "Elective name & code: CE420: Concrete Technology The course is about concrete. Taken due to an interest in BMC (Building Materials and Construction). Best suited for students interested in BMC.",
-    "rawContent": "Call Details\n\nYour name: Pratham Bagdi\n\nSenior's name: Samartha Maheshwari\n\nSenior's batch/year: 2027\n\nDate of call: 2 September 2026\n\nSection(s) covered: All\n\nElective Review\n\nElective name & code: CE420: Concrete Technology\n\nSemester taken: 4th\n\nProfessor: Prakash Gopalan\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThe course is about concrete. Taken due to an interest in BMC (Building Materials and Construction). Best suited for students interested in BMC.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nThe course includes a relaxed lab component. Overall a good course. It did not complement the major, BTP, IDP or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: two lab quizzes, midsem, endsem and two theory quizzes, all easy. Grading changed partway through as the professor changed. Leniency: 8/10. An AB is easy with preparation two days before the midsem; starting before the midsem keeps the workload manageable.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality 10/10\n\n2. Approachability 7/10\n\n3. Evaluation fairness 8/10\n\n4. Exam predictability 9/10\n\n5. Overall rating 8/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nA basic course that can be taken as a department elective.",
+    "review": "The course is about concrete. Taken due to an interest in BMC (Building Materials and Construction). Best suited for students interested in BMC.",
+    "rawContent": "Elective Review\n\nElective name & code: CE420: Concrete Technology\n\nSemester taken: 4th\n\nProfessor: Prakash Gopalan\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThe course is about concrete. Taken due to an interest in BMC (Building Materials and Construction). Best suited for students interested in BMC.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nThe course includes a relaxed lab component. Overall a good course. It did not complement the major, BTP, IDP or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: two lab quizzes, midsem, endsem and two theory quizzes, all easy. Grading changed partway through as the professor changed. Leniency: 8/10. An AB is easy with preparation two days before the midsem; starting before the midsem keeps the workload manageable.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality 10/10\n\n2. Approachability 7/10\n\n3. Evaluation fairness 8/10\n\n4. Exam predictability 9/10\n\n5. Overall rating 8/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nA basic course that can be taken as a department elective.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Pratham Bagdi",
-          "Senior's name: Samartha Maheshwari",
-          "Senior's batch/year: 2027",
-          "Date of call: 2 September 2026",
-          "Section(s) covered: All"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -957,7 +755,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality 10/10",
           "2. Approachability 7/10",
@@ -982,24 +779,12 @@ export const courseReviews = [
     "difficulty": "Easy",
     "rating": 5,
     "leniency": "10/10",
-    "senior": "Vivaan Jain",
-    "reviewer": "Pratham Bagdi",
-    "batch": "2027",
-    "date": "3 September 2026",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {},
-    "review": "Elective name & code: CE488: Environmental Geotechnics The course covers how the environment is affected by geotechnical factors. Picked partly for the grading. Best suited for students seeking research and networking opportunities.",
-    "rawContent": "Call Details\n\nYour name: Pratham Bagdi\n\nSenior's name: Vivaan Jain\n\nSenior's batch/year: 2027\n\nDate of call: 3 September 2026\n\nSection(s) covered: All\n\nElective Review\n\nElective name & code: CE488: Environmental Geotechnics\n\nSemester taken: 6th\n\nProfessor: Devendra Narain Singh\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThe course covers how the environment is affected by geotechnical factors. Picked partly for the grading. Best suited for students seeking research and networking opportunities.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nLearned to prepare one's own notes. The course sits at the intersection of soil, environment and forests. It complemented the major, BTP, IDP or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening, and useful for core skill-building.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: endsem and CP, with a good question expected in every class. Leniency: 10/10. As no slides or notes are provided, scoring well requires attentiveness and active participation in class.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality 7/10\n\n2. Approachability 9/10\n\n3. Evaluation fairness 9/10\n\n4. Exam predictability 5/10\n\n5. Overall rating 7/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nMake your own notes and maintain a good rapport with the professor.",
+    "review": "The course covers how the environment is affected by geotechnical factors. Picked partly for the grading. Best suited for students seeking research and networking opportunities.",
+    "rawContent": "Elective Review\n\nElective name & code: CE488: Environmental Geotechnics\n\nSemester taken: 6th\n\nProfessor: Devendra Narain Singh\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThe course covers how the environment is affected by geotechnical factors. Picked partly for the grading. Best suited for students seeking research and networking opportunities.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nLearned to prepare one's own notes. The course sits at the intersection of soil, environment and forests. It complemented the major, BTP, IDP or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening, and useful for core skill-building.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: endsem and CP, with a good question expected in every class. Leniency: 10/10. As no slides or notes are provided, scoring well requires attentiveness and active participation in class.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality 7/10\n\n2. Approachability 9/10\n\n3. Evaluation fairness 9/10\n\n4. Exam predictability 5/10\n\n5. Overall rating 7/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nMake your own notes and maintain a good rapport with the professor.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Pratham Bagdi",
-          "Senior's name: Vivaan Jain",
-          "Senior's batch/year: 2027",
-          "Date of call: 3 September 2026",
-          "Section(s) covered: All"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -1034,7 +819,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality 7/10",
           "2. Approachability 9/10",
@@ -1059,24 +843,12 @@ export const courseReviews = [
     "difficulty": "Easy",
     "rating": 5,
     "leniency": "8/10",
-    "senior": "Vivaan Jain",
-    "reviewer": "Pratham Bagdi",
-    "batch": "2027",
-    "date": "3 September 2026",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {},
-    "review": "Elective name & code: CE725: Construction Finance The course covers corporate management concepts such as opportunity costs, with a focus on the economics of civil projects and finance. Picked out of interest in finance and its applications. Best suited for students genuinely int",
-    "rawContent": "Call Details\n\nYour name: Pratham Bagdi\n\nSenior's name: Vivaan Jain\n\nSenior's batch/year: 2027\n\nDate of call: 3 September 2026\n\nSection(s) covered: All\n\nElective Review\n\nElective name & code: CE725: Construction Finance\n\nSemester taken: 5th\n\nProfessor: Venkatesh Delhi\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThe course covers corporate management concepts such as opportunity costs, with a focus on the economics of civil projects and finance. Picked out of interest in finance and its applications. Best suited for students genuinely interested in the economics of civil projects and finance, rather than a generic finance elective.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nGained a better understanding of project finance and how it intersects with civil projects in practice. It did not complement the major, BTP, IDP or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: midsem, endsem, CP and projects. Leniency: 8/10. A BB or AB is easy with preparation two days in advance.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality 7.5/10\n\n2. Approachability 10/10\n\n3. Evaluation fairness 9/10\n\n4. Exam predictability 7/10\n\n5. Overall rating 8/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nRecommended for students interested in civil project economics. Minor red flag: a slot clash, though course materials are available.",
+    "review": "The course covers corporate management concepts such as opportunity costs, with a focus on the economics of civil projects and finance. Picked out of interest in finance and its applications. Best suited for students genuinely interested in the economics of civil projects and fin",
+    "rawContent": "Elective Review\n\nElective name & code: CE725: Construction Finance\n\nSemester taken: 5th\n\nProfessor: Venkatesh Delhi\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThe course covers corporate management concepts such as opportunity costs, with a focus on the economics of civil projects and finance. Picked out of interest in finance and its applications. Best suited for students genuinely interested in the economics of civil projects and finance, rather than a generic finance elective.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nGained a better understanding of project finance and how it intersects with civil projects in practice. It did not complement the major, BTP, IDP or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: midsem, endsem, CP and projects. Leniency: 8/10. A BB or AB is easy with preparation two days in advance.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality 7.5/10\n\n2. Approachability 10/10\n\n3. Evaluation fairness 9/10\n\n4. Exam predictability 7/10\n\n5. Overall rating 8/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nRecommended for students interested in civil project economics. Minor red flag: a slot clash, though course materials are available.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Pratham Bagdi",
-          "Senior's name: Vivaan Jain",
-          "Senior's batch/year: 2027",
-          "Date of call: 3 September 2026",
-          "Section(s) covered: All"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -1111,7 +883,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality 7.5/10",
           "2. Approachability 10/10",
@@ -1136,24 +907,12 @@ export const courseReviews = [
     "difficulty": "Easy",
     "rating": 5,
     "leniency": "9/10",
-    "senior": "Samartha Maheshwari",
-    "reviewer": "Pratham Bagdi",
-    "batch": "2027",
-    "date": "2 September 2026",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {},
-    "review": "Elective name & code: CE742: Pavement Systems Engineering The course is about roads and pavement systems. Taken for the grading and professor reviews. Best suited for students with a genuine interest in transport and urban planning.",
-    "rawContent": "Call Details\n\nYour name: Pratham Bagdi\n\nSenior's name: Samartha Maheshwari\n\nSenior's batch/year: 2027\n\nDate of call: 2 September 2026\n\nSection(s) covered: All\n\nElective Review\n\nElective name & code: CE742: Pavement Systems Engineering\n\nSemester taken: 5th\n\nProfessor: Dharamveer Singh\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThe course is about roads and pavement systems. Taken for the grading and professor reviews. Best suited for students with a genuine interest in transport and urban planning.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nLearned about roads and transport-related material. It did not complement the major, BTP, IDP or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: midsem (case-based and difficult) and endsem (easy, largely based on CP). Formulas are provided, but familiarity with them is required. Leniency: 9/10. An AA is achievable with preparation two days in advance and full CP marks.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality 8/10\n\n2. Approachability 9/10\n\n3. Evaluation fairness 10/10\n\n4. Exam predictability 7/10\n\n5. Overall rating 9/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nRecommended for students interested in transport. The midsem is difficult, while the endsem is easy.",
+    "review": "The course is about roads and pavement systems. Taken for the grading and professor reviews. Best suited for students with a genuine interest in transport and urban planning.",
+    "rawContent": "Elective Review\n\nElective name & code: CE742: Pavement Systems Engineering\n\nSemester taken: 5th\n\nProfessor: Dharamveer Singh\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThe course is about roads and pavement systems. Taken for the grading and professor reviews. Best suited for students with a genuine interest in transport and urban planning.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nLearned about roads and transport-related material. It did not complement the major, BTP, IDP or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: midsem (case-based and difficult) and endsem (easy, largely based on CP). Formulas are provided, but familiarity with them is required. Leniency: 9/10. An AA is achievable with preparation two days in advance and full CP marks.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality 8/10\n\n2. Approachability 9/10\n\n3. Evaluation fairness 10/10\n\n4. Exam predictability 7/10\n\n5. Overall rating 9/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nRecommended for students interested in transport. The midsem is difficult, while the endsem is easy.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Pratham Bagdi",
-          "Senior's name: Samartha Maheshwari",
-          "Senior's batch/year: 2027",
-          "Date of call: 2 September 2026",
-          "Section(s) covered: All"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -1188,7 +947,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality 8/10",
           "2. Approachability 9/10",
@@ -1213,24 +971,12 @@ export const courseReviews = [
     "difficulty": "Medium",
     "rating": 4,
     "leniency": "7/10",
-    "senior": "Vivaan Jain",
-    "reviewer": "Pratham Bagdi",
-    "batch": "2027",
-    "date": "3 September 2026",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {},
-    "review": "Elective name & code: CE751: Urban Transport Planning The course is technical, covering optimisation and transport systems. Picked purely for the grading. Best suited for students interested in transport.",
-    "rawContent": "Call Details\n\nYour name: Pratham Bagdi\n\nSenior's name: Vivaan Jain\n\nSenior's batch/year: 2027\n\nDate of call: 3 September 2026\n\nSection(s) covered: All\n\nElective Review\n\nElective name & code: CE751: Urban Transport Planning\n\nSemester taken: 5th\n\nProfessor: Kurra Venkata Reddy\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThe course is technical, covering optimisation and transport systems. Picked purely for the grading. Best suited for students interested in transport.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nKey takeaways not specified. It complemented the major, BTP, IDP or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: midsem, endsem, assignments, quizzes and CP. Leniency: 7/10. A BB or AB is achievable.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality 8/10\n\n2. Approachability 8/10\n\n3. Evaluation fairness 9/10\n\n4. Exam predictability 5/10\n\n5. Overall rating 8/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nNot specified.",
+    "review": "The course is technical, covering optimisation and transport systems. Picked purely for the grading. Best suited for students interested in transport.",
+    "rawContent": "Elective Review\n\nElective name & code: CE751: Urban Transport Planning\n\nSemester taken: 5th\n\nProfessor: Kurra Venkata Reddy\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThe course is technical, covering optimisation and transport systems. Picked purely for the grading. Best suited for students interested in transport.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nKey takeaways not specified. It complemented the major, BTP, IDP or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: midsem, endsem, assignments, quizzes and CP. Leniency: 7/10. A BB or AB is achievable.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality 8/10\n\n2. Approachability 8/10\n\n3. Evaluation fairness 9/10\n\n4. Exam predictability 5/10\n\n5. Overall rating 8/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nNot specified.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Pratham Bagdi",
-          "Senior's name: Vivaan Jain",
-          "Senior's batch/year: 2027",
-          "Date of call: 3 September 2026",
-          "Section(s) covered: All"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -1265,7 +1011,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality 8/10",
           "2. Approachability 8/10",
@@ -1290,24 +1035,12 @@ export const courseReviews = [
     "difficulty": "Hard",
     "rating": 4,
     "leniency": "5/10",
-    "senior": "Samartha Maheshwari",
-    "reviewer": "Pratham Bagdi",
-    "batch": "2027",
-    "date": "2 September 2026",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {},
-    "review": "Elective name & code: CE761: Blast Resistance Structures The course covers the calculation of blast loads and the use of software for design analysis. Taken out of interest in structures, though not recommended for that reason alone. Best suited for students interested in structu",
-    "rawContent": "Call Details\n\nYour name: Pratham Bagdi\n\nSenior's name: Samartha Maheshwari\n\nSenior's batch/year: 2027\n\nDate of call: 2 September 2026\n\nSection(s) covered: All\n\nElective Review\n\nElective name & code: CE761: Blast Resistance Structures\n\nSemester taken: 6th\n\nProfessor: Manish Kumar\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThe course covers the calculation of blast loads and the use of software for design analysis. Taken out of interest in structures, though not recommended for that reason alone. Best suited for students interested in structural design who are comfortable with graph-based work.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nLearned blast load design, single-DOF analysis and relevant software. It did not complement the major, BTP, IDP or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nBoth skill-building and knowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: midsem, endsem and assignments, with difficult exams. Leniency: 5/10. Scoring well requires consistent effort, including practice at home; attending classes alone is not sufficient.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality 7/10\n\n2. Approachability 7/10\n\n3. Evaluation fairness 7/10\n\n4. Exam predictability 5/10\n\n5. Overall rating 7/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nRecommended only for students willing to put in proper effort.",
+    "review": "The course covers the calculation of blast loads and the use of software for design analysis. Taken out of interest in structures, though not recommended for that reason alone. Best suited for students interested in structural design who are comfortable with graph-based work.",
+    "rawContent": "Elective Review\n\nElective name & code: CE761: Blast Resistance Structures\n\nSemester taken: 6th\n\nProfessor: Manish Kumar\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThe course covers the calculation of blast loads and the use of software for design analysis. Taken out of interest in structures, though not recommended for that reason alone. Best suited for students interested in structural design who are comfortable with graph-based work.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nLearned blast load design, single-DOF analysis and relevant software. It did not complement the major, BTP, IDP or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nBoth skill-building and knowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: midsem, endsem and assignments, with difficult exams. Leniency: 5/10. Scoring well requires consistent effort, including practice at home; attending classes alone is not sufficient.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality 7/10\n\n2. Approachability 7/10\n\n3. Evaluation fairness 7/10\n\n4. Exam predictability 5/10\n\n5. Overall rating 7/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nRecommended only for students willing to put in proper effort.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Pratham Bagdi",
-          "Senior's name: Samartha Maheshwari",
-          "Senior's batch/year: 2027",
-          "Date of call: 2 September 2026",
-          "Section(s) covered: All"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -1342,7 +1075,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality 7/10",
           "2. Approachability 7/10",
@@ -1367,24 +1099,12 @@ export const courseReviews = [
     "difficulty": "Easy",
     "rating": 5,
     "leniency": "94/10",
-    "senior": "Jinay Vora",
-    "reviewer": "Pratham Bagdi",
-    "batch": "2027",
-    "date": "3 September 2026",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {},
-    "review": "Elective name & code: CE776: Transport Project Evaluation and Decision Making The course covers generic, beginner-friendly economics concepts with no civil engineering significance. Picked for the lenient grading. Open to all students.",
-    "rawContent": "Call Details\n\nYour name: Pratham Bagdi\n\nSenior's name: Jinay Vora\n\nSenior's batch/year: 2027\n\nDate of call: 3 September 2026\n\nSection(s) covered: All\n\nElective Review\n\nElective name & code: CE776: Transport Project Evaluation and Decision Making\n\nSemester taken: 6th\n\nProfessor: Perumal Vedagiri\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThe course covers generic, beginner-friendly economics concepts with no civil engineering significance. Picked for the lenient grading. Open to all students.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nMany concepts used in finance are taught. It ties into internship-relevant finance concepts.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: midsem (40), endsem (40) and in-class assignments (20), with a DX bonus. Exams are very easy (94/100 for AA). Attendance is required for CP. Leniency: 10/10. An AB is easy with preparation two days in advance.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality 9.5/10\n\n2. Approachability 10/10\n\n3. Evaluation fairness 9/10\n\n4. Exam predictability 9.5/10\n\n5. Overall rating 10/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nOpen to all students. Exams are easy, but attendance is required for CP.",
+    "review": "The course covers generic, beginner-friendly economics concepts with no civil engineering significance. Picked for the lenient grading. Open to all students.",
+    "rawContent": "Elective Review\n\nElective name & code: CE776: Transport Project Evaluation and Decision Making\n\nSemester taken: 6th\n\nProfessor: Perumal Vedagiri\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThe course covers generic, beginner-friendly economics concepts with no civil engineering significance. Picked for the lenient grading. Open to all students.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nMany concepts used in finance are taught. It ties into internship-relevant finance concepts.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: midsem (40), endsem (40) and in-class assignments (20), with a DX bonus. Exams are very easy (94/100 for AA). Attendance is required for CP. Leniency: 10/10. An AB is easy with preparation two days in advance.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality 9.5/10\n\n2. Approachability 10/10\n\n3. Evaluation fairness 9/10\n\n4. Exam predictability 9.5/10\n\n5. Overall rating 10/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nOpen to all students. Exams are easy, but attendance is required for CP.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Pratham Bagdi",
-          "Senior's name: Jinay Vora",
-          "Senior's batch/year: 2027",
-          "Date of call: 3 September 2026",
-          "Section(s) covered: All"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -1419,7 +1139,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality 9.5/10",
           "2. Approachability 10/10",
@@ -1444,24 +1163,12 @@ export const courseReviews = [
     "difficulty": "Medium",
     "rating": 4,
     "leniency": "7/10",
-    "senior": "Vivaan Jain",
-    "reviewer": "Pratham Bagdi",
-    "batch": "2027",
-    "date": "3 September 2026",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {},
-    "review": "Elective name & code: CE776: Transport Project The course sits at the intersection of transport and finance. Picked out of interest in economics. Open to all students, particularly those interested in economics.",
-    "rawContent": "Call Details\n\nYour name: Pratham Bagdi\n\nSenior's name: Vivaan Jain\n\nSenior's batch/year: 2027\n\nDate of call: 3 September 2026\n\nSection(s) covered: All\n\nElective Review\n\nElective name & code: CE776: Transport Project\n\nSemester taken: 6th\n\nProfessor: Perumal Vedagiri\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThe course sits at the intersection of transport and finance. Picked out of interest in economics. Open to all students, particularly those interested in economics.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nLearned how project evaluation works, the choices available and how to monetise projects. It complemented the major, BTP, IDP or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: midsem, endsem and CP in a 40:40:20 split. Leniency: 7/10. The course is easy and high-scoring, but requires memorisation and depends largely on effort.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality 8.5/10\n\n2. Approachability 9/10\n\n3. Evaluation fairness 6/10\n\n4. Exam predictability 9/10\n\n5. Overall rating 8/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nOpen to all students. Consistent preparation is required, as the course involves memorisation.",
+    "review": "The course sits at the intersection of transport and finance. Picked out of interest in economics. Open to all students, particularly those interested in economics.",
+    "rawContent": "Elective Review\n\nElective name & code: CE776: Transport Project\n\nSemester taken: 6th\n\nProfessor: Perumal Vedagiri\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThe course sits at the intersection of transport and finance. Picked out of interest in economics. Open to all students, particularly those interested in economics.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nLearned how project evaluation works, the choices available and how to monetise projects. It complemented the major, BTP, IDP or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: midsem, endsem and CP in a 40:40:20 split. Leniency: 7/10. The course is easy and high-scoring, but requires memorisation and depends largely on effort.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality 8.5/10\n\n2. Approachability 9/10\n\n3. Evaluation fairness 6/10\n\n4. Exam predictability 9/10\n\n5. Overall rating 8/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nOpen to all students. Consistent preparation is required, as the course involves memorisation.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Pratham Bagdi",
-          "Senior's name: Vivaan Jain",
-          "Senior's batch/year: 2027",
-          "Date of call: 3 September 2026",
-          "Section(s) covered: All"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -1496,7 +1203,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality 8.5/10",
           "2. Approachability 9/10",
@@ -1521,24 +1227,12 @@ export const courseReviews = [
     "difficulty": "Easy",
     "rating": 5,
     "leniency": "8/10",
-    "senior": "Vivaan Jain",
-    "reviewer": "Pratham Bagdi",
-    "batch": "2027",
-    "date": "3 September 2026",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {},
-    "review": "Elective name & code: DH304: Digital Healthcare A theoretical course on healthcare, feasibility, technical aspects, insurance and related topics. Picked with the intent of completing a minor. Best suited for students interested in healthcare, biostatistics and health informatics.",
-    "rawContent": "Call Details\n\nYour name: Pratham Bagdi\n\nSenior's name: Vivaan Jain\n\nSenior's batch/year: 2027\n\nDate of call: 3 September 2026\n\nSection(s) covered: All\n\nElective Review\n\nElective name & code: DH304: Digital Healthcare\n\nSemester taken: 6th\n\nProfessor: Souvik Banerjee\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nA theoretical course on healthcare, feasibility, technical aspects, insurance and related topics. Picked with the intent of completing a minor. Best suited for students interested in healthcare, biostatistics and health informatics.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nLearned about health insurance and the models used in healthcare; the project is of good quality. It did not complement the major, BTP, IDP or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: midsem, endsem, project and attendance. Leniency: 8/10. An AB is easy with consistent effort.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality 8/10\n\n2. Approachability 10/10\n\n3. Evaluation fairness 8/10\n\n4. Exam predictability 9/10\n\n5. Overall rating 8/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nSuitable for students interested in healthcare and health informatics.",
+    "review": "A theoretical course on healthcare, feasibility, technical aspects, insurance and related topics. Picked with the intent of completing a minor. Best suited for students interested in healthcare, biostatistics and health informatics.",
+    "rawContent": "Elective Review\n\nElective name & code: DH304: Digital Healthcare\n\nSemester taken: 6th\n\nProfessor: Souvik Banerjee\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nA theoretical course on healthcare, feasibility, technical aspects, insurance and related topics. Picked with the intent of completing a minor. Best suited for students interested in healthcare, biostatistics and health informatics.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nLearned about health insurance and the models used in healthcare; the project is of good quality. It did not complement the major, BTP, IDP or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: midsem, endsem, project and attendance. Leniency: 8/10. An AB is easy with consistent effort.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality 8/10\n\n2. Approachability 10/10\n\n3. Evaluation fairness 8/10\n\n4. Exam predictability 9/10\n\n5. Overall rating 8/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nSuitable for students interested in healthcare and health informatics.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Pratham Bagdi",
-          "Senior's name: Vivaan Jain",
-          "Senior's batch/year: 2027",
-          "Date of call: 3 September 2026",
-          "Section(s) covered: All"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -1573,7 +1267,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality 8/10",
           "2. Approachability 10/10",
@@ -1598,24 +1291,12 @@ export const courseReviews = [
     "difficulty": "Easy",
     "rating": 5,
     "leniency": "8/10",
-    "senior": "Samartha Maheshwari",
-    "reviewer": "Pratham Bagdi",
-    "batch": "2027",
-    "date": "2 September 2026",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {},
-    "review": "Elective name & code: TD643: Design of Bamboo Structures (STEM elective) The course is primarily about bamboo as a structural material. Taken for the grading and the potential value of the structural knowledge. Best suited for students who prioritise grading over deep interest in",
-    "rawContent": "Call Details\n\nYour name: Pratham Bagdi\n\nSenior's name: Samartha Maheshwari\n\nSenior's batch/year: 2027\n\nDate of call: 2 September 2026\n\nSection(s) covered: All\n\nElective Review\n\nElective name & code: TD643: Design of Bamboo Structures (STEM elective)\n\nSemester taken: 6th\n\nProfessor: Chaaruchandra Korde\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThe course is primarily about bamboo as a structural material. Taken for the grading and the potential value of the structural knowledge. Best suited for students who prioritise grading over deep interest in the subject.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nKey takeaways not specified. It did not complement the major, BTP, IDP or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: surprise quizzes, midsem, endsem and assignments of medium difficulty. Leniency: 8/10. An AB+ is easy with preparation two days in advance.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality 5/10\n\n2. Approachability 7/10\n\n3. Evaluation fairness 7/10\n\n4. Exam predictability 6/10\n\n5. Overall rating 7/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nA relaxed course with lenient grading and easy proxy attendance. Suitable for students seeking a low-effort elective.",
+    "review": "The course is primarily about bamboo as a structural material. Taken for the grading and the potential value of the structural knowledge. Best suited for students who prioritise grading over deep interest in the subject.",
+    "rawContent": "Elective Review\n\nElective name & code: TD643: Design of Bamboo Structures (STEM elective)\n\nSemester taken: 6th\n\nProfessor: Chaaruchandra Korde\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThe course is primarily about bamboo as a structural material. Taken for the grading and the potential value of the structural knowledge. Best suited for students who prioritise grading over deep interest in the subject.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nKey takeaways not specified. It did not complement the major, BTP, IDP or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: surprise quizzes, midsem, endsem and assignments of medium difficulty. Leniency: 8/10. An AB+ is easy with preparation two days in advance.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality 5/10\n\n2. Approachability 7/10\n\n3. Evaluation fairness 7/10\n\n4. Exam predictability 6/10\n\n5. Overall rating 7/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nA relaxed course with lenient grading and easy proxy attendance. Suitable for students seeking a low-effort elective.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Pratham Bagdi",
-          "Senior's name: Samartha Maheshwari",
-          "Senior's batch/year: 2027",
-          "Date of call: 2 September 2026",
-          "Section(s) covered: All"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -1650,7 +1331,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality 5/10",
           "2. Approachability 7/10",
@@ -1675,24 +1355,12 @@ export const courseReviews = [
     "difficulty": "Easy",
     "rating": 5,
     "leniency": "9/10",
-    "senior": "Bhumi Sharma",
-    "reviewer": "Rishabh Jain",
-    "batch": "2027",
-    "date": "Not stated",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {},
-    "review": "Elective name & code: CE324: Engineering Law Professor: Milind S. Wankhede & Ravi Sinha",
-    "rawContent": "Call Details\n\nYour name: Rishabh Jain\n\nSenior's name: Bhumi Sharma\n\nSenior's batch/year: 2027\n\nDate of call: Not stated\n\nSection(s) covered: Elective Review\n\nElective Review\n\nElective name & code: CE324: Engineering Law\n\nSemester taken: 5th\n\nProfessor: Milind S. Wankhede & Ravi Sinha\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThe course covers construction-related legal contracts, contract structure, arbitration and basic legal terminology. It was chosen for its link to core civil and construction topics. Best suited for civil engineering students interested in contracts, legal basics and arbitration.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nProvides a clear understanding of how contracts are structured and how arbitration works, which helps in following real-world legal cases and news. It did not directly complement the major, BTP, IDP or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nSkill-building.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: midsem, endsem and a mock arbitration presentation/case exercise. Leniency: approximately 8.5\u20139/10. Scoring well depends mainly on memorizing the legal sections and contracts; with thorough memorization, scores of 95\u2013100 are achievable.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality 9.5/10 (clarity 9.5; lecture engagement 9)\n\n2. Approachability 9/10\n\n3. Evaluation fairness 9/10\n\n4. Exam predictability 9/10\n\n5. Overall rating 9/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nRecommended for students comfortable with memorization who want a practical grounding in engineering law. Pleasant surprise: scoring is very easy.",
+    "review": "The course covers construction-related legal contracts, contract structure, arbitration and basic legal terminology. It was chosen for its link to core civil and construction topics. Best suited for civil engineering students interested in contracts, legal basics and arbitration.",
+    "rawContent": "Elective Review\n\nElective name & code: CE324: Engineering Law\n\nSemester taken: 5th\n\nProfessor: Milind S. Wankhede & Ravi Sinha\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThe course covers construction-related legal contracts, contract structure, arbitration and basic legal terminology. It was chosen for its link to core civil and construction topics. Best suited for civil engineering students interested in contracts, legal basics and arbitration.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nProvides a clear understanding of how contracts are structured and how arbitration works, which helps in following real-world legal cases and news. It did not directly complement the major, BTP, IDP or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nSkill-building.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: midsem, endsem and a mock arbitration presentation/case exercise. Leniency: approximately 8.5\u20139/10. Scoring well depends mainly on memorizing the legal sections and contracts; with thorough memorization, scores of 95\u2013100 are achievable.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality 9.5/10 (clarity 9.5; lecture engagement 9)\n\n2. Approachability 9/10\n\n3. Evaluation fairness 9/10\n\n4. Exam predictability 9/10\n\n5. Overall rating 9/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nRecommended for students comfortable with memorization who want a practical grounding in engineering law. Pleasant surprise: scoring is very easy.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Rishabh Jain",
-          "Senior's name: Bhumi Sharma",
-          "Senior's batch/year: 2027",
-          "Date of call: Not stated",
-          "Section(s) covered: Elective Review"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -1727,7 +1395,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality 9.5/10 (clarity 9.5; lecture engagement 9)",
           "2. Approachability 9/10",
@@ -1752,24 +1419,12 @@ export const courseReviews = [
     "difficulty": "Easy",
     "rating": 5,
     "leniency": "9/10",
-    "senior": "Ritika Bhadrecha",
-    "reviewer": "Rishabh Jain",
-    "batch": "2027",
-    "date": "Not stated",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {},
-    "review": "Elective name & code: CE3618: Advanced Structural Design The course focuses on steel design and advanced structural design, in contrast to the RCC-heavy core structural courses. It was chosen out of interest in structural engineering and design. Best suited for students intereste",
-    "rawContent": "Call Details\n\nYour name: Rishabh Jain\n\nSenior's name: Ritika Bhadrecha\n\nSenior's batch/year: 2027\n\nDate of call: Not stated\n\nSection(s) covered: Elective Review\n\nElective Review\n\nElective name & code: CE3618: Advanced Structural Design\n\nSemester taken: 6th\n\nProfessor: Siddhartha Ghosh\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThe course focuses on steel design and advanced structural design, in contrast to the RCC-heavy core structural courses. It was chosen out of interest in structural engineering and design. Best suited for students interested in structural engineering.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nDevelops steel design concepts and a more advanced view of structural design. It directly helped during the internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nSkill-building.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: tutorial marks and midsem. Leniency: 9/10. Scoring well is fairly easy: most exam questions come from solved class and tutorial problems, so regular attendance and practice are sufficient.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality 9/10 (clarity 9; lecture engagement 9)\n\n2. Approachability 8/10\n\n3. Evaluation fairness 9/10\n\n4. Exam predictability 10/10\n\n5. Overall rating 9/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nA good elective for structural engineering students. Exams are highly predictable, and the workload is moderate if you keep up with tutorials.",
+    "review": "The course focuses on steel design and advanced structural design, in contrast to the RCC-heavy core structural courses. It was chosen out of interest in structural engineering and design. Best suited for students interested in structural engineering.",
+    "rawContent": "Elective Review\n\nElective name & code: CE3618: Advanced Structural Design\n\nSemester taken: 6th\n\nProfessor: Siddhartha Ghosh\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThe course focuses on steel design and advanced structural design, in contrast to the RCC-heavy core structural courses. It was chosen out of interest in structural engineering and design. Best suited for students interested in structural engineering.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nDevelops steel design concepts and a more advanced view of structural design. It directly helped during the internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nSkill-building.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: tutorial marks and midsem. Leniency: 9/10. Scoring well is fairly easy: most exam questions come from solved class and tutorial problems, so regular attendance and practice are sufficient.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality 9/10 (clarity 9; lecture engagement 9)\n\n2. Approachability 8/10\n\n3. Evaluation fairness 9/10\n\n4. Exam predictability 10/10\n\n5. Overall rating 9/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nA good elective for structural engineering students. Exams are highly predictable, and the workload is moderate if you keep up with tutorials.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Rishabh Jain",
-          "Senior's name: Ritika Bhadrecha",
-          "Senior's batch/year: 2027",
-          "Date of call: Not stated",
-          "Section(s) covered: Elective Review"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -1804,7 +1459,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality 9/10 (clarity 9; lecture engagement 9)",
           "2. Approachability 8/10",
@@ -1829,24 +1483,12 @@ export const courseReviews = [
     "difficulty": "Medium",
     "rating": 4,
     "leniency": "7/10",
-    "senior": "Dunggam Gao",
-    "reviewer": "Rishabh Jain",
-    "batch": "2027",
-    "date": "30 August 2026",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {},
-    "review": "Section(s) covered: Electives and honours courses Elective name & code: CE3618: Advanced Structural Design",
-    "rawContent": "Call Details\n\nYour name: Rishabh Jain\n\nSenior's name: Dunggam Gao\n\nSenior's batch/year: 2027\n\nDate of call: 30 August 2026\n\nSection(s) covered: Electives and honours courses\n\nElective Review\n\nElective name & code: CE3618: Advanced Structural Design\n\nSemester taken: 6th\n\nProfessor: Siddharth Ghosh\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nDespite its title, this is essentially a steel design course, covering design philosophy, bolted and welded connections, and tension and compression members. Best suited for students interested in structural design and steel structures.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nBuilds the ability to understand and design basic steel structural elements and connections. No direct link to BTP, IDP or internship was reported, though it may help in a future steel-design internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nMostly knowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: uncertain. Tutorial submissions (10%) and midsem were confirmed; quizzes and endsem were initially mentioned, but the presence of quizzes was later doubted. Leniency: Not stated. Tutorial questions strongly inform the exams, so following tutorials and interacting with the professor helps.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality 7/10 (clarity 7; lecture engagement 7)\n\n2. Approachability 9/10\n\n3. Evaluation fairness 9/10\n\n4. Exam predictability 9/10\n\n5. Overall rating 8/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nRecommended, especially for students interested in steel and structural design.",
+    "review": "Despite its title, this is essentially a steel design course, covering design philosophy, bolted and welded connections, and tension and compression members. Best suited for students interested in structural design and steel structures.",
+    "rawContent": "Elective Review\n\nElective name & code: CE3618: Advanced Structural Design\n\nSemester taken: 6th\n\nProfessor: Siddharth Ghosh\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nDespite its title, this is essentially a steel design course, covering design philosophy, bolted and welded connections, and tension and compression members. Best suited for students interested in structural design and steel structures.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nBuilds the ability to understand and design basic steel structural elements and connections. No direct link to BTP, IDP or internship was reported, though it may help in a future steel-design internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nMostly knowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: uncertain. Tutorial submissions (10%) and midsem were confirmed; quizzes and endsem were initially mentioned, but the presence of quizzes was later doubted. Leniency: Not stated. Tutorial questions strongly inform the exams, so following tutorials and interacting with the professor helps.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality 7/10 (clarity 7; lecture engagement 7)\n\n2. Approachability 9/10\n\n3. Evaluation fairness 9/10\n\n4. Exam predictability 9/10\n\n5. Overall rating 8/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nRecommended, especially for students interested in steel and structural design.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Rishabh Jain",
-          "Senior's name: Dunggam Gao",
-          "Senior's batch/year: 2027",
-          "Date of call: 30 August 2026",
-          "Section(s) covered: Electives and honours courses"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -1881,7 +1523,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality 7/10 (clarity 7; lecture engagement 7)",
           "2. Approachability 9/10",
@@ -1906,26 +1547,14 @@ export const courseReviews = [
     "difficulty": "Easy",
     "rating": 5,
     "leniency": "8/10",
-    "senior": "Ritika Bhadrecha",
-    "reviewer": "Rishabh Jain",
-    "batch": "2027",
-    "date": "Not stated",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {
       "Teaching quality Swati": "10/10"
     },
-    "review": "Elective name & code: CE420: Concrete Technology Professor: Swathi Manohar and Prakash Nanthagopalan",
-    "rawContent": "Call Details\n\nYour name: Rishabh Jain\n\nSenior's name: Ritika Bhadrecha\n\nSenior's batch/year: 2027\n\nDate of call: Not stated\n\nSection(s) covered: Elective Review\n\nElective Review\n\nElective name & code: CE420: Concrete Technology\n\nSemester taken: 4th\n\nProfessor: Swathi Manohar and Prakash Nanthagopalan\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThe course covers concrete, cement, aggregates, mix design and material behaviour. It was chosen to build on the concrete content of Building Materials and Construction. Best suited for students interested in core civil engineering and construction materials; it is theory-heavy with few numericals.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nBuilds an understanding of concrete reactions, material proportioning and mix design. Mix design concepts proved directly useful during the internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening, with some practical exposure through lab work.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: in-class quizzes, lab quizzes, midsem and endsem. Leniency: 8/10. Scoring well is fairly easy with regular attendance; note what the professors emphasize, as many questions come from class discussions rather than the slides alone.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality Swati: 10/10, Prakash: 9/10 (clarity); lecture engagement 9/10\n\n2. Approachability 9/10\n\n3. Evaluation fairness 8/10\n\n4. Exam predictability 8/10\n\n5. Overall rating 8\u20139/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nRecommended for students interested in theory-heavy concrete and materials topics. It demands close attention in class but is manageable and useful.",
+    "review": "The course covers concrete, cement, aggregates, mix design and material behaviour. It was chosen to build on the concrete content of Building Materials and Construction. Best suited for students interested in core civil engineering and construction materials; it is theory-heavy w",
+    "rawContent": "Elective Review\n\nElective name & code: CE420: Concrete Technology\n\nSemester taken: 4th\n\nProfessor: Swathi Manohar and Prakash Nanthagopalan\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThe course covers concrete, cement, aggregates, mix design and material behaviour. It was chosen to build on the concrete content of Building Materials and Construction. Best suited for students interested in core civil engineering and construction materials; it is theory-heavy with few numericals.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nBuilds an understanding of concrete reactions, material proportioning and mix design. Mix design concepts proved directly useful during the internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening, with some practical exposure through lab work.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: in-class quizzes, lab quizzes, midsem and endsem. Leniency: 8/10. Scoring well is fairly easy with regular attendance; note what the professors emphasize, as many questions come from class discussions rather than the slides alone.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality Swati: 10/10, Prakash: 9/10 (clarity); lecture engagement 9/10\n\n2. Approachability 9/10\n\n3. Evaluation fairness 8/10\n\n4. Exam predictability 8/10\n\n5. Overall rating 8\u20139/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nRecommended for students interested in theory-heavy concrete and materials topics. It demands close attention in class but is manageable and useful.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Rishabh Jain",
-          "Senior's name: Ritika Bhadrecha",
-          "Senior's batch/year: 2027",
-          "Date of call: Not stated",
-          "Section(s) covered: Elective Review"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -1960,7 +1589,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality Swati: 10/10, Prakash: 9/10 (clarity); lecture engagement 9/10",
           "2. Approachability 9/10",
@@ -1985,29 +1613,17 @@ export const courseReviews = [
     "difficulty": "Medium",
     "rating": 4,
     "leniency": "7/10",
-    "senior": "Dunggam Gao",
-    "reviewer": "Rishabh Jain",
-    "batch": "2027",
-    "date": "30 August 2026",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {
       "Teaching quality Prakash": "10/10",
       "Approachability Prakash": "7/10",
       "Evaluation fairness Prakash": "9/10",
       "Exam predictability Prakash": "10/10"
     },
-    "review": "Section(s) covered: Electives and honours courses Elective name & code: CE420: Concrete Technology",
-    "rawContent": "Call Details\n\nYour name: Rishabh Jain\n\nSenior's name: Dunggam Gao\n\nSenior's batch/year: Not stated\n\nDate of call: 30 August 2026\n\nSection(s) covered: Electives and honours courses\n\nElective Review\n\nElective name & code: CE420: Concrete Technology\n\nSemester taken: Second year (exact semester not stated)\n\nProfessor: Prakash Nanthagopalan (first half); Swathi Manohar (second half)\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nIntroduces concrete as a construction material: composition, the effects of mix changes, corrosion, sulfate/fluoride attacks and their prevention. It was chosen after developing an interest in the concrete section of Building Materials and Construction. Best suited for students interested in concrete and core civil engineering.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nProvides a strong foundation in concrete materials, mix effects and durability issues. No direct link to BTP, IDP or internship was reported.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nPrimarily knowledge-broadening, with a theoretical focus.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: two quizzes, midsem, a quiz/assignment option and a lab quiz; weightages not recalled. Leniency: 7/10. Exams are not very hard, but some memorization is required; a couple of days of study may be sufficient.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality Prakash: 10/10 (clarity 10; engagement 10); Swathi: 9/10 (clarity 9; engagement 10)\n\n2. Approachability Prakash: 7/10; Swathi: 10/10\n\n3. Evaluation fairness Prakash: 9/10; Swathi: 8/10\n\n4. Exam predictability Prakash: 10/10; Swathi: 10/10\n\n5. Overall rating 10/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nHighly recommended. The main caveat is the amount of memorization and theoretical content.",
+    "review": "Introduces concrete as a construction material: composition, the effects of mix changes, corrosion, sulfate/fluoride attacks and their prevention. It was chosen after developing an interest in the concrete section of Building Materials and Construction. Best suited for students i",
+    "rawContent": "Elective Review\n\nElective name & code: CE420: Concrete Technology\n\nSemester taken: Second year (exact semester not stated)\n\nProfessor: Prakash Nanthagopalan (first half); Swathi Manohar (second half)\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nIntroduces concrete as a construction material: composition, the effects of mix changes, corrosion, sulfate/fluoride attacks and their prevention. It was chosen after developing an interest in the concrete section of Building Materials and Construction. Best suited for students interested in concrete and core civil engineering.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nProvides a strong foundation in concrete materials, mix effects and durability issues. No direct link to BTP, IDP or internship was reported.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nPrimarily knowledge-broadening, with a theoretical focus.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: two quizzes, midsem, a quiz/assignment option and a lab quiz; weightages not recalled. Leniency: 7/10. Exams are not very hard, but some memorization is required; a couple of days of study may be sufficient.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality Prakash: 10/10 (clarity 10; engagement 10); Swathi: 9/10 (clarity 9; engagement 10)\n\n2. Approachability Prakash: 7/10; Swathi: 10/10\n\n3. Evaluation fairness Prakash: 9/10; Swathi: 8/10\n\n4. Exam predictability Prakash: 10/10; Swathi: 10/10\n\n5. Overall rating 10/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nHighly recommended. The main caveat is the amount of memorization and theoretical content.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Rishabh Jain",
-          "Senior's name: Dunggam Gao",
-          "Senior's batch/year: Not stated",
-          "Date of call: 30 August 2026",
-          "Section(s) covered: Electives and honours courses"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -2042,7 +1658,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality Prakash: 10/10 (clarity 10; engagement 10); Swathi: 9/10 (clarity 9; engagement 10)",
           "2. Approachability Prakash: 7/10; Swathi: 10/10",
@@ -2067,24 +1682,12 @@ export const courseReviews = [
     "difficulty": "Hard",
     "rating": 4,
     "leniency": "5/10",
-    "senior": "Dunggam Gao",
-    "reviewer": "Rishabh Jain",
-    "batch": "2027",
-    "date": "30 August 2026",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {},
-    "review": "Section(s) covered: Electives and honours courses Elective name & code: CE448: Pre-stressed Concrete Design (Honours)",
-    "rawContent": "Call Details\n\nYour name: Rishabh Jain\n\nSenior's name: Dunggam Gao\n\nSenior's batch/year: Not stated\n\nDate of call: 30 August 2026\n\nSection(s) covered: Electives and honours courses\n\nElective Review\n\nElective name & code: CE448: Pre-stressed Concrete Design (Honours)\n\nSemester taken: 6th\n\nProfessor: Muhammad Najib Sharif\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nAn honours course extending reinforced-concrete design to pre-stressing: why and how structures are pre-stressed, resulting design changes, materials and related concepts. The content is very broad. Best suited for students interested in core structural engineering, particularly reinforced-concrete design.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nBuilds an understanding of pre-stressed concrete, its materials, design implications and practical applications. Relevant to industry work, as pre-stressed structures such as metro girders are common.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nMostly knowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: quiz 1, midsem, project, quiz 2, endsem and assignments. Leniency: 5/10. This is not a last-minute course: the broad content and many assignments demand consistent effort.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality 5\u20136/10 (clarity 5\u20136; lecture engagement 8)\n\n2. Approachability 8/10\n\n3. Evaluation fairness 7/10\n\n4. Exam predictability 6/10\n\n5. Overall rating 4/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nAvoid unless genuinely interested in structural design. Rated the hardest civil engineering course taken, mainly due to its breadth and workload.",
+    "review": "An honours course extending reinforced-concrete design to pre-stressing: why and how structures are pre-stressed, resulting design changes, materials and related concepts. The content is very broad. Best suited for students interested in core structural engineering, particularly ",
+    "rawContent": "Elective Review\n\nElective name & code: CE448: Pre-stressed Concrete Design (Honours)\n\nSemester taken: 6th\n\nProfessor: Muhammad Najib Sharif\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nAn honours course extending reinforced-concrete design to pre-stressing: why and how structures are pre-stressed, resulting design changes, materials and related concepts. The content is very broad. Best suited for students interested in core structural engineering, particularly reinforced-concrete design.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nBuilds an understanding of pre-stressed concrete, its materials, design implications and practical applications. Relevant to industry work, as pre-stressed structures such as metro girders are common.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nMostly knowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: quiz 1, midsem, project, quiz 2, endsem and assignments. Leniency: 5/10. This is not a last-minute course: the broad content and many assignments demand consistent effort.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality 5\u20136/10 (clarity 5\u20136; lecture engagement 8)\n\n2. Approachability 8/10\n\n3. Evaluation fairness 7/10\n\n4. Exam predictability 6/10\n\n5. Overall rating 4/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nAvoid unless genuinely interested in structural design. Rated the hardest civil engineering course taken, mainly due to its breadth and workload.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Rishabh Jain",
-          "Senior's name: Dunggam Gao",
-          "Senior's batch/year: Not stated",
-          "Date of call: 30 August 2026",
-          "Section(s) covered: Electives and honours courses"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -2119,7 +1722,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality 5\u20136/10 (clarity 5\u20136; lecture engagement 8)",
           "2. Approachability 8/10",
@@ -2144,24 +1746,12 @@ export const courseReviews = [
     "difficulty": "Easy",
     "rating": 5,
     "leniency": "8/10",
-    "senior": "Ritika Bhadrecha",
-    "reviewer": "Rishabh Jain",
-    "batch": "2027",
-    "date": "Not stated",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {},
-    "review": "Elective name & code: CE462: Elements of Structural Dynamics A foundational course for earthquake engineering. It was chosen out of interest in the area and involvement in EERI-related activities. Best suited for students interested in earthquake engineering.",
-    "rawContent": "Call Details\n\nYour name: Rishabh Jain\n\nSenior's name: Ritika Bhadrecha\n\nSenior's batch/year: 2027\n\nDate of call: Not stated\n\nSection(s) covered: Elective Review\n\nElective Review\n\nElective name & code: CE462: Elements of Structural Dynamics\n\nSemester taken: 6th\n\nProfessor: Swagata Basu\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nA foundational course for earthquake engineering. It was chosen out of interest in the area and involvement in EERI-related activities. Best suited for students interested in earthquake engineering.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nBuilds an understanding of structural dynamics concepts and how to apply them in modelling and software work. It did not directly complement the major, BTP, IDP or internship, but supports earthquake engineering learning.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening, with some skill-building.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: quiz 1, quiz 2, midsem and endsem. Leniency: 8/10. Scoring well is moderately easy but requires studying concepts and practising problems; some exam questions are tricky and sensitive to wording.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality 8/10 (clarity 8; lecture engagement 8)\n\n2. Approachability 8/10\n\n3. Evaluation fairness 9/10\n\n4. Exam predictability 8/10\n\n5. Overall rating 8/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nGood for students interested in earthquake engineering. Conceptually useful, but problem-solving requires consistent effort.",
+    "review": "A foundational course for earthquake engineering. It was chosen out of interest in the area and involvement in EERI-related activities. Best suited for students interested in earthquake engineering.",
+    "rawContent": "Elective Review\n\nElective name & code: CE462: Elements of Structural Dynamics\n\nSemester taken: 6th\n\nProfessor: Swagata Basu\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nA foundational course for earthquake engineering. It was chosen out of interest in the area and involvement in EERI-related activities. Best suited for students interested in earthquake engineering.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nBuilds an understanding of structural dynamics concepts and how to apply them in modelling and software work. It did not directly complement the major, BTP, IDP or internship, but supports earthquake engineering learning.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening, with some skill-building.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: quiz 1, quiz 2, midsem and endsem. Leniency: 8/10. Scoring well is moderately easy but requires studying concepts and practising problems; some exam questions are tricky and sensitive to wording.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality 8/10 (clarity 8; lecture engagement 8)\n\n2. Approachability 8/10\n\n3. Evaluation fairness 9/10\n\n4. Exam predictability 8/10\n\n5. Overall rating 8/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nGood for students interested in earthquake engineering. Conceptually useful, but problem-solving requires consistent effort.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Rishabh Jain",
-          "Senior's name: Ritika Bhadrecha",
-          "Senior's batch/year: 2027",
-          "Date of call: Not stated",
-          "Section(s) covered: Elective Review"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -2196,7 +1786,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality 8/10 (clarity 8; lecture engagement 8)",
           "2. Approachability 8/10",
@@ -2221,24 +1810,12 @@ export const courseReviews = [
     "difficulty": "Medium",
     "rating": 4,
     "leniency": "7/10",
-    "senior": "Dunggam Gao",
-    "reviewer": "Rishabh Jain",
-    "batch": "2027",
-    "date": "30 August 2026",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {},
-    "review": "Section(s) covered: Electives and honours courses Elective name & code: CE462: Elements of Structural Dynamics",
-    "rawContent": "Call Details\n\nYour name: Rishabh Jain\n\nSenior's name: Dunggam Gao\n\nSenior's batch/year: Not stated\n\nDate of call: 30 August 2026\n\nSection(s) covered: Electives and honours courses\n\nElective Review\n\nElective name & code: CE462: Elements of Structural Dynamics\n\nSemester taken: 6th\n\nProfessor: Swagata Basu\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nA foundational structural dynamics course with a heavy focus on numerical methods, formulas and procedures. Strongly suited for students planning to continue in structural or core civil engineering.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nCovers the fundamentals of structural dynamics and numerical problem-solving, with less emphasis on theoretical implications. Introduction to Earthquake Engineering (CE610), taken in the same semester, helped clarify the underlying theory.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nPrimarily knowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: quiz 1, midsem, quiz 2 and endsem. Leniency: 7/10. Quiz 1, the midsem and quiz 2 were relatively easy, but the endsem was much harder; understanding the theory behind the equations helps more than rote formula use.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality 5/10 (clarity 5; lecture engagement 4)\n\n2. Approachability 8/10\n\n3. Evaluation fairness 7/10\n\n4. Exam predictability 7/10\n\n5. Overall rating Not stated\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nGood course content, but delivery is weak. Exams up to quiz 2 follow tutorial questions; the endsem is less predictable.",
+    "review": "A foundational structural dynamics course with a heavy focus on numerical methods, formulas and procedures. Strongly suited for students planning to continue in structural or core civil engineering.",
+    "rawContent": "Elective Review\n\nElective name & code: CE462: Elements of Structural Dynamics\n\nSemester taken: 6th\n\nProfessor: Swagata Basu\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nA foundational structural dynamics course with a heavy focus on numerical methods, formulas and procedures. Strongly suited for students planning to continue in structural or core civil engineering.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nCovers the fundamentals of structural dynamics and numerical problem-solving, with less emphasis on theoretical implications. Introduction to Earthquake Engineering (CE610), taken in the same semester, helped clarify the underlying theory.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nPrimarily knowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: quiz 1, midsem, quiz 2 and endsem. Leniency: 7/10. Quiz 1, the midsem and quiz 2 were relatively easy, but the endsem was much harder; understanding the theory behind the equations helps more than rote formula use.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality 5/10 (clarity 5; lecture engagement 4)\n\n2. Approachability 8/10\n\n3. Evaluation fairness 7/10\n\n4. Exam predictability 7/10\n\n5. Overall rating Not stated\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nGood course content, but delivery is weak. Exams up to quiz 2 follow tutorial questions; the endsem is less predictable.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Rishabh Jain",
-          "Senior's name: Dunggam Gao",
-          "Senior's batch/year: Not stated",
-          "Date of call: 30 August 2026",
-          "Section(s) covered: Electives and honours courses"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -2273,7 +1850,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality 5/10 (clarity 5; lecture engagement 4)",
           "2. Approachability 8/10",
@@ -2298,24 +1874,12 @@ export const courseReviews = [
     "difficulty": "Easy",
     "rating": 5,
     "leniency": "9/10",
-    "senior": "Ritika Bhadrecha",
-    "reviewer": "Rishabh Jain",
-    "batch": "2027",
-    "date": "Not stated",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {},
-    "review": "Elective name & code: CE482: Construction Management The course covers construction management fundamentals, including planning, contracts, budgeting, scheduling and relevant software. It was chosen to understand the management side of construction. Best suited for students inter",
-    "rawContent": "Call Details\n\nYour name: Rishabh Jain\n\nSenior's name: Ritika Bhadrecha\n\nSenior's batch/year: 2027\n\nDate of call: Not stated\n\nSection(s) covered: Elective Review\n\nElective Review\n\nElective name & code: CE482: Construction Management\n\nSemester taken: 5th\n\nProfessor: Albert Thomas\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThe course covers construction management fundamentals, including planning, contracts, budgeting, scheduling and relevant software. It was chosen to understand the management side of construction. Best suited for students interested in planning and construction management, especially those considering industry roles.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nProvides a working understanding of project planning, scheduling, budgeting and contracts, along with software exposure. It helped during the internship and made the later construction planning and control course easier.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nSkill-building, given its practical application to planning and construction work.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: a project, in-class assignments/quiz-style work and exams. Leniency: 9/10. Scoring well is easy with regular attendance and properly completed project work and assignments.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality 10/10 (clarity 10; lecture engagement 9)\n\n2. Approachability 9/10\n\n3. Evaluation fairness 9/10\n\n4. Exam predictability 9/10\n\n5. Overall rating 9/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nA practical, highly useful elective for students interested in planning and construction management, with good grading and a manageable workload.",
+    "review": "The course covers construction management fundamentals, including planning, contracts, budgeting, scheduling and relevant software. It was chosen to understand the management side of construction. Best suited for students interested in planning and construction management, especi",
+    "rawContent": "Elective Review\n\nElective name & code: CE482: Construction Management\n\nSemester taken: 5th\n\nProfessor: Albert Thomas\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThe course covers construction management fundamentals, including planning, contracts, budgeting, scheduling and relevant software. It was chosen to understand the management side of construction. Best suited for students interested in planning and construction management, especially those considering industry roles.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nProvides a working understanding of project planning, scheduling, budgeting and contracts, along with software exposure. It helped during the internship and made the later construction planning and control course easier.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nSkill-building, given its practical application to planning and construction work.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: a project, in-class assignments/quiz-style work and exams. Leniency: 9/10. Scoring well is easy with regular attendance and properly completed project work and assignments.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality 10/10 (clarity 10; lecture engagement 9)\n\n2. Approachability 9/10\n\n3. Evaluation fairness 9/10\n\n4. Exam predictability 9/10\n\n5. Overall rating 9/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nA practical, highly useful elective for students interested in planning and construction management, with good grading and a manageable workload.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Rishabh Jain",
-          "Senior's name: Ritika Bhadrecha",
-          "Senior's batch/year: 2027",
-          "Date of call: Not stated",
-          "Section(s) covered: Elective Review"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -2350,7 +1914,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality 10/10 (clarity 10; lecture engagement 9)",
           "2. Approachability 9/10",
@@ -2375,24 +1938,12 @@ export const courseReviews = [
     "difficulty": "Easy",
     "rating": 5,
     "leniency": "8/10",
-    "senior": "Ritika Bhadrecha",
-    "reviewer": "Rishabh Jain",
-    "batch": "2027",
-    "date": "Not stated",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {},
-    "review": "Elective name & code: CE6101: Vernacular Construction Systems The course covers vernacular and local construction systems, with a focus on traditional Indian architecture and materials. It was chosen for the professor's teaching style and interest in the topic. Best suited for st",
-    "rawContent": "Call Details\n\nYour name: Rishabh Jain\n\nSenior's name: Ritika Bhadrecha\n\nSenior's batch/year: 2027\n\nDate of call: Not stated\n\nSection(s) covered: Elective Review\n\nElective Review\n\nElective name & code: CE6101: Vernacular Construction Systems\n\nSemester taken: 5th\n\nProfessor: Swathi Manohar\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThe course covers vernacular and local construction systems, with a focus on traditional Indian architecture and materials. It was chosen for the professor's teaching style and interest in the topic. Best suited for students interested in heritage, local architecture and theory-heavy civil electives.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nCovers the preservation of vernacular construction and local materials and how they compare with modern methods. It did not directly complement the internship or BTP, but is useful for related BTP or IDP projects.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: class quizzes, assignments, midsem and endsem. Leniency: 8/10. The course is theory-heavy with a broad syllabus, so last-minute preparation is difficult; keeping up with class discussions and PYQs makes it manageable.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality 9/10 (clarity 9; lecture engagement 10)\n\n2. Approachability 10/10\n\n3. Evaluation fairness 9/10\n\n4. Exam predictability 8/10\n\n5. Overall rating 8/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nRecommended for students who enjoy theory and heritage topics. Classes are interesting, but there is a large volume of content to remember.",
+    "review": "The course covers vernacular and local construction systems, with a focus on traditional Indian architecture and materials. It was chosen for the professor's teaching style and interest in the topic. Best suited for students interested in heritage, local architecture and theory-h",
+    "rawContent": "Elective Review\n\nElective name & code: CE6101: Vernacular Construction Systems\n\nSemester taken: 5th\n\nProfessor: Swathi Manohar\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThe course covers vernacular and local construction systems, with a focus on traditional Indian architecture and materials. It was chosen for the professor's teaching style and interest in the topic. Best suited for students interested in heritage, local architecture and theory-heavy civil electives.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nCovers the preservation of vernacular construction and local materials and how they compare with modern methods. It did not directly complement the internship or BTP, but is useful for related BTP or IDP projects.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: class quizzes, assignments, midsem and endsem. Leniency: 8/10. The course is theory-heavy with a broad syllabus, so last-minute preparation is difficult; keeping up with class discussions and PYQs makes it manageable.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality 9/10 (clarity 9; lecture engagement 10)\n\n2. Approachability 10/10\n\n3. Evaluation fairness 9/10\n\n4. Exam predictability 8/10\n\n5. Overall rating 8/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nRecommended for students who enjoy theory and heritage topics. Classes are interesting, but there is a large volume of content to remember.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Rishabh Jain",
-          "Senior's name: Ritika Bhadrecha",
-          "Senior's batch/year: 2027",
-          "Date of call: Not stated",
-          "Section(s) covered: Elective Review"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -2427,7 +1978,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality 9/10 (clarity 9; lecture engagement 10)",
           "2. Approachability 10/10",
@@ -2452,24 +2002,12 @@ export const courseReviews = [
     "difficulty": "Medium",
     "rating": 4,
     "leniency": "7/10",
-    "senior": "Dunggam Gao",
-    "reviewer": "Rishabh Jain",
-    "batch": "2027",
-    "date": "30 August 2026",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {},
-    "review": "Section(s) covered: Electives and honours courses Elective name & code: CE610: Introduction to Earthquake Engineering",
-    "rawContent": "Call Details\n\nYour name: Rishabh Jain\n\nSenior's name: Dunggam Gao\n\nSenior's batch/year: Not stated\n\nDate of call: 30 August 2026\n\nSection(s) covered: Electives and honours courses\n\nElective Review\n\nElective name & code: CE610: Introduction to Earthquake Engineering\n\nSemester taken: 6th\n\nProfessor: Meera Raghunandan\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nAn introductory course on why earthquakes occur and why they matter, followed by building response to ground shaking and earthquake-resistant design. Strongly interest-based; best suited for students interested in earthquake or structural engineering.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nBuilds an understanding of earthquake engineering fundamentals and structural response, with MATLAB exposure through assignments. It complemented Elements of Structural Dynamics (taken concurrently) and is relevant to seismic-design internships.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nBoth: primarily knowledge-broadening, with skill-building through MATLAB assignments.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: NSM (as recorded) 40%, midsem 30%, and assignments and mini-projects 30%; no quizzes recalled. Leniency: 6.5\u20137/10. Exams need only a few days of preparation, but weekly assignments and 2\u20133 mini-projects take significant time.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality 10/10 (clarity 10; lecture engagement 9)\n\n2. Approachability 9/10\n\n3. Evaluation fairness 7/10\n\n4. Exam predictability 4/10\n\n5. Overall rating 6/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nTake only if genuinely interested in earthquake engineering. Teaching and content organization are strong, but the professor is strict about attendance and course policies, and exams are unpredictable.",
+    "review": "An introductory course on why earthquakes occur and why they matter, followed by building response to ground shaking and earthquake-resistant design. Strongly interest-based; best suited for students interested in earthquake or structural engineering.",
+    "rawContent": "Elective Review\n\nElective name & code: CE610: Introduction to Earthquake Engineering\n\nSemester taken: 6th\n\nProfessor: Meera Raghunandan\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nAn introductory course on why earthquakes occur and why they matter, followed by building response to ground shaking and earthquake-resistant design. Strongly interest-based; best suited for students interested in earthquake or structural engineering.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nBuilds an understanding of earthquake engineering fundamentals and structural response, with MATLAB exposure through assignments. It complemented Elements of Structural Dynamics (taken concurrently) and is relevant to seismic-design internships.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nBoth: primarily knowledge-broadening, with skill-building through MATLAB assignments.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: NSM (as recorded) 40%, midsem 30%, and assignments and mini-projects 30%; no quizzes recalled. Leniency: 6.5\u20137/10. Exams need only a few days of preparation, but weekly assignments and 2\u20133 mini-projects take significant time.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality 10/10 (clarity 10; lecture engagement 9)\n\n2. Approachability 9/10\n\n3. Evaluation fairness 7/10\n\n4. Exam predictability 4/10\n\n5. Overall rating 6/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nTake only if genuinely interested in earthquake engineering. Teaching and content organization are strong, but the professor is strict about attendance and course policies, and exams are unpredictable.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Rishabh Jain",
-          "Senior's name: Dunggam Gao",
-          "Senior's batch/year: Not stated",
-          "Date of call: 30 August 2026",
-          "Section(s) covered: Electives and honours courses"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -2504,7 +2042,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality 10/10 (clarity 10; lecture engagement 9)",
           "2. Approachability 9/10",
@@ -2529,24 +2066,12 @@ export const courseReviews = [
     "difficulty": "Medium",
     "rating": 4,
     "leniency": "6/10",
-    "senior": "Dunggam Gao",
-    "reviewer": "Rishabh Jain",
-    "batch": "2027",
-    "date": "30 August 2026",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {},
-    "review": "Section(s) covered: Electives and honours courses Elective name & code: CE630: Geographical Information Systems in Civil Engineering (Honours)",
-    "rawContent": "Call Details\n\nYour name: Rishabh Jain\n\nSenior's name: Dunggam Gao\n\nSenior's batch/year: Not stated\n\nDate of call: 30 August 2026\n\nSection(s) covered: Electives and honours courses\n\nElective Review\n\nElective name & code: CE630: Geographical Information Systems in Civil Engineering (Honours)\n\nSemester taken: 5th\n\nProfessor: RAAJ Ramsankaran\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nA postgraduate-level GIS course introducing GIS components and applications such as watershed management and land-use calculations, with substantial QGIS work. Best suited for students genuinely interested in GIS; not recommended purely for easy grading.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nProvides an introduction to GIS and practical QGIS skills that apply directly to real projects.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nEqually skill-building and knowledge-broadening, with skills developed through QGIS labs.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: weekly lab assignments, a project, midsem and endsem; no quizzes recalled. Leniency: 6/10. Students strong at memorization can prepare a couple of days before exams, but attendance matters because the professor deliberately tests material discussed in class beyond the slides.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality 7/10 (clarity 7; lecture engagement 6)\n\n2. Approachability 8/10\n\n3. Evaluation fairness 7/10\n\n4. Exam predictability 6/10\n\n5. Overall rating Not stated\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nVery beneficial for students interested in GIS. For easier grading, the GNR GIS course was suggested as an alternative.",
+    "review": "A postgraduate-level GIS course introducing GIS components and applications such as watershed management and land-use calculations, with substantial QGIS work. Best suited for students genuinely interested in GIS; not recommended purely for easy grading.",
+    "rawContent": "Elective Review\n\nElective name & code: CE630: Geographical Information Systems in Civil Engineering (Honours)\n\nSemester taken: 5th\n\nProfessor: RAAJ Ramsankaran\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nA postgraduate-level GIS course introducing GIS components and applications such as watershed management and land-use calculations, with substantial QGIS work. Best suited for students genuinely interested in GIS; not recommended purely for easy grading.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nProvides an introduction to GIS and practical QGIS skills that apply directly to real projects.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nEqually skill-building and knowledge-broadening, with skills developed through QGIS labs.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: weekly lab assignments, a project, midsem and endsem; no quizzes recalled. Leniency: 6/10. Students strong at memorization can prepare a couple of days before exams, but attendance matters because the professor deliberately tests material discussed in class beyond the slides.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality 7/10 (clarity 7; lecture engagement 6)\n\n2. Approachability 8/10\n\n3. Evaluation fairness 7/10\n\n4. Exam predictability 6/10\n\n5. Overall rating Not stated\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nVery beneficial for students interested in GIS. For easier grading, the GNR GIS course was suggested as an alternative.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Rishabh Jain",
-          "Senior's name: Dunggam Gao",
-          "Senior's batch/year: Not stated",
-          "Date of call: 30 August 2026",
-          "Section(s) covered: Electives and honours courses"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -2581,7 +2106,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality 7/10 (clarity 7; lecture engagement 6)",
           "2. Approachability 8/10",
@@ -2606,24 +2130,12 @@ export const courseReviews = [
     "difficulty": "Medium",
     "rating": 4,
     "leniency": "7/10",
-    "senior": "Ritika Bhadrecha",
-    "reviewer": "Rishabh Jain",
-    "batch": "2027",
-    "date": "Not stated",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {},
-    "review": "Elective name & code: CE641: Environmental Geomechanics A soil-domain course distinct from regular soil and foundation engineering, with exposure to current research. It was chosen mainly because it fit the timetable slot. Best suited for students interested in geotechnical resea",
-    "rawContent": "Call Details\n\nYour name: Rishabh Jain\n\nSenior's name: Ritika Bhadrecha\n\nSenior's batch/year: 2027\n\nDate of call: Not stated\n\nSection(s) covered: Elective Review\n\nElective Review\n\nElective name & code: CE641: Environmental Geomechanics\n\nSemester taken: 5th\n\nProfessor: D.N. Singh\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nA soil-domain course distinct from regular soil and foundation engineering, with exposure to current research. It was chosen mainly because it fit the timetable slot. Best suited for students interested in geotechnical research and current research topics.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nProvides exposure to ongoing research in the field, including PhD students' work and its connection to the course. It did not complement the major, BTP, IDP or internship directly, but is useful for students doing projects under the professor.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nBoth skill-building and knowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: class interaction/participation, midsem and endsem. Leniency: 7/10. Scoring well is moderately difficult: this is a master's-level course with high expectations, so close attention to slides and class discussions is required.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality 9/10 (clarity 9; lecture engagement 10)\n\n2. Approachability 9/10\n\n3. Evaluation fairness 8/10\n\n4. Exam predictability 7/10\n\n5. Overall rating 7/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nGood for students interested in research and geotechnical topics, with engaging lectures. Not suitable for those seeking an easy elective.",
+    "review": "A soil-domain course distinct from regular soil and foundation engineering, with exposure to current research. It was chosen mainly because it fit the timetable slot. Best suited for students interested in geotechnical research and current research topics.",
+    "rawContent": "Elective Review\n\nElective name & code: CE641: Environmental Geomechanics\n\nSemester taken: 5th\n\nProfessor: D.N. Singh\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nA soil-domain course distinct from regular soil and foundation engineering, with exposure to current research. It was chosen mainly because it fit the timetable slot. Best suited for students interested in geotechnical research and current research topics.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nProvides exposure to ongoing research in the field, including PhD students' work and its connection to the course. It did not complement the major, BTP, IDP or internship directly, but is useful for students doing projects under the professor.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nBoth skill-building and knowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: class interaction/participation, midsem and endsem. Leniency: 7/10. Scoring well is moderately difficult: this is a master's-level course with high expectations, so close attention to slides and class discussions is required.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality 9/10 (clarity 9; lecture engagement 10)\n\n2. Approachability 9/10\n\n3. Evaluation fairness 8/10\n\n4. Exam predictability 7/10\n\n5. Overall rating 7/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nGood for students interested in research and geotechnical topics, with engaging lectures. Not suitable for those seeking an easy elective.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Rishabh Jain",
-          "Senior's name: Ritika Bhadrecha",
-          "Senior's batch/year: 2027",
-          "Date of call: Not stated",
-          "Section(s) covered: Elective Review"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -2658,7 +2170,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality 9/10 (clarity 9; lecture engagement 10)",
           "2. Approachability 9/10",
@@ -2683,24 +2194,12 @@ export const courseReviews = [
     "difficulty": "Medium",
     "rating": 4,
     "leniency": "6/10",
-    "senior": "Dunggam Gao",
-    "reviewer": "Rishabh Jain",
-    "batch": "2027",
-    "date": "30 August 2026",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {},
-    "review": "Section(s) covered: Electives and honours courses Elective name & code: CE712: Digital Image Processing of Remotely Sensed Data (Honours)",
-    "rawContent": "Call Details\n\nYour name: Rishabh Jain\n\nSenior's name: Dunggam Gao\n\nSenior's batch/year: Not stated\n\nDate of call: 30 August 2026\n\nSection(s) covered: Electives and honours courses\n\nElective Review\n\nElective name & code: CE712: Digital Image Processing of Remotely Sensed Data (Honours)\n\nSemester taken: 5th\n\nProfessor: Not clearly recalled (recorded as \u201cHindu\u201d)\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nIntroduces image-processing theory and remotely sensed data, combined with practical Python coding. Best suited for students interested in image processing, Python and hands-on coding.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nTeaches basic image-processing concepts and practical Python coding, with QGIS used in later sections. Pairs well with GIS in Civil Engineering (CE630), which builds QGIS skills.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nMostly skill-building (approximately 70% skill-building, 30% knowledge-broadening).\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: quiz 1, midsem, quiz 2, lab quiz and a project; no endsem. Leniency: 6/10. A couple of days of preparation can be enough for exams, alongside regular weekly coding/lab work.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality 7/10 (clarity 7; lecture engagement 7)\n\n2. Approachability 9/10\n\n3. Evaluation fairness 3/10\n\n4. Exam predictability 2/10\n\n5. Overall rating 8/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nA good fit for fifth-semester students prioritizing internships, as there was no attendance requirement and AI tools were permitted in coding and lab work. Major red flag: evaluation fairness, with unpredictable exams.",
+    "review": "Introduces image-processing theory and remotely sensed data, combined with practical Python coding. Best suited for students interested in image processing, Python and hands-on coding.",
+    "rawContent": "Elective Review\n\nElective name & code: CE712: Digital Image Processing of Remotely Sensed Data (Honours)\n\nSemester taken: 5th\n\nProfessor: Not clearly recalled (recorded as \u201cHindu\u201d)\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nIntroduces image-processing theory and remotely sensed data, combined with practical Python coding. Best suited for students interested in image processing, Python and hands-on coding.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nTeaches basic image-processing concepts and practical Python coding, with QGIS used in later sections. Pairs well with GIS in Civil Engineering (CE630), which builds QGIS skills.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nMostly skill-building (approximately 70% skill-building, 30% knowledge-broadening).\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: quiz 1, midsem, quiz 2, lab quiz and a project; no endsem. Leniency: 6/10. A couple of days of preparation can be enough for exams, alongside regular weekly coding/lab work.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality 7/10 (clarity 7; lecture engagement 7)\n\n2. Approachability 9/10\n\n3. Evaluation fairness 3/10\n\n4. Exam predictability 2/10\n\n5. Overall rating 8/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nA good fit for fifth-semester students prioritizing internships, as there was no attendance requirement and AI tools were permitted in coding and lab work. Major red flag: evaluation fairness, with unpredictable exams.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Rishabh Jain",
-          "Senior's name: Dunggam Gao",
-          "Senior's batch/year: Not stated",
-          "Date of call: 30 August 2026",
-          "Section(s) covered: Electives and honours courses"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -2735,7 +2234,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality 7/10 (clarity 7; lecture engagement 7)",
           "2. Approachability 9/10",
@@ -2760,24 +2258,12 @@ export const courseReviews = [
     "difficulty": "Hard",
     "rating": 4,
     "leniency": "0.5/10",
-    "senior": "Bhumi Sharma",
-    "reviewer": "Rishabh Jain",
-    "batch": "2027",
-    "date": "Not stated",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {},
-    "review": "Elective name & code: CE776: Transportation Project Evaluation and Decision Making The course covers the economic evaluation of transportation projects, including cost-benefit analysis, NPV and decision-making frameworks. It was chosen out of interest in transportation and its ec",
-    "rawContent": "Call Details\n\nYour name: Rishabh Jain\n\nSenior's name: Bhumi Sharma\n\nSenior's batch/year: 2027\n\nDate of call: Not stated\n\nSection(s) covered: Elective Review\n\nElective Review\n\nElective name & code: CE776: Transportation Project Evaluation and Decision Making\n\nSemester taken: 6th\n\nProfessor: P. Vedagiri\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThe course covers the economic evaluation of transportation projects, including cost-benefit analysis, NPV and decision-making frameworks. It was chosen out of interest in transportation and its economic side. Best suited for students interested in transportation, project economics and evaluation methods; open to all departments.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nTeaches how to assess a project's economic, financial and technical feasibility and decide whether it is worth building. It also supported learning in other transportation courses.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nSkill-building.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: class participation activities, assignments, midsem and endsem. Leniency: 0.5/10 (as recorded; grading was described as quite strict). Scoring well is manageable but not effortless: stay consistent in class and keep up with the relatively clear, introductory syllabus.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality 9.5/10 (clarity 9.5; lecture engagement 9.5)\n\n2. Approachability 9/10\n\n3. Evaluation fairness 9/10\n\n4. Exam predictability 9/10\n\n5. Overall rating 9/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nA well-taught, practical introduction to transportation project evaluation with a light content load. Red flag: grading is strict.",
+    "review": "The course covers the economic evaluation of transportation projects, including cost-benefit analysis, NPV and decision-making frameworks. It was chosen out of interest in transportation and its economic side. Best suited for students interested in transportation, project economi",
+    "rawContent": "Elective Review\n\nElective name & code: CE776: Transportation Project Evaluation and Decision Making\n\nSemester taken: 6th\n\nProfessor: P. Vedagiri\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThe course covers the economic evaluation of transportation projects, including cost-benefit analysis, NPV and decision-making frameworks. It was chosen out of interest in transportation and its economic side. Best suited for students interested in transportation, project economics and evaluation methods; open to all departments.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nTeaches how to assess a project's economic, financial and technical feasibility and decide whether it is worth building. It also supported learning in other transportation courses.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nSkill-building.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: class participation activities, assignments, midsem and endsem. Leniency: 0.5/10 (as recorded; grading was described as quite strict). Scoring well is manageable but not effortless: stay consistent in class and keep up with the relatively clear, introductory syllabus.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality 9.5/10 (clarity 9.5; lecture engagement 9.5)\n\n2. Approachability 9/10\n\n3. Evaluation fairness 9/10\n\n4. Exam predictability 9/10\n\n5. Overall rating 9/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nA well-taught, practical introduction to transportation project evaluation with a light content load. Red flag: grading is strict.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Rishabh Jain",
-          "Senior's name: Bhumi Sharma",
-          "Senior's batch/year: 2027",
-          "Date of call: Not stated",
-          "Section(s) covered: Elective Review"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -2812,7 +2298,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality 9.5/10 (clarity 9.5; lecture engagement 9.5)",
           "2. Approachability 9/10",
@@ -2837,24 +2322,12 @@ export const courseReviews = [
     "difficulty": "Easy",
     "rating": 5,
     "leniency": "8/10",
-    "senior": "Bhumi Sharma",
-    "reviewer": "Rishabh Jain",
-    "batch": "2027",
-    "date": "Not stated",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {},
-    "review": "Elective name & code: CM615: Climate Change Impacts and Adaptation Semester taken: 5th (recorded as Spring)",
-    "rawContent": "Call Details\n\nYour name: Rishabh Jain\n\nSenior's name: Bhumi Sharma\n\nSenior's batch/year: 2027\n\nDate of call: Not stated\n\nSection(s) covered: Elective Review\n\nElective Review\n\nElective name & code: CM615: Climate Change Impacts and Adaptation\n\nSemester taken: 5th (recorded as Spring)\n\nProfessor: Angshuman Modak\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nAn introductory course on climate change covering climate science, climate models, impacts and adaptation. Best suited for students interested in climate change and interdisciplinary climate-related topics.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nBuilds a solid grasp of climate science fundamentals and a clearer picture of global developments. It did not directly complement the major, BTP, IDP or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: class activities, assignments (including basic Python coding), midsem and an end-of-course project/research presentation. Leniency: 8/10. The course is moderately demanding: exams are manageable, but the project/research component requires substantial effort.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality 8.5/10 (clarity 8.5; lecture engagement 9)\n\n2. Approachability Not rated (described positively)\n\n3. Evaluation fairness 8.5/10\n\n4. Exam predictability 8/10\n\n5. Overall rating Not rated (overall impression positive)\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nEngaging professor, with many class activities and guest lectures. Good for students interested in climate science and interdisciplinary perspectives. Caveat: the project is effort-heavy.",
+    "review": "An introductory course on climate change covering climate science, climate models, impacts and adaptation. Best suited for students interested in climate change and interdisciplinary climate-related topics.",
+    "rawContent": "Elective Review\n\nElective name & code: CM615: Climate Change Impacts and Adaptation\n\nSemester taken: 5th (recorded as Spring)\n\nProfessor: Angshuman Modak\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nAn introductory course on climate change covering climate science, climate models, impacts and adaptation. Best suited for students interested in climate change and interdisciplinary climate-related topics.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nBuilds a solid grasp of climate science fundamentals and a clearer picture of global developments. It did not directly complement the major, BTP, IDP or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: class activities, assignments (including basic Python coding), midsem and an end-of-course project/research presentation. Leniency: 8/10. The course is moderately demanding: exams are manageable, but the project/research component requires substantial effort.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality 8.5/10 (clarity 8.5; lecture engagement 9)\n\n2. Approachability Not rated (described positively)\n\n3. Evaluation fairness 8.5/10\n\n4. Exam predictability 8/10\n\n5. Overall rating Not rated (overall impression positive)\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nEngaging professor, with many class activities and guest lectures. Good for students interested in climate science and interdisciplinary perspectives. Caveat: the project is effort-heavy.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Rishabh Jain",
-          "Senior's name: Bhumi Sharma",
-          "Senior's batch/year: 2027",
-          "Date of call: Not stated",
-          "Section(s) covered: Elective Review"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -2889,7 +2362,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality 8.5/10 (clarity 8.5; lecture engagement 9)",
           "2. Approachability Not rated (described positively)",
@@ -2914,24 +2386,12 @@ export const courseReviews = [
     "difficulty": "Easy",
     "rating": 5,
     "leniency": "10/10",
-    "senior": "Bhumi Sharma",
-    "reviewer": "Rishabh Jain",
-    "batch": "2027",
-    "date": "Not stated",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {},
-    "review": "Elective name & code: HS401: Introduction to Paninian Grammar Professor: Malhaar Kulkarni (spelling uncertain; also recorded as \u201cManhaar Kul Karne\u201d)",
-    "rawContent": "Call Details\n\nYour name: Rishabh Jain\n\nSenior's name: Bhumi Sharma\n\nSenior's batch/year: 2027\n\nDate of call: Not stated\n\nSection(s) covered: Elective Review\n\nElective Review\n\nElective name & code: HS401: Introduction to Paninian Grammar\n\nSemester taken: 6th\n\nProfessor: Malhaar Kulkarni (spelling uncertain; also recorded as \u201cManhaar Kul Karne\u201d)\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nAn introduction to Paninian grammar, taught in English, with no prior Sanskrit required. It was taken mainly to fulfil the HASMED/humanities requirement because it is easy to score in. Best suited for anyone wanting an accessible entry point into Paninian grammar.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nGives a broad, introductory overview of Paninian grammar and its basic sutras rather than a deep dive. It served as a foundation for the advanced Paninian grammar course (HS840).\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: midsem and endsem, both objective; no quizzes or assignments. Leniency: 9.5\u201310/10. Scoring is very easy: two to three days of study before each exam was sufficient to score extremely well.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality 9.5/10 (clarity 9.5; lecture engagement 9.5)\n\n2. Approachability 9.5/10\n\n3. Evaluation fairness 9.5/10\n\n4. Exam predictability 9/10\n\n5. Overall rating 9.5+/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nExcellent choice for HASMED credits: well taught and highly scoring for very low effort. Pleasant surprise: extremely scoring and well taught.",
+    "review": "An introduction to Paninian grammar, taught in English, with no prior Sanskrit required. It was taken mainly to fulfil the HASMED/humanities requirement because it is easy to score in. Best suited for anyone wanting an accessible entry point into Paninian grammar.",
+    "rawContent": "Elective Review\n\nElective name & code: HS401: Introduction to Paninian Grammar\n\nSemester taken: 6th\n\nProfessor: Malhaar Kulkarni (spelling uncertain; also recorded as \u201cManhaar Kul Karne\u201d)\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nAn introduction to Paninian grammar, taught in English, with no prior Sanskrit required. It was taken mainly to fulfil the HASMED/humanities requirement because it is easy to score in. Best suited for anyone wanting an accessible entry point into Paninian grammar.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nGives a broad, introductory overview of Paninian grammar and its basic sutras rather than a deep dive. It served as a foundation for the advanced Paninian grammar course (HS840).\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: midsem and endsem, both objective; no quizzes or assignments. Leniency: 9.5\u201310/10. Scoring is very easy: two to three days of study before each exam was sufficient to score extremely well.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality 9.5/10 (clarity 9.5; lecture engagement 9.5)\n\n2. Approachability 9.5/10\n\n3. Evaluation fairness 9.5/10\n\n4. Exam predictability 9/10\n\n5. Overall rating 9.5+/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nExcellent choice for HASMED credits: well taught and highly scoring for very low effort. Pleasant surprise: extremely scoring and well taught.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Rishabh Jain",
-          "Senior's name: Bhumi Sharma",
-          "Senior's batch/year: 2027",
-          "Date of call: Not stated",
-          "Section(s) covered: Elective Review"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -2966,7 +2426,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality 9.5/10 (clarity 9.5; lecture engagement 9.5)",
           "2. Approachability 9.5/10",
@@ -2991,24 +2450,12 @@ export const courseReviews = [
     "difficulty": "Medium",
     "rating": 4,
     "leniency": "6/10",
-    "senior": "Bhumi Sharma",
-    "reviewer": "Rishabh Jain",
-    "batch": "2027",
-    "date": "Not stated",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {},
-    "review": "Elective name & code: PS619: Health Policy The course covers the development, history and real-world application of health policy. It was chosen after positive experiences with earlier policy studies courses. Best suited for students interested in policy, public health and practi",
-    "rawContent": "Call Details\n\nYour name: Rishabh Jain\n\nSenior's name: Bhumi Sharma\n\nSenior's batch/year: 2027\n\nDate of call: Not stated\n\nSection(s) covered: Elective Review\n\nElective Review\n\nElective name & code: PS619: Health Policy\n\nSemester taken: 6th\n\nProfessor: Santosh Narona\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThe course covers the development, history and real-world application of health policy. It was chosen after positive experiences with earlier policy studies courses. Best suited for students interested in policy, public health and practical policy implications; no technical background is required.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nExplains how health policy develops within a country and why health systems differ, comparing Europe, the U.S. (Medicare/Medicaid) and India. It did not complement the major, BTP, IDP or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: 3\u20134 assignments, midsem and endsem; exams are mostly descriptive. Leniency: 5\u20136/10. Scoring well is moderately hard: good grades are achievable with solid, consistent effort, but this is not an easy AA course.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality 9.5/10 (clarity 9.5; lecture engagement 9)\n\n2. Approachability 9/10\n\n3. Evaluation fairness 9/10\n\n4. Exam predictability 9/10\n\n5. Overall rating 8.5/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nVery interesting and practical for students genuinely interested in health policy, with strong teaching and slide-based, predictable exams. Red flag: grading is not very lenient.",
+    "review": "The course covers the development, history and real-world application of health policy. It was chosen after positive experiences with earlier policy studies courses. Best suited for students interested in policy, public health and practical policy implications; no technical backg",
+    "rawContent": "Elective Review\n\nElective name & code: PS619: Health Policy\n\nSemester taken: 6th\n\nProfessor: Santosh Narona\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nThe course covers the development, history and real-world application of health policy. It was chosen after positive experiences with earlier policy studies courses. Best suited for students interested in policy, public health and practical policy implications; no technical background is required.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nExplains how health policy develops within a country and why health systems differ, comparing Europe, the U.S. (Medicare/Medicaid) and India. It did not complement the major, BTP, IDP or internship.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nComponents: 3\u20134 assignments, midsem and endsem; exams are mostly descriptive. Leniency: 5\u20136/10. Scoring well is moderately hard: good grades are achievable with solid, consistent effort, but this is not an easy AA course.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality 9.5/10 (clarity 9.5; lecture engagement 9)\n\n2. Approachability 9/10\n\n3. Evaluation fairness 9/10\n\n4. Exam predictability 9/10\n\n5. Overall rating 8.5/10\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nVery interesting and practical for students genuinely interested in health policy, with strong teaching and slide-based, predictable exams. Red flag: grading is not very lenient.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Rishabh Jain",
-          "Senior's name: Bhumi Sharma",
-          "Senior's batch/year: 2027",
-          "Date of call: Not stated",
-          "Section(s) covered: Elective Review"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -3043,7 +2490,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality 9.5/10 (clarity 9.5; lecture engagement 9)",
           "2. Approachability 9/10",
@@ -3068,24 +2514,12 @@ export const courseReviews = [
     "difficulty": "Easy",
     "rating": 5,
     "leniency": "9/10",
-    "senior": "Anshika Tripathi",
-    "reviewer": "Disha Agrawal",
-    "batch": "4th year",
-    "date": "Not provided",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {},
-    "review": "Elective name & code: Concrete Technology \u2014 CE420 Professor: Prof. Swathy and Prof. Prakash",
-    "rawContent": "Call Details\n\nYour name: Disha Agrawal\n\nSenior's name: Anshika Tripathi\n\nSenior's batch/year: 4th year\n\nDate of call: Not provided\n\nSection(s) covered: Not provided\n\nElective Review\n\nElective name & code: Concrete Technology \u2014 CE420\n\nSemester taken: Not provided\n\nProfessor: Prof. Swathy and Prof. Prakash\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nConcrete technology. Picked to explore it further and deepen understanding of BMC. Best for those interested in concrete and construction materials.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nDeeper understanding of BMC concepts and concrete technology. No BTP/IDP/internship link mentioned.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nIn-class assignments, midsem, endsem. Leniency 9/10. Yes, easy to score with consistent effort.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY \u2014 Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality: Not provided\n\n2. Approachability: Not provided\n\n3. Evaluation fairness: Not provided\n\n4. Exam predictability: Not provided\n\n5. Overall rating: Not provided\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nNot provided",
+    "review": "Concrete technology. Picked to explore it further and deepen understanding of BMC. Best for those interested in concrete and construction materials.",
+    "rawContent": "Elective Review\n\nElective name & code: Concrete Technology \u2014 CE420\n\nSemester taken: Not provided\n\nProfessor: Prof. Swathy and Prof. Prakash\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nConcrete technology. Picked to explore it further and deepen understanding of BMC. Best for those interested in concrete and construction materials.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nDeeper understanding of BMC concepts and concrete technology. No BTP/IDP/internship link mentioned.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nIn-class assignments, midsem, endsem. Leniency 9/10. Yes, easy to score with consistent effort.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality: Not provided\n\n2. Approachability: Not provided\n\n3. Evaluation fairness: Not provided\n\n4. Exam predictability: Not provided\n\n5. Overall rating: Not provided\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nNot provided",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Disha Agrawal",
-          "Senior's name: Anshika Tripathi",
-          "Senior's batch/year: 4th year",
-          "Date of call: Not provided",
-          "Section(s) covered: Not provided"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -3120,7 +2554,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY \u2014 Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality: Not provided",
           "2. Approachability: Not provided",
@@ -3145,24 +2578,12 @@ export const courseReviews = [
     "difficulty": "Medium",
     "rating": 4,
     "leniency": "7/10",
-    "senior": "Anshika Tripathi",
-    "reviewer": "Disha Agrawal",
-    "batch": "4th year",
-    "date": "Not provided",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {},
-    "review": "Elective name & code: Construction Management \u2014 CE482 Construction management and project planning concepts. Picked to go deeper into the management/planning side. Best for those interested in project planning and the software used for it.",
-    "rawContent": "Call Details\n\nYour name: Disha Agrawal\n\nSenior's name: Anshika Tripathi\n\nSenior's batch/year: 4th year\n\nDate of call: Not provided\n\nSection(s) covered: Not provided\n\nElective Review\n\nElective name & code: Construction Management \u2014 CE482\n\nSemester taken: Not provided\n\nProfessor: Prof. Albert\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nConstruction management and project planning concepts. Picked to go deeper into the management/planning side. Best for those interested in project planning and the software used for it.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nCore planning concepts and Primavera for project planning. No BTP/IDP/internship link mentioned.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nBoth \u2014 theory is knowledge-broadening, Primavera is skill-building.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nAssignments, in-class quizzes, midsem, endsem. Leniency 7/10. Yes, AB is achievable with regular effort.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY \u2014 Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality: Not provided\n\n2. Approachability: Not provided\n\n3. Evaluation fairness: Not provided\n\n4. Exam predictability: Not provided\n\n5. Overall rating: Not provided\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nNot provided",
+    "review": "Construction management and project planning concepts. Picked to go deeper into the management/planning side. Best for those interested in project planning and the software used for it.",
+    "rawContent": "Elective Review\n\nElective name & code: Construction Management \u2014 CE482\n\nSemester taken: Not provided\n\nProfessor: Prof. Albert\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nConstruction management and project planning concepts. Picked to go deeper into the management/planning side. Best for those interested in project planning and the software used for it.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nCore planning concepts and Primavera for project planning. No BTP/IDP/internship link mentioned.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nBoth \u2014 theory is knowledge-broadening, Primavera is skill-building.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nAssignments, in-class quizzes, midsem, endsem. Leniency 7/10. Yes, AB is achievable with regular effort.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality: Not provided\n\n2. Approachability: Not provided\n\n3. Evaluation fairness: Not provided\n\n4. Exam predictability: Not provided\n\n5. Overall rating: Not provided\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nNot provided",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Disha Agrawal",
-          "Senior's name: Anshika Tripathi",
-          "Senior's batch/year: 4th year",
-          "Date of call: Not provided",
-          "Section(s) covered: Not provided"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -3197,7 +2618,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY \u2014 Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality: Not provided",
           "2. Approachability: Not provided",
@@ -3222,24 +2642,12 @@ export const courseReviews = [
     "difficulty": "Easy",
     "rating": 5,
     "leniency": "9/10",
-    "senior": "Anshika Tripathi",
-    "reviewer": "Disha Agrawal",
-    "batch": "4th year",
-    "date": "Not provided",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {},
-    "review": "Elective name & code: Vernacular Construction Management \u2014 CE6101 Professor: Prof. Swathy and Prof. Chaaruchandra",
-    "rawContent": "Call Details\n\nYour name: Disha Agrawal\n\nSenior's name: Anshika Tripathi\n\nSenior's batch/year: 4th year\n\nDate of call: Not provided\n\nSection(s) covered: Not provided\n\nElective Review\n\nElective name & code: Vernacular Construction Management \u2014 CE6101\n\nSemester taken: Not provided\n\nProfessor: Prof. Swathy and Prof. Chaaruchandra\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nOld construction materials and traditional/vernacular building practices. Picked because the content seemed easy. Best for those interested in vernacular construction and materials.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nUnderstood how early construction was done (materials and methods). Useful for materials research; no direct BTP/IDP/internship link.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nMidsem, endsem, in-class submissions. Leniency 9/10. Yes, easy to score with consistent effort.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY \u2014 Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality: Not provided\n\n2. Approachability: Not provided\n\n3. Evaluation fairness: Not provided\n\n4. Exam predictability: Not provided\n\n5. Overall rating: Not provided\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nNot provided",
+    "review": "Old construction materials and traditional/vernacular building practices. Picked because the content seemed easy. Best for those interested in vernacular construction and materials.",
+    "rawContent": "Elective Review\n\nElective name & code: Vernacular Construction Management \u2014 CE6101\n\nSemester taken: Not provided\n\nProfessor: Prof. Swathy and Prof. Chaaruchandra\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nOld construction materials and traditional/vernacular building practices. Picked because the content seemed easy. Best for those interested in vernacular construction and materials.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nUnderstood how early construction was done (materials and methods). Useful for materials research; no direct BTP/IDP/internship link.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nMidsem, endsem, in-class submissions. Leniency 9/10. Yes, easy to score with consistent effort.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality: Not provided\n\n2. Approachability: Not provided\n\n3. Evaluation fairness: Not provided\n\n4. Exam predictability: Not provided\n\n5. Overall rating: Not provided\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nNot provided",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Disha Agrawal",
-          "Senior's name: Anshika Tripathi",
-          "Senior's batch/year: 4th year",
-          "Date of call: Not provided",
-          "Section(s) covered: Not provided"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -3274,7 +2682,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY \u2014 Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality: Not provided",
           "2. Approachability: Not provided",
@@ -3299,24 +2706,12 @@ export const courseReviews = [
     "difficulty": "Easy",
     "rating": 5,
     "leniency": "8/10",
-    "senior": "Anshika Tripathi",
-    "reviewer": "Disha Agrawal",
-    "batch": "4th year",
-    "date": "Not provided",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {},
-    "review": "Elective name & code: Structural Dynamics \u2014 CE616 Structural dynamics. Picked to build a deeper understanding of structural engineering. Best for those into structural engineering and theory.",
-    "rawContent": "Call Details\n\nYour name: Disha Agrawal\n\nSenior's name: Anshika Tripathi\n\nSenior's batch/year: 4th year\n\nDate of call: Not provided\n\nSection(s) covered: Not provided\n\nElective Review\n\nElective name & code: Structural Dynamics \u2014 CE616\n\nSemester taken: Not provided\n\nProfessor: Prof. Swagata\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nStructural dynamics. Picked to build a deeper understanding of structural engineering. Best for those into structural engineering and theory.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nDeeper grasp of structural theory from a dynamics perspective. No BTP/IDP/internship link mentioned.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening (theory-oriented).\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nQuizzes, midsem, endsem. Leniency 8/10. Yes, easy to score with consistent effort.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY \u2014 Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality: Not provided\n\n2. Approachability: Not provided\n\n3. Evaluation fairness: Not provided\n\n4. Exam predictability: Not provided\n\n5. Overall rating: Not provided\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nNot provided",
+    "review": "Structural dynamics. Picked to build a deeper understanding of structural engineering. Best for those into structural engineering and theory.",
+    "rawContent": "Elective Review\n\nElective name & code: Structural Dynamics \u2014 CE616\n\nSemester taken: Not provided\n\nProfessor: Prof. Swagata\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nStructural dynamics. Picked to build a deeper understanding of structural engineering. Best for those into structural engineering and theory.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nDeeper grasp of structural theory from a dynamics perspective. No BTP/IDP/internship link mentioned.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening (theory-oriented).\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nQuizzes, midsem, endsem. Leniency 8/10. Yes, easy to score with consistent effort.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality: Not provided\n\n2. Approachability: Not provided\n\n3. Evaluation fairness: Not provided\n\n4. Exam predictability: Not provided\n\n5. Overall rating: Not provided\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nNot provided",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Disha Agrawal",
-          "Senior's name: Anshika Tripathi",
-          "Senior's batch/year: 4th year",
-          "Date of call: Not provided",
-          "Section(s) covered: Not provided"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -3351,7 +2746,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY \u2014 Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality: Not provided",
           "2. Approachability: Not provided",
@@ -3376,24 +2770,12 @@ export const courseReviews = [
     "difficulty": "Easy",
     "rating": 5,
     "leniency": "10/10",
-    "senior": "Anshika Tripathi",
-    "reviewer": "Disha Agrawal",
-    "batch": "4th year",
-    "date": "Not provided",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {},
-    "review": "Elective name & code: Construction Management Studio \u2014 CE722 Hands-on exposure to construction management tools and software. Best for those interested in construction management and BIM.",
-    "rawContent": "Call Details\n\nYour name: Disha Agrawal\n\nSenior's name: Anshika Tripathi\n\nSenior's batch/year: 4th year\n\nDate of call: Not provided\n\nSection(s) covered: Not provided\n\nElective Review\n\nElective name & code: Construction Management Studio \u2014 CE722\n\nSemester taken: Not provided\n\nProfessor: Prof. Varun\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nHands-on exposure to construction management tools and software. Best for those interested in construction management and BIM.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nHands-on experience with BIM modelling software. No BTP/IDP/internship link mentioned.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nSkill-building.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nWeekly submissions, final presentation. Leniency 10/10. Yes, easy to score with consistent effort.\n\nCourse Review\n\n\u26a0 INTERNAL ONLY \u2014 Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nRate 1\u201310:\n\n1. Teaching quality: Not provided\n\n2. Approachability: Not provided\n\n3. Evaluation fairness: Not provided\n\n4. Exam predictability: Not provided\n\n5. Overall rating: Not provided\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nNot provided",
+    "review": "Hands-on exposure to construction management tools and software. Best for those interested in construction management and BIM.",
+    "rawContent": "Elective Review\n\nElective name & code: Construction Management Studio \u2014 CE722\n\nSemester taken: Not provided\n\nProfessor: Prof. Varun\n\nCourse Overview\n\n1. What is this elective about, why did you pick it, and who is it best suited for?\n\nHands-on exposure to construction management tools and software. Best for those interested in construction management and BIM.\n\nLearnings & Applications\n\n2. What were your key takeaways, and did it complement your major, BTP, IDP, or internship in any way?\n\nHands-on experience with BIM modelling software. No BTP/IDP/internship link mentioned.\n\n3. Would you call it more skill-building or knowledge-broadening?\n\nSkill-building.\n\nGrading\n\n4. What are the grading components, how lenient is the grading (1\u201310, 10 being very lenient), and is it easy to score well with consistent effort?\n\nWeekly submissions, final presentation. Leniency 10/10. Yes, easy to score with consistent effort.\n\nCourse Review\n\nRate 1\u201310:\n\n1. Teaching quality: Not provided\n\n2. Approachability: Not provided\n\n3. Evaluation fairness: Not provided\n\n4. Exam predictability: Not provided\n\n5. Overall rating: Not provided\n\nComments: who should take this elective, any red flags or pleasant surprises\n\nNot provided",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Disha Agrawal",
-          "Senior's name: Anshika Tripathi",
-          "Senior's batch/year: 4th year",
-          "Date of call: Not provided",
-          "Section(s) covered: Not provided"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -3428,7 +2810,6 @@ export const courseReviews = [
       {
         "heading": "Course Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY \u2014 Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Rate 1\u201310:",
           "1. Teaching quality: Not provided",
           "2. Approachability: Not provided",
@@ -3453,10 +2834,8 @@ export const courseReviews = [
     "difficulty": "Easy",
     "rating": 4,
     "leniency": "9/10",
-    "senior": "Atharva Lele",
-    "reviewer": "Disha Gugale",
-    "batch": "2027",
-    "date": "",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {
       "Teaching clarity": "7",
       "Lecture engagement": "4",
@@ -3465,7 +2844,7 @@ export const courseReviews = [
       "Exam predictability": "9",
       "Overall rating": "8/10"
     },
-    "review": "Elective name & code: Engineering Law, CE325 Covers the Contract Act: how contracts are formed, breach of contract and the legal process around it. Very practical. He picked it to learn the legal side of civil.",
+    "review": "Covers the Contract Act: how contracts are formed, breach of contract and the legal process around it. Very practical. He picked it to learn the legal side of civil.",
     "rawContent": "Elective Review\n\nElective name & code: Engineering Law, CE325\n\nSemester taken: 5th semester\n\nProfessor: Milind Wankhede\n\nCourse Overview\n\n1. What is this elective about and why did you pick it?\n\nCovers the Contract Act: how contracts are formed, breach of contract and the legal process around it. Very practical. He picked it to learn the legal side of civil.\n\n2. What kind of background or interest is it best suited for?\n\nPeople who want to know the legal side of civil, and who are fine memorizing a lot.\n\nLearnings & Applications\n\n3. What were your key takeaways from the course?\n\nHow contracts are formed, what counts as a breach, and how the legal process works.\n\n4. Did it complement your major, BTP, IDP, or internship in any way?\n\nNo, it didn\u2019t complement anything directly.\n\n5. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n6. What are the grading components?\n\nMid-sem, end-sem, mock arbitration.\n\n7. How lenient is the grading? (1\u201310, 10 being very lenient)\n\n9/10\n\n8. Is it easy to score well if you put in consistent effort?\n\nMostly, but a little luck-based since a lot depends on how your mock arbitration goes. Do well in the mid-sem and end-sem, and memorize well.\n\nProfessor Review\n\nProfessor's name: Milind Wankhede\n\nRate 1\u201310:\n\n1. Teaching clarity \u2014 7\n\n2. Lecture engagement \u2014 4\n\n3. Approachability \u2014 9\n\n4. Grading fairness \u2014 9\n\n5. Exam predictability \u2014 9\n\n6. Overall rating \u2014 8/10\n\nComments: Take it if you want the legal side of civil and can mug up a lot. Lectures aren\u2019t very engaging (4/10), but the prof is approachable and grading is fair. The mock arbitration adds some luck to the grade.",
     "verbatimSections": [
       {
@@ -3535,10 +2914,8 @@ export const courseReviews = [
     "difficulty": "Medium",
     "rating": 3,
     "leniency": "6/10",
-    "senior": "Atharva Lele",
-    "reviewer": "Disha Gugale",
-    "batch": "2027",
-    "date": "",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {
       "Teaching clarity": "8",
       "Lecture engagement": "8",
@@ -3547,7 +2924,7 @@ export const courseReviews = [
       "Exam predictability": "7",
       "Overall rating": "5/10"
     },
-    "review": "Elective name & code: Introduction to Offshore Engineering, CE410 Basics of offshore engineering: offshore structures, the ocean environment, docks, underwater pipelines and wave mechanics. He took it out of interest.",
+    "review": "Basics of offshore engineering: offshore structures, the ocean environment, docks, underwater pipelines and wave mechanics. He took it out of interest.",
     "rawContent": "Elective Review\n\nElective name & code: Introduction to Offshore Engineering, CE410\n\nSemester taken: 6th semester\n\nProfessor: Gowri Shankar C\n\nCourse Overview\n\n1. What is this elective about and why did you pick it?\n\nBasics of offshore engineering: offshore structures, the ocean environment, docks, underwater pipelines and wave mechanics. He took it out of interest.\n\n2. What kind of background or interest is it best suited for?\n\nAnyone interested in hydromechanics, people who like calculus, or anyone who wants to learn a completely new topic.\n\nLearnings & Applications\n\n3. What were your key takeaways from the course?\n\nA solid grasp of the basics of offshore engineering.\n\n4. Did it complement your major, BTP, IDP, or internship in any way?\n\nNo, it didn\u2019t complement anything directly.\n\n5. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n6. What are the grading components?\n\nMid-sem, end-sem, attendance, class participation.\n\n7. How lenient is the grading? (1\u201310, 10 being very lenient)\n\n6/10\n\n8. Is it easy to score well if you put in consistent effort?\n\nNot extremely easy. The end-sem is difficult, so consistent effort matters but won\u2019t guarantee a top grade.\n\nProfessor Review\n\nProfessor's name: Gowri Shankar C\n\nRate 1\u201310:\n\n1. Teaching clarity \u2014 8\n\n2. Lecture engagement \u2014 8\n\n3. Approachability \u2014 9.5\n\n4. Grading fairness \u2014 8\n\n5. Exam predictability \u2014 7\n\n6. Overall rating \u2014 5/10\n\nComments: Good if you like hydromech or calculus, or want something new. Lectures are clear and the prof is very approachable, but the end-sem is tough and grading isn\u2019t lenient.",
     "verbatimSections": [
       {
@@ -3617,10 +2994,8 @@ export const courseReviews = [
     "difficulty": "Medium",
     "rating": 4,
     "leniency": "6/10",
-    "senior": "Dibyanshu Dash",
-    "reviewer": "Disha Gugale",
-    "batch": "2027",
-    "date": "",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {
       "Teaching clarity": "7",
       "Lecture engagement": "7",
@@ -3629,7 +3004,7 @@ export const courseReviews = [
       "Exam predictability": "6",
       "Overall rating": "8/10"
     },
-    "review": "Elective name & code: Environmental Geotechniques, CE488 Despite the name, it\u2019s less about environmental engineering and more about geomechanics. There\u2019s no fixed course content: students ask questions and the professor builds the concepts around them. He picked it because of the",
+    "review": "Despite the name, it\u2019s less about environmental engineering and more about geomechanics. There\u2019s no fixed course content: students ask questions and the professor builds the concepts around them. He picked it because of the professor\u2019s good reviews.",
     "rawContent": "Elective Review\n\nElective name & code: Environmental Geotechniques, CE488\n\nSemester taken: 6th semester\n\nProfessor: D N Singh\n\nCourse Overview\n\n1. What is this elective about and why did you pick it?\n\nDespite the name, it\u2019s less about environmental engineering and more about geomechanics. There\u2019s no fixed course content: students ask questions and the professor builds the concepts around them. He picked it because of the professor\u2019s good reviews.\n\n2. What kind of background or interest is it best suited for?\n\nStudents who want to explore geomechanics.\n\nLearnings & Applications\n\n3. What were your key takeaways from the course?\n\nHow waste is managed in our country and how it affects the surrounding geography.\n\n4. Did it complement your major, BTP, IDP, or internship in any way?\n\nNo, it didn\u2019t complement anything directly.\n\n5. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n6. What are the grading components?\n\nCompulsory attendance and an end-sem.\n\n7. How lenient is the grading? (1\u201310, 10 being very lenient)\n\n6/10\n\n8. Is it easy to score well if you put in consistent effort?\n\nNot easy to score well. The grading feels relaxed, but the end-sem is based on the articles shared and the class discussions, so you need to attend and engage throughout.\n\nProfessor Review\n\nProfessor's name: D N Singh\n\nRate 1\u201310:\n\n1. Teaching clarity \u2014 7\n\n2. Lecture engagement \u2014 7\n\n3. Approachability \u2014 9\n\n4. Grading fairness \u2014 9\n\n5. Exam predictability \u2014 6\n\n6. Overall rating \u2014 8/10\n\nComments: A discussion-driven course with no fixed syllabus, great if you like open-ended learning in geomechanics. The professor is approachable and fair. Attendance is compulsory and exams are hard to predict, so stay involved in class.",
     "verbatimSections": [
       {
@@ -3699,10 +3074,8 @@ export const courseReviews = [
     "difficulty": "Easy",
     "rating": 4,
     "leniency": "8.5/10",
-    "senior": "Atharva Lele",
-    "reviewer": "Disha Gugale",
-    "batch": "2027",
-    "date": "",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {
       "Teaching clarity": "6",
       "Lecture engagement": "4",
@@ -3711,7 +3084,7 @@ export const courseReviews = [
       "Exam predictability": "10",
       "Overall rating": "8.5/10"
     },
-    "review": "Elective name & code: Urban Transportation Systems and Planning, CE751 A higher-level follow-up to the 2nd-year basic transportation course. Theory plus numericals, covering traffic optimization and path-finding algorithms. He picked it for the grades and his interest in transpor",
+    "review": "A higher-level follow-up to the 2nd-year basic transportation course. Theory plus numericals, covering traffic optimization and path-finding algorithms. He picked it for the grades and his interest in transport.",
     "rawContent": "Elective Review\n\nElective name & code: Urban Transportation Systems and Planning, CE751\n\nSemester taken: 5th semester\n\nProfessor: K V Krishna Rao\n\nCourse Overview\n\n1. What is this elective about and why did you pick it?\n\nA higher-level follow-up to the 2nd-year basic transportation course. Theory plus numericals, covering traffic optimization and path-finding algorithms. He picked it for the grades and his interest in transport.\n\n2. What kind of background or interest is it best suited for?\n\nGood for grades, and for people interested in core civil or transportation.\n\nLearnings & Applications\n\n3. What were your key takeaways from the course?\n\nMainly a deeper understanding of transportation.\n\n4. Did it complement your major, BTP, IDP, or internship in any way?\n\nYes. It complemented the later transport courses in the major.\n\n5. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n6. What are the grading components?\n\nQuiz 1, Quiz 2, mid-sem, end-sem, attendance.\n\n7. How lenient is the grading? (1\u201310, 10 being very lenient)\n\n8.5/10\n\n8. Is it easy to score well if you put in consistent effort?\n\nYes, very easy. Just do the PYQs.\n\nProfessor Review\n\nProfessor's name: K V Krishna Rao\n\nRate 1\u201310:\n\n1. Teaching clarity \u2014 6\n\n2. Lecture engagement \u2014 4\n\n3. Approachability \u2014 7\n\n4. Grading fairness \u2014 9\n\n5. Exam predictability \u2014 10\n\n6. Overall rating \u2014 8.5/10\n\nComments: Easy grade if you do the PYQs, since the exams are very predictable. The lectures aren\u2019t very engaging (4/10), but grading is fair. Good for core civil/transport people.",
     "verbatimSections": [
       {
@@ -3781,26 +3154,14 @@ export const courseReviews = [
     "difficulty": "Easy",
     "rating": 4,
     "leniency": "80/10",
-    "senior": "Jinay Vora",
-    "reviewer": "Pratham Bagdi",
-    "batch": "2027",
-    "date": "3 September 2026",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {
       "Overall rating": "8.5/10"
     },
-    "review": "Elective name & code: CE751 \u2013 Urban Transport and Planning Professor: Kurra Venkata Krishna Rao",
-    "rawContent": "Call Details\n\nYour name: Pratham Bagdi\n\nSenior's name: Jinay Vora\n\nSenior's batch/year: 2027\n\nDate of call: 3 September 2026\n\nSection(s) covered: All\n\nElective Review\n\nElective name & code: CE751 \u2013 Urban Transport and Planning\n\nSemester taken: 6th\n\nProfessor: Kurra Venkata Krishna Rao\n\nCourse Overview\n\n1. What is this elective about and why did you pick it? Urban transport \u2014 did transport in an earlier semester too, so this was a continuation. The course is more mathematical and less theory, less rote learning \u2014 good reviews and a chill course overall. A lot of assignments, chill start, then various models and coding assignments; midsem and endsem are PYQ-based.\n\n2. What kind of background or interest is it best suited for? Suited for a slightly coding background, mathematically inclined, modelling-inclined \u2014 not based on rote learning.\n\nLearnings & Applications\n\n3. What were your key takeaways from the course? Got a sense of using AI and LLMs; can be a good foundation for higher-level courses based on OD matrices and other methods.\n\n4. Did it complement your major, BTP, IDP, or internship in any way? No.\n\n5. Would you call it more skill-building or knowledge-broadening? Knowledge-broadening.\n\nGrading\n\n6. What are the grading components? Midsem, endsem, assignments, quizzes, CP (80/100 for AA).\n\n7. How lenient is the grading? (1\u201310, 10 being very lenient) 8.5/10\n\n8. Is it easy to score well with consistent effort? Do regular assignments and CP \u2014 still need consistent effort for AA/AB.\n\nProfessor Review\n\nProfessor's name: Kurra Venkata Krishna Rao\n\nRate 1\u201310:\n\n1. Teaching clarity \u2014 How well does the professor break down and explain complex concepts during lectures? 4/10\n\n2. Lecture engagement \u2014 How effectively does the professor keep students interested and involved in class? 4/10\n\n3. Approachability \u2014 How comfortable and easy is it to reach out to the professor with doubts or questions? 6/10\n\n4. Grading fairness \u2014 How transparent and consistent is the professor when it comes to evaluation? 7/10\n\n5. Exam predictability \u2014 How well do the exams reflect what was actually taught and emphasized in class? 9.5/10\n\n6. Overall rating \u2014 8.5/10\n\nComments: who should take this elective, any red flags or pleasant surprises Not specified.",
+    "review": "Professor's name: Kurra Venkata Krishna Rao Comments: who should take this elective, any red flags or pleasant surprises Not specified.",
+    "rawContent": "Elective Review\n\nElective name & code: CE751 \u2013 Urban Transport and Planning\n\nSemester taken: 6th\n\nProfessor: Kurra Venkata Krishna Rao\n\nCourse Overview\n\n1. What is this elective about and why did you pick it? Urban transport \u2014 did transport in an earlier semester too, so this was a continuation. The course is more mathematical and less theory, less rote learning \u2014 good reviews and a chill course overall. A lot of assignments, chill start, then various models and coding assignments; midsem and endsem are PYQ-based.\n\n2. What kind of background or interest is it best suited for? Suited for a slightly coding background, mathematically inclined, modelling-inclined \u2014 not based on rote learning.\n\nLearnings & Applications\n\n3. What were your key takeaways from the course? Got a sense of using AI and LLMs; can be a good foundation for higher-level courses based on OD matrices and other methods.\n\n4. Did it complement your major, BTP, IDP, or internship in any way? No.\n\n5. Would you call it more skill-building or knowledge-broadening? Knowledge-broadening.\n\nGrading\n\n6. What are the grading components? Midsem, endsem, assignments, quizzes, CP (80/100 for AA).\n\n7. How lenient is the grading? (1\u201310, 10 being very lenient) 8.5/10\n\n8. Is it easy to score well with consistent effort? Do regular assignments and CP \u2014 still need consistent effort for AA/AB.\n\nProfessor Review\n\nProfessor's name: Kurra Venkata Krishna Rao\n\nRate 1\u201310:\n\n1. Teaching clarity \u2014 How well does the professor break down and explain complex concepts during lectures? 4/10\n\n2. Lecture engagement \u2014 How effectively does the professor keep students interested and involved in class? 4/10\n\n3. Approachability \u2014 How comfortable and easy is it to reach out to the professor with doubts or questions? 6/10\n\n4. Grading fairness \u2014 How transparent and consistent is the professor when it comes to evaluation? 7/10\n\n5. Exam predictability \u2014 How well do the exams reflect what was actually taught and emphasized in class? 9.5/10\n\n6. Overall rating \u2014 8.5/10\n\nComments: who should take this elective, any red flags or pleasant surprises Not specified.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Pratham Bagdi",
-          "Senior's name: Jinay Vora",
-          "Senior's batch/year: 2027",
-          "Date of call: 3 September 2026",
-          "Section(s) covered: All"
-        ]
-      },
       {
         "heading": "Elective Review",
         "lines": [
@@ -3860,10 +3221,8 @@ export const courseReviews = [
     "difficulty": "Easy",
     "rating": 4,
     "leniency": "8/10",
-    "senior": "Atharva Lele",
-    "reviewer": "Disha Gugale",
-    "batch": "2027",
-    "date": "",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {
       "Teaching clarity": "9",
       "Lecture engagement": "9",
@@ -3872,7 +3231,7 @@ export const courseReviews = [
       "Exam predictability": "8.5",
       "Overall rating": "8.5/10"
     },
-    "review": "Elective name & code: Blast Resistant Structures, CE761 The course looks at how blasts load a structure, what damage they cause, and how to design structures that can withstand them. He chose it mainly because the professor is known for good grading.",
+    "review": "The course looks at how blasts load a structure, what damage they cause, and how to design structures that can withstand them. He chose it mainly because the professor is known for good grading.",
     "rawContent": "Elective Review\n\nElective name & code: Blast Resistant Structures, CE761\n\nSemester taken: 6th semester\n\nProfessor: Manish Kumar\n\nCourse Overview\n\n1. What is this elective about and why did you pick it?\n\nThe course looks at how blasts load a structure, what damage they cause, and how to design structures that can withstand them. He chose it mainly because the professor is known for good grading.\n\n2. What kind of background or interest is it best suited for?\n\nBest suited for anyone with an interest in structural engineering.\n\nLearnings & Applications\n\n3. What were your key takeaways from the course?\n\nA clear understanding of blast loading and the principles behind designing blast-resistant structures.\n\n4. Did it complement your major, BTP, IDP, or internship in any way?\n\nNot directly. It stands on its own rather than feeding into other work.\n\n5. Would you call it more skill-building or knowledge-broadening?\n\nMostly knowledge-broadening, with some design exposure.\n\nGrading\n\n6. What are the grading components?\n\nMid-sem, end-sem and a project.\n\n7. How lenient is the grading? (1\u201310, 10 being very lenient)\n\n8/10\n\n8. Is it easy to score well if you put in consistent effort?\n\nYes, it\u2019s easy to score well, as long as you put in steady effort through the semester rather than cramming at the end.\n\nProfessor Review\n\nProfessor's name: Manish Kumar\n\nRate 1\u201310:\n\n1. Teaching clarity \u2014 9\n\n2. Lecture engagement \u2014 9\n\n3. Approachability \u2014 10\n\n4. Grading fairness \u2014 9\n\n5. Exam predictability \u2014 8.5\n\n6. Overall rating \u2014 8.5/10\n\nComments: A strong pick for anyone leaning towards structures. The professor explains clearly, is very approachable and grades fairly. There are no real red flags, just keep up with the work regularly.",
     "verbatimSections": [
       {
@@ -3942,10 +3301,8 @@ export const courseReviews = [
     "difficulty": "Easy",
     "rating": 4,
     "leniency": "9/10",
-    "senior": "Atharva Lele",
-    "reviewer": "Disha Gugale",
-    "batch": "2027",
-    "date": "",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {
       "Teaching clarity": "5",
       "Lecture engagement": "7.5",
@@ -3954,7 +3311,7 @@ export const courseReviews = [
       "Exam predictability": "9",
       "Overall rating": "8/10"
     },
-    "review": "Elective name & code: Optimization in Civil Engineering, CE771 An intro to optimization techniques, more application-based than math-based. He picked it for the tech/ML relevance and the good grading.",
+    "review": "An intro to optimization techniques, more application-based than math-based. He picked it for the tech/ML relevance and the good grading.",
     "rawContent": "Elective Review\n\nElective name & code: Optimization in Civil Engineering, CE771\n\nSemester taken: 5th semester\n\nProfessor: Avijit Maji\n\nCourse Overview\n\n1. What is this elective about and why did you pick it?\n\nAn intro to optimization techniques, more application-based than math-based. He picked it for the tech/ML relevance and the good grading.\n\n2. What kind of background or interest is it best suited for?\n\nStudents with a tech interest, and anyone looking for good grading.\n\nLearnings & Applications\n\n3. What were your key takeaways from the course?\n\nLearnt the main optimization techniques and how to apply them to real problems, which carries over directly to ML work.\n\n4. Did it complement your major, BTP, IDP, or internship in any way?\n\nYes. Useful in intern season, especially for machine learning roles.\n\n5. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n6. What are the grading components?\n\nMid-sem, end-sem, Quiz 1, Quiz 2, class participation.\n\n7. How lenient is the grading? (1\u201310, 10 being very lenient)\n\n9/10\n\n8. Is it easy to score well if you put in consistent effort?\n\nYes. The grading is lenient (9/10) and the course isn\u2019t math-heavy. Stay regular for the two quizzes and CP, and a good grade comes easily.\n\nProfessor Review\n\nProfessor's name: Avijit Maji\n\nRate 1\u201310:\n\n1. Teaching clarity \u2014 5\n\n2. Lecture engagement \u2014 7.5\n\n3. Approachability \u2014 9\n\n4. Grading fairness \u2014 9\n\n5. Exam predictability \u2014 9\n\n6. Overall rating \u2014 8/10\n\nComments: Good for tech/ML-interested students and anyone who wants good grading. Teaching clarity is the weak spot (5/10), but the prof is approachable and grades fairly.",
     "verbatimSections": [
       {
@@ -4024,10 +3381,8 @@ export const courseReviews = [
     "difficulty": "Medium",
     "rating": 4,
     "leniency": "6/10",
-    "senior": "Atharva Lele",
-    "reviewer": "Disha Gugale",
-    "batch": "2027",
-    "date": "",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {
       "Teaching clarity": "8",
       "Lecture engagement": "9",
@@ -4036,7 +3391,7 @@ export const courseReviews = [
       "Exam predictability": "6",
       "Overall rating": "7/10"
     },
-    "review": "Elective name & code: Geometric Design and Analysis of High Speed Roadways, CE773 The course covers the characteristics of high-speed roadways and how to design them according to the codes. He took it out of his interest in transportation.",
+    "review": "The course covers the characteristics of high-speed roadways and how to design them according to the codes. He took it out of his interest in transportation.",
     "rawContent": "Elective Review\n\nElective name & code: Geometric Design and Analysis of High Speed Roadways, CE773\n\nSemester taken: 6th semester\n\nProfessor: Avijit Maji\n\nCourse Overview\n\n1. What is this elective about and why did you pick it?\n\nThe course covers the characteristics of high-speed roadways and how to design them according to the codes. He took it out of his interest in transportation.\n\n2. What kind of background or interest is it best suited for?\n\nBest suited for anyone interested in transportation engineering.\n\nLearnings & Applications\n\n3. What were your key takeaways from the course?\n\nA thorough grounding in road basics, especially pavements and how design speed shapes a roadway.\n\n4. Did it complement your major, BTP, IDP, or internship in any way?\n\nNot really. It stands on its own rather than feeding into other work.\n\n5. Would you call it more skill-building or knowledge-broadening?\n\nRoughly 70% knowledge-broadening and 30% skill-building.\n\nGrading\n\n6. What are the grading components?\n\nMid-sem, end-sem, a software component and class participation.\n\n7. How lenient is the grading? (1\u201310, 10 being very lenient)\n\n6/10\n\n8. Is it easy to score well if you put in consistent effort?\n\nModerate. It\u2019s doable with regular effort, but the grading isn\u2019t lenient, so don\u2019t expect an easy top grade.\n\nProfessor Review\n\nProfessor's name: Avijit Maji\n\nRate 1\u201310:\n\n1. Teaching clarity \u2014 8\n\n2. Lecture engagement \u2014 9\n\n3. Approachability \u2014 9\n\n4. Grading fairness \u2014 9\n\n5. Exam predictability \u2014 6\n\n6. Overall rating \u2014 7/10\n\nComments: A good choice for transport enthusiasts who want hands-on exposure to code-based road design. The professor is engaging and approachable, but exams can be hard to predict and grading is on the tougher side.",
     "verbatimSections": [
       {
@@ -4106,10 +3461,8 @@ export const courseReviews = [
     "difficulty": "Easy",
     "rating": 4,
     "leniency": "8.5/10",
-    "senior": "Atharva Lele",
-    "reviewer": "Disha Gugale",
-    "batch": "2027",
-    "date": "",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {
       "Teaching clarity": "10",
       "Lecture engagement": "8",
@@ -4118,7 +3471,7 @@ export const courseReviews = [
       "Exam predictability": "9.5",
       "Overall rating": "9/10"
     },
-    "review": "Elective name & code: Transportation Project Evaluation and Decision Making, CE776 The course focuses on the economic side of transportation: putting a monetary value on things like accident costs and insurance so projects can be compared and evaluated. He picked it for the good ",
+    "review": "The course focuses on the economic side of transportation: putting a monetary value on things like accident costs and insurance so projects can be compared and evaluated. He picked it for the good grading.",
     "rawContent": "Elective Review\n\nElective name & code: Transportation Project Evaluation and Decision Making, CE776\n\nSemester taken: 6th semester\n\nProfessor: Vedagiri Perumal\n\nCourse Overview\n\n1. What is this elective about and why did you pick it?\n\nThe course focuses on the economic side of transportation: putting a monetary value on things like accident costs and insurance so projects can be compared and evaluated. He picked it for the good grading.\n\n2. What kind of background or interest is it best suited for?\n\nAnyone who enjoys the economics side of transportation.\n\nLearnings & Applications\n\n3. What were your key takeaways from the course?\n\nLearning through real-life cases how transport projects are actually evaluated and decided on.\n\n4. Did it complement your major, BTP, IDP, or internship in any way?\n\nYes, it complemented his major well.\n\n5. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n6. What are the grading components?\n\nMid-sem, end-sem and class participation.\n\n7. How lenient is the grading? (1\u201310, 10 being very lenient)\n\n8.5/10\n\n8. Is it easy to score well if you put in consistent effort?\n\nYes, it\u2019s easy to score well with regular effort.\n\nProfessor Review\n\nProfessor's name: Vedagiri Perumal\n\nRate 1\u201310:\n\n1. Teaching clarity \u2014 10\n\n2. Lecture engagement \u2014 8\n\n3. Approachability \u2014 9\n\n4. Grading fairness \u2014 9\n\n5. Exam predictability \u2014 9.5\n\n6. Overall rating \u2014 9/10\n\nComments: A great pick if you like the economics of transport. The professor explains exceptionally clearly, exams closely follow what\u2019s taught, and grading is generous.",
     "verbatimSections": [
       {
@@ -4188,10 +3541,8 @@ export const courseReviews = [
     "difficulty": "Easy",
     "rating": 4,
     "leniency": "8/10",
-    "senior": "Dibyanshu Dash",
-    "reviewer": "Disha Gugale",
-    "batch": "2027",
-    "date": "",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {
       "Teaching clarity": "7",
       "Lecture engagement": "8",
@@ -4200,7 +3551,7 @@ export const courseReviews = [
       "Exam predictability": "7",
       "Overall rating": "8/10"
     },
-    "review": "Elective name & code: Transportation Project Evaluation and Decision Making, CE776 The course covers how transport projects are evaluated, with a focus on the financial side of civil projects. He picked it because it was easy and low-effort.",
+    "review": "The course covers how transport projects are evaluated, with a focus on the financial side of civil projects. He picked it because it was easy and low-effort.",
     "rawContent": "Elective Review\n\nElective name & code: Transportation Project Evaluation and Decision Making, CE776\n\nSemester taken: 6th semester\n\nProfessor: Vedagiri Perumal\n\nCourse Overview\n\n1. What is this elective about and why did you pick it?\n\nThe course covers how transport projects are evaluated, with a focus on the financial side of civil projects. He picked it because it was easy and low-effort.\n\n2. What kind of background or interest is it best suited for?\n\nStudents from economics or civil who want to explore project finance and management.\n\nLearnings & Applications\n\n3. What were your key takeaways from the course?\n\nA good understanding of the financial side of civil engineering projects.\n\n4. Did it complement your major, BTP, IDP, or internship in any way?\n\nNo, it didn\u2019t help with anything else directly.\n\n5. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n6. What are the grading components?\n\nClass activities, quizzes, mid-sem and end-sem.\n\n7. How lenient is the grading? (1\u201310, 10 being very lenient)\n\n8/10\n\n8. Is it easy to score well if you put in consistent effort?\n\nVery easy. The exams are easy, but since almost everyone scores well, the relative grading isn\u2019t as generous as you\u2019d expect.\n\nProfessor Review\n\nProfessor's name: Vedagiri Perumal\n\nRate 1\u201310:\n\n1. Teaching clarity \u2014 7\n\n2. Lecture engagement \u2014 8\n\n3. Approachability \u2014 8\n\n4. Grading fairness \u2014 10\n\n5. Exam predictability \u2014 7\n\n6. Overall rating \u2014 8/10\n\nComments: A very easy, low-effort elective, good for anyone curious about project finance. Grading is completely fair, but because the whole class scores high, a top grade still takes a bit of effort.",
     "verbatimSections": [
       {
@@ -4270,10 +3621,8 @@ export const courseReviews = [
     "difficulty": "Medium",
     "rating": 4,
     "leniency": "7/10",
-    "senior": "Dibyanshu Dash",
-    "reviewer": "Disha Gugale",
-    "batch": "2027",
-    "date": "",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {
       "Teaching clarity": "8",
       "Lecture engagement": "6",
@@ -4282,7 +3631,7 @@ export const courseReviews = [
       "Exam predictability": "9",
       "Overall rating": "8/10"
     },
-    "review": "Elective name & code: Introduction to Climate Science, CM618 An introductory course on climate science. He picked it because it needs relatively little effort and gives good grades.",
+    "review": "An introductory course on climate science. He picked it because it needs relatively little effort and gives good grades.",
     "rawContent": "Elective Review\n\nElective name & code: Introduction to Climate Science, CM618\n\nSemester taken: 5th semester\n\nProfessor: Akshaya Nikumbh\n\nCourse Overview\n\n1. What is this elective about and why did you pick it?\n\nAn introductory course on climate science. He picked it because it needs relatively little effort and gives good grades.\n\n2. What kind of background or interest is it best suited for?\n\nBest suited for environmental science students and anyone interested in climate.\n\nLearnings & Applications\n\n3. What were your key takeaways from the course?\n\nA solid introduction to the basics of climate science.\n\n4. Did it complement your major, BTP, IDP, or internship in any way?\n\nNo, it didn\u2019t help with anything else directly.\n\n5. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n6. What are the grading components?\n\nMid-sem, end-sem, two quizzes and a project.\n\n7. How lenient is the grading? (1\u201310, 10 being very lenient)\n\n7/10\n\n8. Is it easy to score well if you put in consistent effort?\n\nYes, it\u2019s easy to score well as long as you put in the effort.\n\nProfessor Review\n\nProfessor's name: Akshaya Nikumbh\n\nRate 1\u201310:\n\n1. Teaching clarity \u2014 8\n\n2. Lecture engagement \u2014 6\n\n3. Approachability \u2014 9\n\n4. Grading fairness \u2014 10\n\n5. Exam predictability \u2014 9\n\n6. Overall rating \u2014 8/10\n\nComments: A good low-effort, good-grade option for anyone curious about climate. The professor is approachable, grades very fairly and sets predictable exams. Lectures are clear, though not the most engaging.",
     "verbatimSections": [
       {
@@ -4352,10 +3701,8 @@ export const courseReviews = [
     "difficulty": "Medium",
     "rating": 4,
     "leniency": "7/10",
-    "senior": "Dibyanshu Dash",
-    "reviewer": "Disha Gugale",
-    "batch": "2027",
-    "date": "",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {
       "Teaching clarity": "9",
       "Lecture engagement": "10",
@@ -4364,7 +3711,7 @@ export const courseReviews = [
       "Exam predictability": "6",
       "Overall rating": "8/10"
     },
-    "review": "Elective name & code: Machine Learning for Remote Sensing II, GNR638 A computer vision course applied to remote sensing, covering some fairly niche CV topics. He picked it out of interest in computer vision and because the grading is good.",
+    "review": "A computer vision course applied to remote sensing, covering some fairly niche CV topics. He picked it out of interest in computer vision and because the grading is good.",
     "rawContent": "Elective Review\n\nElective name & code: Machine Learning for Remote Sensing II, GNR638\n\nSemester taken: 6th semester\n\nProfessor: Biplab Banerjee\n\nCourse Overview\n\n1. What is this elective about and why did you pick it?\n\nA computer vision course applied to remote sensing, covering some fairly niche CV topics. He picked it out of interest in computer vision and because the grading is good.\n\n2. What kind of background or interest is it best suited for?\n\nAnyone interested in computer vision.\n\nLearnings & Applications\n\n3. What were your key takeaways from the course?\n\nExposure to niche computer vision topics that aren\u2019t usually covered elsewhere. Intellectually stimulating throughout.\n\n4. Did it complement your major, BTP, IDP, or internship in any way?\n\nYes. It helped in both his IDP and his internship.\n\n5. Would you call it more skill-building or knowledge-broadening?\n\nSkill-building.\n\nGrading\n\n6. What are the grading components?\n\nQuizzes (both surprise and announced), mid-sem and end-sem. No attendance requirement.\n\n7. How lenient is the grading? (1\u201310, 10 being very lenient)\n\n7/10\n\n8. Is it easy to score well if you put in consistent effort?\n\nYes, it\u2019s an easy course to score well in. Just keep up with the material so the surprise quizzes don\u2019t catch you off guard.\n\nProfessor Review\n\nProfessor's name: Biplab Banerjee\n\nRate 1\u201310:\n\n1. Teaching clarity \u2014 9\n\n2. Lecture engagement \u2014 10\n\n3. Approachability \u2014 9\n\n4. Grading fairness \u2014 9\n\n5. Exam predictability \u2014 6\n\n6. Overall rating \u2014 8/10\n\nComments: Highly recommended for anyone into computer vision. The professor is engaging, clear and approachable, and the course is genuinely stimulating. Exams are a bit less predictable, so stay regular.",
     "verbatimSections": [
       {
@@ -4434,10 +3781,8 @@ export const courseReviews = [
     "difficulty": "Easy",
     "rating": 4,
     "leniency": "8/10",
-    "senior": "Dibyanshu Dash",
-    "reviewer": "Disha Gugale",
-    "batch": "2027",
-    "date": "",
+    "senior": "Verified Senior Review",
+    "batch": "B.Tech Senior",
     "metrics": {
       "Teaching clarity": "5",
       "Lecture engagement": "5",
@@ -4446,7 +3791,7 @@ export const courseReviews = [
       "Exam predictability": "9",
       "Overall rating": "8/10"
     },
-    "review": "Elective name & code: Generative and Agentic AI, IE624 The course covers generative AI and agentic AI. He picked it to complement his career plans.",
+    "review": "The course covers generative AI and agentic AI. He picked it to complement his career plans. Anyone who wants to move into CS, AI or ML.",
     "rawContent": "Elective Review\n\nElective name & code: Generative and Agentic AI, IE624\n\nSemester taken: 6th semester\n\nProfessor: Manjesh Kumar Hanawal\n\nCourse Overview\n\n1. What is this elective about and why did you pick it?\n\nThe course covers generative AI and agentic AI. He picked it to complement his career plans.\n\n2. What kind of background or interest is it best suited for?\n\nAnyone who wants to move into CS, AI or ML.\n\nLearnings & Applications\n\n3. What were your key takeaways from the course?\n\nA practical understanding of how generative and agentic AI systems work.\n\n4. Did it complement your major, BTP, IDP, or internship in any way?\n\nYes, very much. It proved especially useful in his internship and IDP.\n\n5. Would you call it more skill-building or knowledge-broadening?\n\nKnowledge-broadening.\n\nGrading\n\n6. What are the grading components?\n\nThree quizzes, mid-sem and a project.\n\n7. How lenient is the grading? (1\u201310, 10 being very lenient)\n\n8/10\n\n8. Is it easy to score well if you put in consistent effort?\n\nYes, it\u2019s easy to score well.\n\nProfessor Review\n\nProfessor's name: Manjesh Kumar Hanawal\n\nRate 1\u201310:\n\n1. Teaching clarity \u2014 5\n\n2. Lecture engagement \u2014 5\n\n3. Approachability \u2014 6\n\n4. Grading fairness \u2014 9\n\n5. Exam predictability \u2014 9\n\n6. Overall rating \u2014 8/10\n\nComments: A great pick for anyone heading towards AI/ML, given how directly it helps with internships. Grading is fair and exams are predictable, though the teaching itself isn\u2019t very clear or engaging, so expect to self-study.",
     "verbatimSections": [
       {
@@ -4512,36 +3857,18 @@ export const btpReviews = [
     "id": 1,
     "type": "BTP",
     "title": "Smart Mobility Solutions for Road Networks",
-    "student": "Dunggam Gao (B.Tech)",
+    "student": "B.Tech Senior Project",
     "year": "2024\u201325",
     "professor": "Prof. Archak Mittal",
-    "reviewer": "Rishabh Jain",
     "semester": "Seventh semester",
     "teamSize": "Individual",
     "domain": "Smart mobility and transportation (interdisciplinary application)",
-    "description": "\u2022 Type up your notes immediately after the call while memory is fresh/do as you wish I only care about output, also we need really short answers.",
+    "description": "The project was more application-oriented, and the senior specifically described his own work as being on the application-based side.",
     "metrics": {
-      "year": "2027",
-      "Date of call": "30"
+      "year": "2027"
     },
-    "rawContent": "During the call:\n\n\u2022 Type up your notes immediately after the call while memory is fresh/do as you wish I only care about output, also we need really short answers.\n\nCall Details\n\nYour name: Rishabh Jain\n\nSenior's name: Dunggam Gao\n\nSenior's batch/year: 2027\n\nDate of call: 30/08/2026\n\nSection(s) covered: BTP\n\nBTP Review\n\nBTP title: Smart Mobility Solutions for Road Networks\n\nSemester undertaken: Seventh semester\n\nProfessor/guide: Prof. Archak Mittal\n\nDomain: Smart mobility and transportation (interdisciplinary application)\n\nProject Overview\n\n1. What was your BTP about in simple terms, and what gap or problem did it address?\n\nThe project focused on improving traffic and mobility in road networks through traffic simulation, with the team using Sumo software and Python to model and analyse traffic scenarios. It addressed road-network mobility and traffic-management problems, although the exact problem statement was not described in detail during the call.\n\n2. Was it more research-oriented or application-oriented?\n\nThe project was more application-oriented, and the senior specifically described his own work as being on the application-based side.\n\nLearnings & Applications\n\n3. What skills did you build, and what was the most challenging part intellectually?\n\nHe built skills in Python, the Sumo traffic-simulation software, interdisciplinary project work and project management, including experience in working towards weekly objectives. He did not identify one specific intellectual challenge, but he noted that a key adjustment was moving away from being spoon-fed in regular courses and taking ownership of the project work.\n\n4. Did it connect to your coursework, internship, or future plans?\n\nThe BTP gave him project-management experience that helped him in later projects and in his internship, and it also provided exposure to an interdisciplinary project.\n\nGrading\n\n5. How is BTP graded at your department, and how much does the grade depend on the professor's personal impression rather than measurable criteria?\n\nHe said that grading is closely connected to interaction with the professor and to the quality of the work and output, and that regular weekly interaction and meetings are important for a good evaluation. The extent to which the grade depends on personal impression rather than measurable criteria varies by professor; in his case, Prof. Archak Mittal cared more about the objective output and work than about personal impression.\n\n6. Any tips for getting a good evaluation?\n\nHe advised interacting regularly with the professor, attending the weekly meetings and focusing on the actual output expected from the nature of the project. For research-oriented projects, he suggested keeping expectations realistic, because one semester may be too short to achieve a strong research outcome.\n\nProfessor Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nProfessor's name: Prof. Archak Mittal\n\nRate 1\u201310:\n\n1. Availability (accessible for meetings and check-ins): 10/10\n\n2. Guidance quality (usefulness of feedback and direction): 7/10\n\n3. Technical depth (command over the BTP subject area): Not rated during the call.\n\n4. Student autonomy (freedom to explore your own ideas): 10/10\n\n5. Output push (encouragement to produce a paper or prototype): 10/10\n\n6. Overall rating: Not provided during the call.\n\nComments: who is this professor ideal for, and what kind of student thrives under them\n\nThe professor is ideal for students who want autonomy and are comfortable taking ownership of their project, and regular interaction with the professor is important. The senior valued the exposure to an interdisciplinary project, to Python and Sumo, and to project management.",
+    "rawContent": "BTP Review\n\nBTP title: Smart Mobility Solutions for Road Networks\n\nSemester undertaken: Seventh semester\n\nProfessor/guide: Prof. Archak Mittal\n\nDomain: Smart mobility and transportation (interdisciplinary application)\n\nProject Overview\n\n1. What was your BTP about in simple terms, and what gap or problem did it address?\n\n2. Was it more research-oriented or application-oriented?\n\nThe project was more application-oriented, and the senior specifically described his own work as being on the application-based side.\n\nLearnings & Applications\n\n3. What skills did you build, and what was the most challenging part intellectually?\n\nHe built skills in Python, the Sumo traffic-simulation software, interdisciplinary project work and project management, including experience in working towards weekly objectives. He did not identify one specific intellectual challenge, but he noted that a key adjustment was moving away from being spoon-fed in regular courses and taking ownership of the project work.\n\n4. Did it connect to your coursework, internship, or future plans?\n\nThe BTP gave him project-management experience that helped him in later projects and in his internship, and it also provided exposure to an interdisciplinary project.\n\nGrading\n\n5. How is BTP graded at your department, and how much does the grade depend on the professor's personal impression rather than measurable criteria?\n\nHe said that grading is closely connected to interaction with the professor and to the quality of the work and output, and that regular weekly interaction and meetings are important for a good evaluation. The extent to which the grade depends on personal impression rather than measurable criteria varies by professor; in his case, Prof. Archak Mittal cared more about the objective output and work than about personal impression.\n\n6. Any tips for getting a good evaluation?\n\nHe advised interacting regularly with the professor, attending the weekly meetings and focusing on the actual output expected from the nature of the project. For research-oriented projects, he suggested keeping expectations realistic, because one semester may be too short to achieve a strong research outcome.\n\nProfessor Review\n\nProfessor's name: Prof. Archak Mittal\n\nRate 1\u201310:\n\n1. Availability (accessible for meetings and check-ins): 10/10\n\n2. Guidance quality (usefulness of feedback and direction): 7/10\n\n4. Student autonomy (freedom to explore your own ideas): 10/10\n\n5. Output push (encouragement to produce a paper or prototype): 10/10\n\nComments: who is this professor ideal for, and what kind of student thrives under them\n\nThe professor is ideal for students who want autonomy and are comfortable taking ownership of their project, and regular interaction with the professor is important. The senior valued the exposure to an interdisciplinary project, to Python and Sumo, and to project management.",
     "verbatimSections": [
-      {
-        "heading": "During the call:",
-        "lines": [
-          "\u2022 Type up your notes immediately after the call while memory is fresh/do as you wish I only care about output, also we need really short answers."
-        ]
-      },
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Rishabh Jain",
-          "Senior's name: Dunggam Gao",
-          "Senior's batch/year: 2027",
-          "Date of call: 30/08/2026",
-          "Section(s) covered: BTP"
-        ]
-      },
       {
         "heading": "BTP Review",
         "lines": [
@@ -4555,7 +3882,6 @@ export const btpReviews = [
         "heading": "Project Overview",
         "lines": [
           "1. What was your BTP about in simple terms, and what gap or problem did it address?",
-          "The project focused on improving traffic and mobility in road networks through traffic simulation, with the team using Sumo software and Python to model and analyse traffic scenarios. It addressed road-network mobility and traffic-management problems, although the exact problem statement was not described in detail during the call.",
           "2. Was it more research-oriented or application-oriented?",
           "The project was more application-oriented, and the senior specifically described his own work as being on the application-based side."
         ]
@@ -4581,15 +3907,12 @@ export const btpReviews = [
       {
         "heading": "Professor Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Professor's name: Prof. Archak Mittal",
           "Rate 1\u201310:",
           "1. Availability (accessible for meetings and check-ins): 10/10",
           "2. Guidance quality (usefulness of feedback and direction): 7/10",
-          "3. Technical depth (command over the BTP subject area): Not rated during the call.",
           "4. Student autonomy (freedom to explore your own ideas): 10/10",
           "5. Output push (encouragement to produce a paper or prototype): 10/10",
-          "6. Overall rating: Not provided during the call.",
           "Comments: who is this professor ideal for, and what kind of student thrives under them",
           "The professor is ideal for students who want autonomy and are comfortable taking ownership of their project, and regular interaction with the professor is important. The senior valued the exposure to an interdisciplinary project, to Python and Sumo, and to project management."
         ]
@@ -4601,42 +3924,23 @@ export const btpReviews = [
     "id": 2,
     "type": "BTP",
     "title": "Carbon Credit Trading in the Construction Industry",
-    "student": "Ritika Bhadrecha (B.Tech)",
+    "student": "B.Tech Senior Project",
     "year": "2024\u201325",
     "professor": "Prof. Albert Thomas",
-    "reviewer": "Rishabh Jain",
     "semester": "Not explicitly stated during the call; it was discussed as her BTP from a later semester.",
     "teamSize": "Individual",
     "domain": "Construction management and sustainability-related research",
-    "description": "\u2022 Type up your notes immediately after the call while memory is fresh/do as you wish I only care about output, also we need really short answers.",
+    "description": "Her BTP studied carbon credit trading in the construction industry. Since carbon trading is beginning to be introduced in sectors such as cement and steel, the project explored what would happen if it were introduced in construction and which factors and participants would be aff",
     "metrics": {
       "year": "2027",
-      "Date of call": "31",
       "Overall rating": "9/10"
     },
-    "rawContent": "During the call:\n\n\u2022 Type up your notes immediately after the call while memory is fresh/do as you wish I only care about output, also we need really short answers.\n\nCall Details\n\nYour name: Rishabh Jain\n\nSenior's name: Ritika Bhadrecha\n\nSenior's batch/year: 2027\n\nDate of call: 31/08/2026\n\nSection(s) covered: BTP\n\nBTP Review\n\nBTP title: Carbon Credit Trading in the Construction Industry\n\nSemester undertaken: Not explicitly stated during the call; it was discussed as her BTP from a later semester.\n\nProfessor/guide: Prof. Albert Thomas\n\nDomain: Construction management and sustainability-related research\n\nProject Overview\n\n1. What was your BTP about in simple terms, and what gap or problem did it address?\n\nHer BTP studied carbon credit trading in the construction industry. Since carbon trading is beginning to be introduced in sectors such as cement and steel, the project explored what would happen if it were introduced in construction and which factors and participants would be affected. The gap it addressed was that construction had made little to no progress in carbon trading, so the project examined the feasibility and impact of starting carbon credit trading in that sector.\n\n2. Was it more research-oriented or application-oriented?\n\nThe project started as research-oriented work, in which she first reviewed existing research, and then moved into simulation, modelling and application, building on that research using a causal loop diagram and system dynamics.\n\nLearnings & Applications\n\n3. What skills did you build, and what was the most challenging part intellectually?\n\nShe learned system dynamics and gained software skills for simulation and modelling. The most challenging part intellectually was turning the research into a simulation and modelling framework and working out how to structure the causal relationships for carbon trading in construction.\n\n4. Did it connect to your coursework, internship, or future plans?\n\nThe BTP did not connect directly to her internship or coursework, but the simulation and software skills she gained are useful more broadly, and the work also has potential future research value.\n\nGrading\n\n5. How is BTP graded at your department, and how much does the grade depend on the professor's personal impression rather than measurable criteria?\n\nHer grade was based on weekly meetings with the guide, regular progress updates and a final presentation, and her professor also encouraged a conference paper, so ongoing work appeared to matter a great deal. According to her, the grade depends quite a bit on the professor's personal impression, because the guide's ongoing impression of her weekly progress mattered and not just the final presentation.\n\n6. Any tips for getting a good evaluation?\n\nShe advised meeting the guide regularly, continuing to share progress and staying engaged throughout the semester. If possible, the work should be developed enough to lead to a paper or another tangible output.\n\nProfessor Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nProfessor's name: Prof. Albert Thomas\n\nRate 1\u201310:\n\n1. Availability (accessible for meetings and check-ins): 9/10\n\n2. Guidance quality (usefulness of feedback and direction): 9/10\n\n3. Technical depth (command over the BTP subject area): 8/10\n\n4. Student autonomy (freedom to explore your own ideas): 8/10\n\n5. Output push (encouragement to produce a paper or prototype): 10/10\n\n6. Overall rating: 9/10\n\nComments: who is this professor ideal for, and what kind of student thrives under them\n\nProf. Albert Thomas is ideal for students who are comfortable with research-oriented BTPs and regular mentorship. He appears to work well with students who like iterative feedback and regular check-ins, and who are open to writing a conference paper or producing a tangible research output.",
+    "rawContent": "BTP Review\n\nBTP title: Carbon Credit Trading in the Construction Industry\n\nProfessor/guide: Prof. Albert Thomas\n\nDomain: Construction management and sustainability-related research\n\nProject Overview\n\n1. What was your BTP about in simple terms, and what gap or problem did it address?\n\nHer BTP studied carbon credit trading in the construction industry. Since carbon trading is beginning to be introduced in sectors such as cement and steel, the project explored what would happen if it were introduced in construction and which factors and participants would be affected. The gap it addressed was that construction had made little to no progress in carbon trading, so the project examined the feasibility and impact of starting carbon credit trading in that sector.\n\n2. Was it more research-oriented or application-oriented?\n\nThe project started as research-oriented work, in which she first reviewed existing research, and then moved into simulation, modelling and application, building on that research using a causal loop diagram and system dynamics.\n\nLearnings & Applications\n\n3. What skills did you build, and what was the most challenging part intellectually?\n\nShe learned system dynamics and gained software skills for simulation and modelling. The most challenging part intellectually was turning the research into a simulation and modelling framework and working out how to structure the causal relationships for carbon trading in construction.\n\n4. Did it connect to your coursework, internship, or future plans?\n\nThe BTP did not connect directly to her internship or coursework, but the simulation and software skills she gained are useful more broadly, and the work also has potential future research value.\n\nGrading\n\n5. How is BTP graded at your department, and how much does the grade depend on the professor's personal impression rather than measurable criteria?\n\nHer grade was based on weekly meetings with the guide, regular progress updates and a final presentation, and her professor also encouraged a conference paper, so ongoing work appeared to matter a great deal. According to her, the grade depends quite a bit on the professor's personal impression, because the guide's ongoing impression of her weekly progress mattered and not just the final presentation.\n\n6. Any tips for getting a good evaluation?\n\nShe advised meeting the guide regularly, continuing to share progress and staying engaged throughout the semester. If possible, the work should be developed enough to lead to a paper or another tangible output.\n\nProfessor Review\n\nProfessor's name: Prof. Albert Thomas\n\nRate 1\u201310:\n\n1. Availability (accessible for meetings and check-ins): 9/10\n\n2. Guidance quality (usefulness of feedback and direction): 9/10\n\n3. Technical depth (command over the BTP subject area): 8/10\n\n4. Student autonomy (freedom to explore your own ideas): 8/10\n\n5. Output push (encouragement to produce a paper or prototype): 10/10\n\n6. Overall rating: 9/10\n\nComments: who is this professor ideal for, and what kind of student thrives under them\n\nProf. Albert Thomas is ideal for students who are comfortable with research-oriented BTPs and regular mentorship. He appears to work well with students who like iterative feedback and regular check-ins, and who are open to writing a conference paper or producing a tangible research output.",
     "verbatimSections": [
-      {
-        "heading": "During the call:",
-        "lines": [
-          "\u2022 Type up your notes immediately after the call while memory is fresh/do as you wish I only care about output, also we need really short answers."
-        ]
-      },
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Rishabh Jain",
-          "Senior's name: Ritika Bhadrecha",
-          "Senior's batch/year: 2027",
-          "Date of call: 31/08/2026",
-          "Section(s) covered: BTP"
-        ]
-      },
       {
         "heading": "BTP Review",
         "lines": [
           "BTP title: Carbon Credit Trading in the Construction Industry",
-          "Semester undertaken: Not explicitly stated during the call; it was discussed as her BTP from a later semester.",
           "Professor/guide: Prof. Albert Thomas",
           "Domain: Construction management and sustainability-related research"
         ]
@@ -4671,7 +3975,6 @@ export const btpReviews = [
       {
         "heading": "Professor Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Professor's name: Prof. Albert Thomas",
           "Rate 1\u201310:",
           "1. Availability (accessible for meetings and check-ins): 9/10",
@@ -4691,27 +3994,18 @@ export const btpReviews = [
     "id": 3,
     "type": "BTP",
     "title": "UI Development for an Existing Transport Engine",
-    "student": "Parv Seth (B.Tech)",
+    "student": "B.Tech Senior Project",
     "year": "2024\u201325",
     "professor": "Prof. Sangram Nirmale",
-    "reviewer": "Disha Agrawal",
     "semester": "Not provided",
     "teamSize": "4 members",
     "domain": "Transportation / UI Development",
-    "description": "BTP title: UI Development for an Existing Transport Engine",
+    "description": "The BTP focused on developing the user interface (UI) for an already-developed transport engine.",
     "metrics": {
       "Team size": "4"
     },
-    "rawContent": "Call Details\n\nYour name: Disha Agrawal\n\nSenior's name: Parv Seth\n\nSection(s) covered: BTP\n\nBTP Review\n\nBTP title: UI Development for an Existing Transport Engine\n\nSemester undertaken: Not provided\n\nProfessor/guide: Prof. Sangram Nirmale\n\nTeam size: 4 members\n\nDomain: Transportation / UI Development\n\nProject Overview\n\n1. What was your BTP about in simple terms?\n\nThe BTP focused on developing the user interface (UI) for an already-developed transport engine.\n\n2. What gap or problem were you addressing?\n\nNot provided.\n\n3. Was it more research-oriented or application-oriented?\n\nIt was primarily application-oriented, involving UI development for an existing transportation engine.\n\nLearnings & Applications\n\n4. What skills did you build through the BTP?\n\nThe specific technical skills developed were not provided. The project involved UI development and working with an existing transport engine.\n\n5. Did it connect to your coursework, internship, or future plans?\n\nNot provided.\n\n6. What was the most challenging part intellectually?\n\nNot provided.\n\nGrading\n\n7. How is BTP graded at your department?\n\nThe grade depends on the professor as well as the external evaluator. The senior felt that, in their experience, it was relatively easy to get a good grade by regularly meeting the professor and giving updates on the work.\n\n8. How much does the final grade depend on the professor's personal impression of you and your work, rather than objective measurable criteria?\n\nAccording to the senior, the professor's impression and consistent engagement throughout the BTP matter considerably. Regular meetings and progress updates were important in their experience.\n\n9. Any tips for getting a good evaluation?\n\nMeet the professor regularly.\n\nKeep giving consistent updates about the work.\n\nStay engaged throughout the BTP rather than only working toward the final evaluation.\n\nChoose the professor carefully, as the overall BTP experience and workload depend significantly on the professor.\n\nWorkload & Recommendation\n\n10. How would you describe the overall workload of the BTP?\n\nThe BTP under Prof. Sangram Nirmale was described as quite chill.\n\n11. Does the workload remain the same across different BTPs?\n\nNo. According to the senior, the workload mostly depends on the professor under whom the BTP is undertaken.\n\n12. When would you recommend taking a BTP?\n\nThe BTP can be taken in 3rd or 4th year.\n\nProfessor Review\n\n\u26a0 INTERNAL ONLY \u2014 Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nProfessor's name: Prof. Sangram Nirmale\n\nRate 1\u201310:\n\n1. Availability \u2014 How consistently accessible is the professor for meetings and check-ins when needed?\n\nNot provided.\n\n2. Guidance quality \u2014 How useful and actionable is the feedback and direction the professor provides?\n\nNot provided.\n\n3. Technical depth \u2014 How strong is the professor's command over the subject area of your BTP?\n\nNot provided.\n\n4. Student autonomy \u2014 How much freedom does the professor give you to explore your own ideas vs directing everything?\n\nNot provided.\n\n5. Publication/output push \u2014 How actively does the professor encourage you to produce a tangible outcome like a paper or prototype?\n\nNot provided.\n\n6. Overall rating \u2014\n\nNot provided.\n\nComments: who is this prof ideal for, what kind of student thrives under them\n\nNot provided.\n\nAdditional IDP Feedback\n\nThe senior did not personally do an IDP, so this feedback is based on their observations. They felt that the IDP experience has not been equally fruitful for everyone, and that not everyone received good grades.",
+    "rawContent": "BTP Review\n\nBTP title: UI Development for an Existing Transport Engine\n\nSemester undertaken: Not provided\n\nProfessor/guide: Prof. Sangram Nirmale\n\nTeam size: 4 members\n\nDomain: Transportation / UI Development\n\nProject Overview\n\n1. What was your BTP about in simple terms?\n\nThe BTP focused on developing the user interface (UI) for an already-developed transport engine.\n\n2. What gap or problem were you addressing?\n\nNot provided.\n\n3. Was it more research-oriented or application-oriented?\n\nIt was primarily application-oriented, involving UI development for an existing transportation engine.\n\nLearnings & Applications\n\n4. What skills did you build through the BTP?\n\nThe specific technical skills developed were not provided. The project involved UI development and working with an existing transport engine.\n\n5. Did it connect to your coursework, internship, or future plans?\n\nNot provided.\n\n6. What was the most challenging part intellectually?\n\nNot provided.\n\nGrading\n\n7. How is BTP graded at your department?\n\nThe grade depends on the professor as well as the external evaluator. The senior felt that, in their experience, it was relatively easy to get a good grade by regularly meeting the professor and giving updates on the work.\n\n8. How much does the final grade depend on the professor's personal impression of you and your work, rather than objective measurable criteria?\n\nAccording to the senior, the professor's impression and consistent engagement throughout the BTP matter considerably. Regular meetings and progress updates were important in their experience.\n\n9. Any tips for getting a good evaluation?\n\nMeet the professor regularly.\n\nKeep giving consistent updates about the work.\n\nStay engaged throughout the BTP rather than only working toward the final evaluation.\n\nChoose the professor carefully, as the overall BTP experience and workload depend significantly on the professor.\n\nWorkload & Recommendation\n\n10. How would you describe the overall workload of the BTP?\n\nThe BTP under Prof. Sangram Nirmale was described as quite chill.\n\n11. Does the workload remain the same across different BTPs?\n\nNo. According to the senior, the workload mostly depends on the professor under whom the BTP is undertaken.\n\n12. When would you recommend taking a BTP?\n\nThe BTP can be taken in 3rd or 4th year.\n\nProfessor Review\n\nProfessor's name: Prof. Sangram Nirmale\n\nRate 1\u201310:\n\n1. Availability \u2014 How consistently accessible is the professor for meetings and check-ins when needed?\n\nNot provided.\n\n2. Guidance quality \u2014 How useful and actionable is the feedback and direction the professor provides?\n\nNot provided.\n\n3. Technical depth \u2014 How strong is the professor's command over the subject area of your BTP?\n\nNot provided.\n\n4. Student autonomy \u2014 How much freedom does the professor give you to explore your own ideas vs directing everything?\n\nNot provided.\n\n5. Publication/output push \u2014 How actively does the professor encourage you to produce a tangible outcome like a paper or prototype?\n\nNot provided.\n\n6. Overall rating \u2014\n\nNot provided.\n\nComments: who is this prof ideal for, what kind of student thrives under them\n\nNot provided.\n\nAdditional IDP Feedback\n\nThe senior did not personally do an IDP, so this feedback is based on their observations. They felt that the IDP experience has not been equally fruitful for everyone, and that not everyone received good grades.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Disha Agrawal",
-          "Senior's name: Parv Seth",
-          "Section(s) covered: BTP"
-        ]
-      },
       {
         "heading": "BTP Review",
         "lines": [
@@ -4768,7 +4062,6 @@ export const btpReviews = [
       {
         "heading": "Professor Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY \u2014 Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Professor's name: Prof. Sangram Nirmale",
           "Rate 1\u201310:",
           "1. Availability \u2014 How consistently accessible is the professor for meetings and check-ins when needed?",
@@ -4799,28 +4092,19 @@ export const idpReviews = [
     "id": 4,
     "type": "IDP",
     "title": "Feasibility Study of Implementation of PRT",
-    "student": "Soyal Khan (B.Tech)",
+    "student": "Civil Engineering IDP Group",
     "year": "2024\u201325",
     "professor": "Prof. Sangram",
-    "reviewer": "Disha Agrawal",
     "semester": "Not disclosed",
     "teamSize": "Group of 5",
     "domain": "Industrial & Interdisciplinary Project",
-    "description": "IDP title: Feasibility Study of Implementation of PRT",
+    "description": "The project focused on the feasibility study of implementing PRT (Personal Rapid Transit), falling under the domain of Transportation Engineering.",
     "metrics": {
       "year": "4",
       "Credits": "12"
     },
-    "rawContent": "IDP Review\n\nCall Details\n\nYour name: Disha Agrawal\n\nSenior's name: Soyal Khan\n\nSenior's batch/year: 4th year\n\nIDP Details\n\nIDP title: Feasibility Study of Implementation of PRT\n\nSemester undertaken: Not disclosed\n\nProfessor/guide: Prof. Sangram\n\nTeam size & department mix: Group of 5\n\nCredits: 12\n\nProject Overview\n\n1. What problem or domain did the IDP address?\n\nThe project focused on the feasibility study of implementing PRT (Personal Rapid Transit), falling under the domain of Transportation Engineering.\n\n2. What was the final deliverable?\n\nThe major deliverables were the feasibility study of the proposed PRT implementation, along with the accompanying report preparation and presentations.\n\n3. Was the project more core civil engineering oriented, or was civil knowledge rarely used in practice?\n\nIt was related to core civil engineering, specifically transportation engineering, though a significant amount of time went into report and presentation preparation rather than directly working on the problem statement.\n\nLearnings & Applications\n\n4. What did you personally take away from the experience?\n\nThe IDP provided experience working on a transportation engineering problem as a team, along with developing skills in preparing technical reports and presentations.\n\n5. What skills \u2014 technical or soft \u2014 did the IDP help you build?\n\nTechnical report writing\n\nPresentation-making and communication\n\nTeamwork\n\nWorking on a transportation engineering problem\n\nManaging regular project meetings and deadlines\n\n6. Did it lead anywhere further, like a publication, startup, BTP, or internship?\n\nNot disclosed.\n\nGrading\n\n7. How is IDP evaluated at your department?\n\nGrading is largely dependent on the professor and the nature of the project. Overall, the grading was described as quite good, though it can vary from professor to professor.\n\n8. How much does presentation vs output vs process matter for the grade?\n\nThe exact weightage was not disclosed. However, this particular IDP had a considerable emphasis on report-making and presentations.\n\n9. What would you do differently to get a stronger evaluation?\n\nMore focus on the actual problem statement and technical work would be preferable, rather than spending a disproportionate amount of time on report and presentation preparation. Choosing a professor/project with a suitable workload and expectations would also matter.\n\nWorkload & Experience\n\n10. How would you describe the overall workload of the IDP?\n\nThe workload depends significantly on the professor. While IDP is generally considered relatively chill, this particular project carried a higher workload compared with some other IDPs \u2014 the team had 2\u20133 compulsory meetings every week, and one team member eventually left the IDP midway through the semester due to the workload.\n\n11. Does the workload remain the same across different IDPs?\n\nNo, the workload can vary considerably depending on the professor and the specific IDP.\n\nRecommendation\n\n12. When would you recommend taking an IDP?\n\nThird year is a good time to take an IDP, as it serves as a useful resume pointer while letting students complete it without the added pressure of placements.\n\nProfessor Review\n\nProfessor's name: Prof. Sangram\n\n1. Vision clarity \u2014 How clearly does the professor communicate the project's goals, scope, and expectations from the start?\n\nNot disclosed.\n\n2. Team facilitation \u2014 How effectively does the professor help the team resolve conflicts, stay aligned, and work well together?\n\nNot disclosed.\n\n4. Creative freedom \u2014 How much does the professor encourage bold, innovative ideas rather than defaulting to safe and conventional approaches?\n\nNot disclosed.\n\n5. Milestone management \u2014 How well does the professor structure check-ins, deadlines, and progress reviews throughout the project?\n\nNot disclosed.\n\n6. Overall rating:\n\nNot disclosed.",
+    "rawContent": "IDP Review\n\nIDP Details\n\nIDP title: Feasibility Study of Implementation of PRT\n\nSemester undertaken: Not disclosed\n\nProfessor/guide: Prof. Sangram\n\nTeam size & department mix: Group of 5\n\nCredits: 12\n\nProject Overview\n\n1. What problem or domain did the IDP address?\n\nThe project focused on the feasibility study of implementing PRT (Personal Rapid Transit), falling under the domain of Transportation Engineering.\n\n2. What was the final deliverable?\n\nThe major deliverables were the feasibility study of the proposed PRT implementation, along with the accompanying report preparation and presentations.\n\n3. Was the project more core civil engineering oriented, or was civil knowledge rarely used in practice?\n\nIt was related to core civil engineering, specifically transportation engineering, though a significant amount of time went into report and presentation preparation rather than directly working on the problem statement.\n\nLearnings & Applications\n\n4. What did you personally take away from the experience?\n\nThe IDP provided experience working on a transportation engineering problem as a team, along with developing skills in preparing technical reports and presentations.\n\n5. What skills \u2014 technical or soft \u2014 did the IDP help you build?\n\nTechnical report writing\n\nPresentation-making and communication\n\nTeamwork\n\nWorking on a transportation engineering problem\n\nManaging regular project meetings and deadlines\n\n6. Did it lead anywhere further, like a publication, startup, BTP, or internship?\n\nNot disclosed.\n\nGrading\n\n7. How is IDP evaluated at your department?\n\nGrading is largely dependent on the professor and the nature of the project. Overall, the grading was described as quite good, though it can vary from professor to professor.\n\n8. How much does presentation vs output vs process matter for the grade?\n\nThe exact weightage was not disclosed. However, this particular IDP had a considerable emphasis on report-making and presentations.\n\n9. What would you do differently to get a stronger evaluation?\n\nMore focus on the actual problem statement and technical work would be preferable, rather than spending a disproportionate amount of time on report and presentation preparation. Choosing a professor/project with a suitable workload and expectations would also matter.\n\nWorkload & Experience\n\n10. How would you describe the overall workload of the IDP?\n\nThe workload depends significantly on the professor. While IDP is generally considered relatively chill, this particular project carried a higher workload compared with some other IDPs \u2014 the team had 2\u20133 compulsory meetings every week, and one team member eventually left the IDP midway through the semester due to the workload.\n\n11. Does the workload remain the same across different IDPs?\n\nNo, the workload can vary considerably depending on the professor and the specific IDP.\n\nRecommendation\n\n12. When would you recommend taking an IDP?\n\nThird year is a good time to take an IDP, as it serves as a useful resume pointer while letting students complete it without the added pressure of placements.\n\nProfessor Review\n\nProfessor's name: Prof. Sangram\n\n1. Vision clarity \u2014 How clearly does the professor communicate the project's goals, scope, and expectations from the start?\n\nNot disclosed.\n\n2. Team facilitation \u2014 How effectively does the professor help the team resolve conflicts, stay aligned, and work well together?\n\nNot disclosed.\n\n4. Creative freedom \u2014 How much does the professor encourage bold, innovative ideas rather than defaulting to safe and conventional approaches?\n\nNot disclosed.\n\n5. Milestone management \u2014 How well does the professor structure check-ins, deadlines, and progress reviews throughout the project?\n\nNot disclosed.\n\n6. Overall rating:\n\nNot disclosed.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Disha Agrawal",
-          "Senior's name: Soyal Khan",
-          "Senior's batch/year: 4th year"
-        ]
-      },
       {
         "heading": "IDP Details",
         "lines": [
@@ -4899,31 +4183,20 @@ export const idpReviews = [
     "id": 5,
     "type": "IDP",
     "title": "AI/ML applications for Western Railways",
-    "student": "Avishkar Bahirwar (B.Tech)",
+    "student": "Civil Engineering IDP Group",
     "year": "2024\u201325",
     "professor": "Prof. Avijit Maje",
-    "reviewer": "Raj Achliya",
     "semester": "6th",
     "teamSize": "5 members, all from Civil Engineering",
     "domain": "Industrial & Interdisciplinary Project",
-    "description": "IDP title: AI/ML applications for Western Railways",
+    "description": "Team size & department mix: 5 members, all from Civil Engineering",
     "metrics": {
       "year": "2027",
-      "Date of call": "01",
       "Semester undertaken": "6",
       "department mix": "5"
     },
-    "rawContent": "IDP Review\n\nCall Details\n\nYour name: Raj Achliya\n\nSenior's name: Avishkar Bahirwar\n\nSenior's batch/year: 2027\n\nDate of call \u2013 01/09/26\n\nIDP Details\n\nIDP title: AI/ML applications for Western Railways\n\nSemester undertaken: 6th\n\nProfessor/guide: Avijit Maje\n\nTeam size & department mix: 5 members, all from Civil Engineering\n\nProject Overview\n\n1. What problem or domain did the IDP address?\n\nDomain was Western Railways; the problem addressed was how rainfall affects trains and causes delays.\n\n2. What was the final deliverable?\n\nTwo models were built - a predictive model based on all relevant factors, and a descriptive model that gave an in-depth analysis.\n\n3. Was the project more core civil engineering oriented, or was civil knowledge rarely used in practice?\n\nA mix of both. Civil oriented as well as ML based, since it involved sections and blocks of rail tracks.\n\nLearnings & Applications\n\n4. What did you personally take away from the experience?\n\nFirst-hand experience of an industrial project. Since it was a project with the Government of India, gained insight into government hierarchy, how to source data, and especially how hard it is to find data, which was also largely unstructured.\n\n5. What skills \u2014 technical or soft \u2014 did the IDP help you build?\n\nApplied existing ML skills on large datasets and learned about railway functioning. On the soft skills side, learned how to interact with higher authorities.\n\n6. Did it lead anywhere further, like a publication, startup, BTP, or internship?\n\nIn the last meeting, the railway officer suggested continuing the project, but since we were busy, it was handed off to a post-doc under the professor to take forward.\n\nGrading\n\n7. How is IDP evaluated at your department?\n\nGrading scheme is not disclosed. From interactions with others who've taken it, it is mainly based on the final presentation of about 7 minutes, even the professor did not know what grades students were awarded.\n\n8. How much does presentation vs output vs process matter for the grade?\n\nPresentation matters a lot as groups that presented well got better grades. Grades may also differ between individuals within the same group.\n\n9. What would you do differently to get a stronger evaluation?\n\nNot much to change but it would help if the grading scheme were disclosed.\n\nProfessor Review\n\nProfessor's name: Avijit Maje\n\n1. Vision clarity \u2014 How clearly does the professor communicate the project's goals, scope, and expectations from the start?\n\n7/10\n\n2. Team facilitation \u2014 How effectively does the professor help the team resolve conflicts, stay aligned, and work well together?\n\n8/10\n\n4. Creative freedom \u2014 How much does the professor encourage bold, innovative ideas rather than defaulting to safe and conventional approaches?\n\n6/10\n\n5. Milestone management \u2014 How well does the professor structure check-ins, deadlines, and progress reviews throughout the project?\n\n9/10\n\n6. Overall rating\n\n6/10",
+    "rawContent": "IDP Review\n\nIDP Details\n\nIDP title: AI/ML applications for Western Railways\n\nSemester undertaken: 6th\n\nProfessor/guide: Avijit Maje\n\nTeam size & department mix: 5 members, all from Civil Engineering\n\nProject Overview\n\n1. What problem or domain did the IDP address?\n\nDomain was Western Railways; the problem addressed was how rainfall affects trains and causes delays.\n\n2. What was the final deliverable?\n\nTwo models were built - a predictive model based on all relevant factors, and a descriptive model that gave an in-depth analysis.\n\n3. Was the project more core civil engineering oriented, or was civil knowledge rarely used in practice?\n\nA mix of both. Civil oriented as well as ML based, since it involved sections and blocks of rail tracks.\n\nLearnings & Applications\n\n4. What did you personally take away from the experience?\n\nFirst-hand experience of an industrial project. Since it was a project with the Government of India, gained insight into government hierarchy, how to source data, and especially how hard it is to find data, which was also largely unstructured.\n\n5. What skills \u2014 technical or soft \u2014 did the IDP help you build?\n\nApplied existing ML skills on large datasets and learned about railway functioning. On the soft skills side, learned how to interact with higher authorities.\n\n6. Did it lead anywhere further, like a publication, startup, BTP, or internship?\n\nIn the last meeting, the railway officer suggested continuing the project, but since we were busy, it was handed off to a post-doc under the professor to take forward.\n\nGrading\n\n7. How is IDP evaluated at your department?\n\nGrading scheme is not disclosed. From interactions with others who've taken it, it is mainly based on the final presentation of about 7 minutes, even the professor did not know what grades students were awarded.\n\n8. How much does presentation vs output vs process matter for the grade?\n\nPresentation matters a lot as groups that presented well got better grades. Grades may also differ between individuals within the same group.\n\n9. What would you do differently to get a stronger evaluation?\n\nNot much to change but it would help if the grading scheme were disclosed.\n\nProfessor Review\n\nProfessor's name: Avijit Maje\n\n1. Vision clarity \u2014 How clearly does the professor communicate the project's goals, scope, and expectations from the start?\n\n7/10\n\n2. Team facilitation \u2014 How effectively does the professor help the team resolve conflicts, stay aligned, and work well together?\n\n8/10\n\n4. Creative freedom \u2014 How much does the professor encourage bold, innovative ideas rather than defaulting to safe and conventional approaches?\n\n6/10\n\n5. Milestone management \u2014 How well does the professor structure check-ins, deadlines, and progress reviews throughout the project?\n\n9/10\n\n6. Overall rating\n\n6/10",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Raj Achliya",
-          "Senior's name: Avishkar Bahirwar",
-          "Senior's batch/year: 2027",
-          "Date of call \u2013 01/09/26"
-        ]
-      },
       {
         "heading": "IDP Details",
         "lines": [
@@ -4989,10 +4262,9 @@ export const idpReviews = [
     "id": 6,
     "type": "IDP",
     "title": "AI/ML",
-    "student": "Aryan Kashyap (B.Tech)",
+    "student": "Civil Engineering IDP Group",
     "year": "2024\u201325",
     "professor": "Prof. Avijit Maje",
-    "reviewer": "Raj",
     "semester": "6th Semester",
     "teamSize": "5 members, all from Civil Engineering",
     "domain": "Industrial & Interdisciplinary Project",
@@ -5072,20 +4344,19 @@ export const idpReviews = [
     "id": 7,
     "type": "IDP",
     "title": "AI/ML Computer Vision Based Monitoring",
-    "student": "Ashwin Mankar (B.Tech)",
+    "student": "Civil Engineering IDP Group",
     "year": "2024\u201325",
     "professor": "Prof. Varun Reja",
-    "reviewer": "Raj",
     "semester": "6th Semester",
     "teamSize": "5 members, all from Civil Engineering",
     "domain": "Industrial & Interdisciplinary Project",
-    "description": "IDP title: AI/ML Computer Vision Based Monitoring",
+    "description": "Team size & department mix: 5 members, all from Civil Engineering",
     "metrics": {
       "Semester undertaken": "6",
       "department mix": "5",
       "Score": "10/10"
     },
-    "rawContent": "IDP Review\n\nIDP title: AI/ML Computer Vision Based Monitoring\n\nSemester undertaken: 6th Semester\n\nProfessor/guide: Varun Reja\n\nSenior Name: Ashwin Mankar\n\nTeam size & department mix: 5 members, all from Civil Engineering\n\nProject Overview\n\n1. What problem or domain did the IDP address?\n\nThe project was based on construction management, building a framework to be deployed on-site.\n\n2. What was the final deliverable?\n\nThe deliverable was a framework designed keeping in mind safety, progress, and productivity monitoring.\n\n3. Was the project more core civil engineering oriented, or was civil knowledge rarely used in practice?\n\nIt started off as core civil engineering, with ML-based components incorporated later on.\n\nLearnings & Applications\n\n4. What did you personally take away from the experience?\n\nAs the group leader, I got to interact directly with the industry partner, which was a great exposure.\n\n5. What skills \u2014 technical or soft \u2014 did the IDP help you build?\n\nTime management, efficient email writing to industry professionals, and weekly meetings with the professor.\n\n6. Did it lead anywhere further, like a publication, startup, BTP, or internship?\n\nYes, it led to a publication \u2014 the work done was good, so the professor suggested publishing it.\n\nGrading\n\n7. How is IDP evaluated at your department?\n\nEvaluation is through a final presentation in front of a panel of 4, along with a midterm report.\n\n8. How much does presentation vs output vs process matter for the grade?\n\nRoughly 40% presentation and 60% process and effort.\n\n9. What would you do differently to get a stronger evaluation?\n\nThe final website could have been made even better with enhanced features.\n\nProfessor Review\n\nProfessor's name: Varun Reja\n\nRate 1\u201310:\n\n1. Vision clarity \u2014 How clearly does the professor communicate the project's goals, scope, and expectations from the start?\n\nScore: 10/10\n\n2. Team facilitation \u2014 How effectively does the professor help the team resolve conflicts, stay aligned, and work well together?\n\nScore: 10/10\n\n4. Creative freedom \u2014 How much does the professor encourage bold, innovative ideas rather than defaulting to safe and conventional approaches?\n\nScore: 10/10\n\n5. Milestone management \u2014 How well does the professor structure check-ins, deadlines, and progress reviews throughout the project?\n\nScore: 10/10\n\n6. Overall rating \u2014\n\nScore: 10/10",
+    "rawContent": "IDP Review\n\nIDP title: AI/ML Computer Vision Based Monitoring\n\nSemester undertaken: 6th Semester\n\nProfessor/guide: Varun Reja\n\nTeam size & department mix: 5 members, all from Civil Engineering\n\nProject Overview\n\n1. What problem or domain did the IDP address?\n\nThe project was based on construction management, building a framework to be deployed on-site.\n\n2. What was the final deliverable?\n\nThe deliverable was a framework designed keeping in mind safety, progress, and productivity monitoring.\n\n3. Was the project more core civil engineering oriented, or was civil knowledge rarely used in practice?\n\nIt started off as core civil engineering, with ML-based components incorporated later on.\n\nLearnings & Applications\n\n4. What did you personally take away from the experience?\n\nAs the group leader, I got to interact directly with the industry partner, which was a great exposure.\n\n5. What skills \u2014 technical or soft \u2014 did the IDP help you build?\n\nTime management, efficient email writing to industry professionals, and weekly meetings with the professor.\n\n6. Did it lead anywhere further, like a publication, startup, BTP, or internship?\n\nYes, it led to a publication \u2014 the work done was good, so the professor suggested publishing it.\n\nGrading\n\n7. How is IDP evaluated at your department?\n\nEvaluation is through a final presentation in front of a panel of 4, along with a midterm report.\n\n8. How much does presentation vs output vs process matter for the grade?\n\nRoughly 40% presentation and 60% process and effort.\n\n9. What would you do differently to get a stronger evaluation?\n\nThe final website could have been made even better with enhanced features.\n\nProfessor Review\n\nProfessor's name: Varun Reja\n\nRate 1\u201310:\n\n1. Vision clarity \u2014 How clearly does the professor communicate the project's goals, scope, and expectations from the start?\n\nScore: 10/10\n\n2. Team facilitation \u2014 How effectively does the professor help the team resolve conflicts, stay aligned, and work well together?\n\nScore: 10/10\n\n4. Creative freedom \u2014 How much does the professor encourage bold, innovative ideas rather than defaulting to safe and conventional approaches?\n\nScore: 10/10\n\n5. Milestone management \u2014 How well does the professor structure check-ins, deadlines, and progress reviews throughout the project?\n\nScore: 10/10\n\n6. Overall rating \u2014\n\nScore: 10/10",
     "verbatimSections": [
       {
         "heading": "IDP Review",
@@ -5093,7 +4364,6 @@ export const idpReviews = [
           "IDP title: AI/ML Computer Vision Based Monitoring",
           "Semester undertaken: 6th Semester",
           "Professor/guide: Varun Reja",
-          "Senior Name: Ashwin Mankar",
           "Team size & department mix: 5 members, all from Civil Engineering"
         ]
       },
@@ -5154,29 +4424,20 @@ export const idpReviews = [
     "id": 8,
     "type": "IDP",
     "title": "Composite Mixture, UHPC and Concrete Research",
-    "student": "Vishwat Dubey (B.Tech)",
+    "student": "Civil Engineering IDP Group",
     "year": "2024\u201325",
     "professor": "Prof. Najeeb Sharif",
-    "reviewer": "Raj Achliya",
     "semester": "6",
     "teamSize": "5 , all from Civil",
     "domain": "Industrial & Interdisciplinary Project",
-    "description": "IDP title: Composite Mixture, UHPC and Concrete Research",
+    "description": "Team size & department mix: 5 , all from Civil",
     "metrics": {
       "year": "2027",
       "Semester undertaken": "6",
       "department mix": "5"
     },
-    "rawContent": "IDP Review\n\nCall Details\n\nYour name: Raj Achliya\n\nSenior's name: Vishwat Dubey\n\nSenior's batch/year: 2027\n\nIDP Details\n\nIDP title: Composite Mixture, UHPC and Concrete Research\n\nSemester undertaken: 6\n\nProfessor/guide: Najeeb Sharif\n\nTeam size & department mix: 5 , all from Civil\n\nProject Overview\n\n1. What problem or domain did the IDP address?\n\nThe project addressed the waterproofing of concrete tanks, looking at how material composition and design choices could improve their water-tightness and durability.\n\n2. What was the final deliverable?\n\nA final tank composition/mix design, along with the accompanying structural design of the tank and its steel reinforcement (rebars).\n\n3. Was the project more core civil engineering oriented, or was civil knowledge rarely used in practice?\n\nStrongly civil-oriented. The work centered on structural design and material behavior, core civil engineering territory.\n\nLearnings & Applications\n\n4. What did you personally take away from the experience?\n\nA good experience, the professor was helpful, L&T was very supportive, and it was great exposure to industry.\n\n5. What skills \u2014 technical or soft \u2014 did the IDP help you build?\n\nCivil core-related skills, using ETABS and Dynalog software.\n\n6. Did it lead anywhere further, like a publication, startup, BTP, or internship?\n\nNo, but L&T used it in their research project as they found it helpful.\n\nGrading\n\n7. How is IDP evaluated at your department?\n\nLack of proper guidelines and a clear grading scheme leaves it open to interpretation.\n\n8. How much does presentation vs output vs process matter for the grade?\n\nCan't say with surety, but from colleagues' reviews, the final presentation seems more dominant, while midterm reports don't matter much.\n\n9. What would you do differently to get a stronger evaluation?\n\nCan't comment since the grading scheme isn't known \u2014 but personally, L&T (industry partner) was really satisfied with the work, which was satisfying in itself.\n\nProfessor Review\n\nProfessor's name: Najeeb Sharif\n\n1. Vision clarity \u2014 How clearly does the professor communicate the project's goals, scope, and expectations from the start?\n\n10/10\n\n2. Team facilitation \u2014 How effectively does the professor help the team resolve conflicts, stay aligned, and work well together?\n\n7/10\n\n4. Creative freedom \u2014 How much does the professor encourage bold, innovative ideas rather than defaulting to safe and conventional approaches?\n\n3/10\n\n5. Milestone management \u2014 How well does the professor structure check-ins, deadlines, and progress reviews throughout the project?\n\n9/10\n\n6. Overall rating\n\n9/10",
+    "rawContent": "IDP Review\n\nIDP Details\n\nIDP title: Composite Mixture, UHPC and Concrete Research\n\nSemester undertaken: 6\n\nProfessor/guide: Najeeb Sharif\n\nTeam size & department mix: 5 , all from Civil\n\nProject Overview\n\n1. What problem or domain did the IDP address?\n\nThe project addressed the waterproofing of concrete tanks, looking at how material composition and design choices could improve their water-tightness and durability.\n\n2. What was the final deliverable?\n\nA final tank composition/mix design, along with the accompanying structural design of the tank and its steel reinforcement (rebars).\n\n3. Was the project more core civil engineering oriented, or was civil knowledge rarely used in practice?\n\nStrongly civil-oriented. The work centered on structural design and material behavior, core civil engineering territory.\n\nLearnings & Applications\n\n4. What did you personally take away from the experience?\n\nA good experience, the professor was helpful, L&T was very supportive, and it was great exposure to industry.\n\n5. What skills \u2014 technical or soft \u2014 did the IDP help you build?\n\nCivil core-related skills, using ETABS and Dynalog software.\n\n6. Did it lead anywhere further, like a publication, startup, BTP, or internship?\n\nNo, but L&T used it in their research project as they found it helpful.\n\nGrading\n\n7. How is IDP evaluated at your department?\n\nLack of proper guidelines and a clear grading scheme leaves it open to interpretation.\n\n8. How much does presentation vs output vs process matter for the grade?\n\nCan't say with surety, but from colleagues' reviews, the final presentation seems more dominant, while midterm reports don't matter much.\n\n9. What would you do differently to get a stronger evaluation?\n\nCan't comment since the grading scheme isn't known \u2014 but personally, L&T (industry partner) was really satisfied with the work, which was satisfying in itself.\n\nProfessor Review\n\nProfessor's name: Najeeb Sharif\n\n1. Vision clarity \u2014 How clearly does the professor communicate the project's goals, scope, and expectations from the start?\n\n10/10\n\n2. Team facilitation \u2014 How effectively does the professor help the team resolve conflicts, stay aligned, and work well together?\n\n7/10\n\n4. Creative freedom \u2014 How much does the professor encourage bold, innovative ideas rather than defaulting to safe and conventional approaches?\n\n3/10\n\n5. Milestone management \u2014 How well does the professor structure check-ins, deadlines, and progress reviews throughout the project?\n\n9/10\n\n6. Overall rating\n\n9/10",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Raj Achliya",
-          "Senior's name: Vishwat Dubey",
-          "Senior's batch/year: 2027"
-        ]
-      },
       {
         "heading": "IDP Details",
         "lines": [
@@ -5242,27 +4503,18 @@ export const idpReviews = [
     "id": 9,
     "type": "IDP",
     "title": "Structural Retrofitting of Columns",
-    "student": "Anshika Tripathi (B.Tech)",
+    "student": "Civil Engineering IDP Group",
     "year": "2024\u201325",
     "professor": "Prof. Not disclosed",
-    "reviewer": "Disha Agrawal",
     "semester": "Last semester",
     "teamSize": "Not disclosed",
     "domain": "Industrial & Interdisciplinary Project",
-    "description": "IDP title: Structural Retrofitting of Columns",
+    "description": "Team size & department mix: Not disclosed",
     "metrics": {
       "year": "4"
     },
-    "rawContent": "IDP Review\n\nCall Details\n\nYour name: Disha Agrawal\n\nSenior's name: Anshika Tripathi\n\nSenior's batch/year: 4th year\n\nIDP Details\n\nIDP title: Structural Retrofitting of Columns\n\nSemester undertaken: Last semester\n\nProfessor/guide: Not disclosed\n\nTeam size & department mix: Not disclosed\n\nProject Overview\n\n1. What problem or domain did the IDP address?\n\nThe project focused on structural retrofitting of columns, specifically investigating methods to increase the compressive strength of structural columns.\n\n2. What was the final deliverable?\n\nThe team combined theoretical calculations, structural-analysis software modelling (using ANSYS/Abaqus), and experimental model testing in HSL, and compared the software-based results with the experimental outcomes.\n\n3. Was the project more core civil engineering oriented, or was civil knowledge rarely used in practice?\n\nIt was strongly core civil engineering oriented, drawing on structural engineering concepts, theoretical calculations, software modelling, and physical model testing.\n\nLearnings & Applications\n\n4. What did you personally take away from the experience?\n\nA major takeaway was learning to execute a project within a fixed timeline, especially since the IDP was being run for the first time that semester. The software component was entirely new to the group, so the team had to learn the tools while simultaneously working toward the expected results.\n\n5. What skills \u2014 technical or soft \u2014 did the IDP help you build?\n\nStructural analysis and theoretical calculations\n\nModelling using ANSYS/Abaqus\n\nExperimental/model testing in HSL\n\nLearning and applying a new software tool from scratch\n\nTime management and working within project deadlines\n\nTeamwork and adapting to an unfamiliar technical workflow\n\n6. Did it lead anywhere further, like a publication, startup, BTP, or internship?\n\nNot disclosed.\n\nGrading\n\n7. How is IDP evaluated at your department?\n\nThe project is graded jointly by the professor and industry guide, with the final presentation and panel evaluation also playing an important role.\n\n8. How much does presentation vs output vs process matter for the grade?\n\nThis seems to vary by professor. In general, the evaluation leaned more toward effort and process rather than only the final output.\n\n9. What would you do differently to get a stronger evaluation?\n\nSince the software component was completely new and had to be learned mid-project, starting the software/modelling work earlier and managing the timeline more efficiently would help \u2014 the senior specifically flagged fitting everything into the required time as one of the biggest challenges.\n\nProfessor Review\n\nProfessor's name: Not disclosed\n\n1. Vision clarity \u2014 How clearly does the professor communicate the project's goals, scope, and expectations from the start?\n\nNot disclosed.\n\n2. Team facilitation \u2014 How effectively does the professor help the team resolve conflicts, stay aligned, and work well together?\n\nNot disclosed.\n\n4. Creative freedom \u2014 How much does the professor encourage bold, innovative ideas rather than defaulting to safe and conventional approaches?\n\nNot disclosed.\n\n5. Milestone management \u2014 How well does the professor structure check-ins, deadlines, and progress reviews throughout the project?\n\nNot disclosed.\n\n6. Overall rating:\n\nNot disclosed.",
+    "rawContent": "IDP Review\n\nIDP Details\n\nIDP title: Structural Retrofitting of Columns\n\nSemester undertaken: Last semester\n\nProfessor/guide: Not disclosed\n\nTeam size & department mix: Not disclosed\n\nProject Overview\n\n1. What problem or domain did the IDP address?\n\nThe project focused on structural retrofitting of columns, specifically investigating methods to increase the compressive strength of structural columns.\n\n2. What was the final deliverable?\n\nThe team combined theoretical calculations, structural-analysis software modelling (using ANSYS/Abaqus), and experimental model testing in HSL, and compared the software-based results with the experimental outcomes.\n\n3. Was the project more core civil engineering oriented, or was civil knowledge rarely used in practice?\n\nIt was strongly core civil engineering oriented, drawing on structural engineering concepts, theoretical calculations, software modelling, and physical model testing.\n\nLearnings & Applications\n\n4. What did you personally take away from the experience?\n\nA major takeaway was learning to execute a project within a fixed timeline, especially since the IDP was being run for the first time that semester. The software component was entirely new to the group, so the team had to learn the tools while simultaneously working toward the expected results.\n\n5. What skills \u2014 technical or soft \u2014 did the IDP help you build?\n\nStructural analysis and theoretical calculations\n\nModelling using ANSYS/Abaqus\n\nExperimental/model testing in HSL\n\nLearning and applying a new software tool from scratch\n\nTime management and working within project deadlines\n\nTeamwork and adapting to an unfamiliar technical workflow\n\n6. Did it lead anywhere further, like a publication, startup, BTP, or internship?\n\nNot disclosed.\n\nGrading\n\n7. How is IDP evaluated at your department?\n\nThe project is graded jointly by the professor and industry guide, with the final presentation and panel evaluation also playing an important role.\n\n8. How much does presentation vs output vs process matter for the grade?\n\nThis seems to vary by professor. In general, the evaluation leaned more toward effort and process rather than only the final output.\n\n9. What would you do differently to get a stronger evaluation?\n\nSince the software component was completely new and had to be learned mid-project, starting the software/modelling work earlier and managing the timeline more efficiently would help \u2014 the senior specifically flagged fitting everything into the required time as one of the biggest challenges.\n\nProfessor Review\n\nProfessor's name: Not disclosed\n\n1. Vision clarity \u2014 How clearly does the professor communicate the project's goals, scope, and expectations from the start?\n\nNot disclosed.\n\n2. Team facilitation \u2014 How effectively does the professor help the team resolve conflicts, stay aligned, and work well together?\n\nNot disclosed.\n\n4. Creative freedom \u2014 How much does the professor encourage bold, innovative ideas rather than defaulting to safe and conventional approaches?\n\nNot disclosed.\n\n5. Milestone management \u2014 How well does the professor structure check-ins, deadlines, and progress reviews throughout the project?\n\nNot disclosed.\n\n6. Overall rating:\n\nNot disclosed.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Disha Agrawal",
-          "Senior's name: Anshika Tripathi",
-          "Senior's batch/year: 4th year"
-        ]
-      },
       {
         "heading": "IDP Details",
         "lines": [
@@ -5333,26 +4585,18 @@ export const idpReviews = [
     "id": 10,
     "type": "IDP",
     "title": "Modular Strengthening of Reinforced Concrete Columns Using High Strength Concrete Strips",
-    "student": "Dunggam Gao (B.Tech)",
+    "student": "Civil Engineering IDP Group",
     "year": "2024\u201325",
     "professor": "Prof. Souvik Banerji (industrial supervisor's name not disclosed)",
-    "reviewer": "Rishabh Jain",
     "semester": "Sixth semester",
     "teamSize": "5 members; all were Civil Engineering students",
     "domain": "Industrial & Interdisciplinary Project",
-    "description": "Reviewer: Rishabh Jain | Senior: Dunggam Gao | Date of call: 30/08/2026",
+    "description": "Team size & department mix: 5 members; all were Civil Engineering students",
     "metrics": {
-      "Date of call": "30",
       "department mix": "5"
     },
-    "rawContent": "Reviewer: Rishabh Jain | Senior: Dunggam Gao | Date of call: 30/08/2026\n\nIDP Review\n\nIDP title: Modular Strengthening of Reinforced Concrete Columns Using High Strength Concrete Strips\n\nSemester undertaken: Sixth semester\n\nProfessor/guide: Prof. Souvik Banerji (industrial supervisor's name not disclosed)\n\nTeam size & department mix: 5 members; all were Civil Engineering students\n\nProject Overview\n\n1. What problem or domain did the IDP address?The project focused on retrofitting reinforced concrete (RC) columns to increase their load-carrying capacity. The team studied the use of high-strength concrete strips as an alternative to conventional steel-strip retrofitting. The broader aim was to selectively strengthen weaker structural elements, such as a weaker floor in a building, particularly in the context of earthquake performance.\n\n2. What was the final deliverable?The team tested RC columns strengthened using steel versus high-strength concrete and compared the resulting increase in capacity and cost effectiveness. Steel provided a higher increase in capacity, but high-strength concrete was found to be better on a cost-per-volume basis.\n\n3. Was the project more core civil engineering oriented, or was civil knowledge rarely used in practice?It was a core Civil Engineering project.\n\nLearnings & Applications\n\n4. What did you personally take away from the experience?The senior learned about retrofitting, which was a new topic not covered in the core courses. The project also provided exposure to finite-element modelling using Abaqus and to comparing theoretical, software-based and laboratory results. He also developed project-management experience through working toward weekly objectives.\n\n5. What skills \u2014 technical or soft \u2014 did the IDP help you build?Technical: retrofitting concepts, Abaqus/finite-element modelling, stress analysis and comparison of theoretical, simulation and lab results. Soft/professional: project management, planning weekly objectives, communication with supervisors and understanding how industry projects operate. The project also included site visits.\n\n6. Did it lead anywhere further, like a publication, startup, BTP, or internship?The team explored publication opportunities, and the industrial supervisor was interested in pursuing a patent. However, the senior felt that the one-semester duration was too short for a strong publication or patent, which would generally require substantially longer research. No completed publication/patent outcome was mentioned.\n\nGrading\n\n7. How is IDP evaluated at your department?The evaluation involves the presentation, the work itself, feedback from the project guide to the DUGC, feedback from the industrial supervisor, and the midterm report. The senior rated the transparency of the grading process only 5/10 because the department did not clearly disclose how marks were allocated across these components.\n\n8. How much does presentation vs output vs process matter for the grade?The exact weightage was not disclosed. Presentation, project work/output, guide feedback, industrial-supervisor feedback and the midterm report all form part of the evaluation, but the senior could not identify how much each contributes.\n\n9. What would you do differently to get a stronger evaluation?The biggest differentiator was interaction with the professor and industrial supervisor. The team communicated with both supervisors very well, and the professor attended weekly meetings and gave genuine feedback. Maintaining strong, regular communication and using supervisor feedback actively appears to have helped the team receive a stronger evaluation.\n\nProfessor Review\n\n\u26a0 INTERNAL ONLY \u2014 Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nProfessor's name: Prof. Souvik Banerji\n\nRate 1\u201310:\n\n1. Vision clarity \u2014 How clearly does the professor communicate the project's goals, scope, and expectations from the start?6/10 \u2014 During the first month, the professor was described as somewhat disconnected and did not fully know what the team was doing. However, in weekly meetings he provided useful ideas and gave the team substantial time when needed.\n\n2. Team facilitation \u2014 How effectively does the professor help the team resolve conflicts, stay aligned, and work well together?Not explicitly rated. The professor was not very involved in team facilitation; the team itself managed its work and avoided conflicts through careful assignment and discussion. The professor was nevertheless responsive when contacted.\n\n4. Creative freedom \u2014 How much does the professor encourage bold, innovative ideas rather than defaulting to safe and conventional approaches?7/10 \u2014 He was quite open to new ideas when they were well thought out.\n\n5. Milestone management \u2014 How well does the professor structure check-ins, deadlines, and progress reviews throughout the project?Not explicitly rated. Weekly meetings were held, and the professor was willing to spend one to two hours when useful. The senior also emphasized that the team had to set weekly objectives because of the project\u2019s industry-scale nature.\n\n6. Overall rating \u2014\n\nComments: what kind of IDP thrives under them, any red flagsA project that benefits from independent work, experimentation and regular supervisor interaction can work well under him. The professor is encouraging and gives students freedom, useful ideas and time in weekly meetings, but may initially be disconnected from the project's detailed execution. The industrial supervisor was more directly involved in the project. A major positive was the team's strong communication with both supervisors. The senior described the IDP as valuable for learning something new, project management, software, site exposure and understanding industry practices.",
+    "rawContent": "IDP Review\n\nIDP title: Modular Strengthening of Reinforced Concrete Columns Using High Strength Concrete Strips\n\nSemester undertaken: Sixth semester\n\nProfessor/guide: Prof. Souvik Banerji (industrial supervisor's name not disclosed)\n\nTeam size & department mix: 5 members; all were Civil Engineering students\n\nProject Overview\n\n1. What problem or domain did the IDP address?The project focused on retrofitting reinforced concrete (RC) columns to increase their load-carrying capacity. The team studied the use of high-strength concrete strips as an alternative to conventional steel-strip retrofitting. The broader aim was to selectively strengthen weaker structural elements, such as a weaker floor in a building, particularly in the context of earthquake performance.\n\n2. What was the final deliverable?The team tested RC columns strengthened using steel versus high-strength concrete and compared the resulting increase in capacity and cost effectiveness. Steel provided a higher increase in capacity, but high-strength concrete was found to be better on a cost-per-volume basis.\n\n3. Was the project more core civil engineering oriented, or was civil knowledge rarely used in practice?It was a core Civil Engineering project.\n\nLearnings & Applications\n\n4. What did you personally take away from the experience?The senior learned about retrofitting, which was a new topic not covered in the core courses. The project also provided exposure to finite-element modelling using Abaqus and to comparing theoretical, software-based and laboratory results. He also developed project-management experience through working toward weekly objectives.\n\n5. What skills \u2014 technical or soft \u2014 did the IDP help you build?Technical: retrofitting concepts, Abaqus/finite-element modelling, stress analysis and comparison of theoretical, simulation and lab results. Soft/professional: project management, planning weekly objectives, communication with supervisors and understanding how industry projects operate. The project also included site visits.\n\n6. Did it lead anywhere further, like a publication, startup, BTP, or internship?The team explored publication opportunities, and the industrial supervisor was interested in pursuing a patent. However, the senior felt that the one-semester duration was too short for a strong publication or patent, which would generally require substantially longer research. No completed publication/patent outcome was mentioned.\n\nGrading\n\n7. How is IDP evaluated at your department?The evaluation involves the presentation, the work itself, feedback from the project guide to the DUGC, feedback from the industrial supervisor, and the midterm report. The senior rated the transparency of the grading process only 5/10 because the department did not clearly disclose how marks were allocated across these components.\n\n8. How much does presentation vs output vs process matter for the grade?The exact weightage was not disclosed. Presentation, project work/output, guide feedback, industrial-supervisor feedback and the midterm report all form part of the evaluation, but the senior could not identify how much each contributes.\n\n9. What would you do differently to get a stronger evaluation?The biggest differentiator was interaction with the professor and industrial supervisor. The team communicated with both supervisors very well, and the professor attended weekly meetings and gave genuine feedback. Maintaining strong, regular communication and using supervisor feedback actively appears to have helped the team receive a stronger evaluation.\n\nProfessor Review\n\nProfessor's name: Prof. Souvik Banerji\n\nRate 1\u201310:\n\n1. Vision clarity \u2014 How clearly does the professor communicate the project's goals, scope, and expectations from the start?6/10 \u2014 During the first month, the professor was described as somewhat disconnected and did not fully know what the team was doing. However, in weekly meetings he provided useful ideas and gave the team substantial time when needed.\n\n2. Team facilitation \u2014 How effectively does the professor help the team resolve conflicts, stay aligned, and work well together?Not explicitly rated. The professor was not very involved in team facilitation; the team itself managed its work and avoided conflicts through careful assignment and discussion. The professor was nevertheless responsive when contacted.\n\n4. Creative freedom \u2014 How much does the professor encourage bold, innovative ideas rather than defaulting to safe and conventional approaches?7/10 \u2014 He was quite open to new ideas when they were well thought out.\n\n5. Milestone management \u2014 How well does the professor structure check-ins, deadlines, and progress reviews throughout the project?Not explicitly rated. Weekly meetings were held, and the professor was willing to spend one to two hours when useful. The senior also emphasized that the team had to set weekly objectives because of the project\u2019s industry-scale nature.\n\n6. Overall rating \u2014\n\nComments: what kind of IDP thrives under them, any red flagsA project that benefits from independent work, experimentation and regular supervisor interaction can work well under him. The professor is encouraging and gives students freedom, useful ideas and time in weekly meetings, but may initially be disconnected from the project's detailed execution. The industrial supervisor was more directly involved in the project. A major positive was the team's strong communication with both supervisors. The senior described the IDP as valuable for learning something new, project management, software, site exposure and understanding industry practices.",
     "verbatimSections": [
-      {
-        "heading": "General",
-        "lines": [
-          "Reviewer: Rishabh Jain | Senior: Dunggam Gao | Date of call: 30/08/2026"
-        ]
-      },
       {
         "heading": "IDP Review",
         "lines": [
@@ -5389,7 +4633,6 @@ export const idpReviews = [
       {
         "heading": "Professor Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY \u2014 Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Professor's name: Prof. Souvik Banerji",
           "Rate 1\u201310:",
           "1. Vision clarity \u2014 How clearly does the professor communicate the project's goals, scope, and expectations from the start?6/10 \u2014 During the first month, the professor was described as somewhat disconnected and did not fully know what the team was doing. However, in weekly meetings he provided useful ideas and gave the team substantial time when needed.",
@@ -5410,36 +4653,18 @@ export const allProjects = [
     "id": 1,
     "type": "BTP",
     "title": "Smart Mobility Solutions for Road Networks",
-    "student": "Dunggam Gao (B.Tech)",
+    "student": "B.Tech Senior Project",
     "year": "2024\u201325",
     "professor": "Prof. Archak Mittal",
-    "reviewer": "Rishabh Jain",
     "semester": "Seventh semester",
     "teamSize": "Individual",
     "domain": "Smart mobility and transportation (interdisciplinary application)",
-    "description": "\u2022 Type up your notes immediately after the call while memory is fresh/do as you wish I only care about output, also we need really short answers.",
+    "description": "The project was more application-oriented, and the senior specifically described his own work as being on the application-based side.",
     "metrics": {
-      "year": "2027",
-      "Date of call": "30"
+      "year": "2027"
     },
-    "rawContent": "During the call:\n\n\u2022 Type up your notes immediately after the call while memory is fresh/do as you wish I only care about output, also we need really short answers.\n\nCall Details\n\nYour name: Rishabh Jain\n\nSenior's name: Dunggam Gao\n\nSenior's batch/year: 2027\n\nDate of call: 30/08/2026\n\nSection(s) covered: BTP\n\nBTP Review\n\nBTP title: Smart Mobility Solutions for Road Networks\n\nSemester undertaken: Seventh semester\n\nProfessor/guide: Prof. Archak Mittal\n\nDomain: Smart mobility and transportation (interdisciplinary application)\n\nProject Overview\n\n1. What was your BTP about in simple terms, and what gap or problem did it address?\n\nThe project focused on improving traffic and mobility in road networks through traffic simulation, with the team using Sumo software and Python to model and analyse traffic scenarios. It addressed road-network mobility and traffic-management problems, although the exact problem statement was not described in detail during the call.\n\n2. Was it more research-oriented or application-oriented?\n\nThe project was more application-oriented, and the senior specifically described his own work as being on the application-based side.\n\nLearnings & Applications\n\n3. What skills did you build, and what was the most challenging part intellectually?\n\nHe built skills in Python, the Sumo traffic-simulation software, interdisciplinary project work and project management, including experience in working towards weekly objectives. He did not identify one specific intellectual challenge, but he noted that a key adjustment was moving away from being spoon-fed in regular courses and taking ownership of the project work.\n\n4. Did it connect to your coursework, internship, or future plans?\n\nThe BTP gave him project-management experience that helped him in later projects and in his internship, and it also provided exposure to an interdisciplinary project.\n\nGrading\n\n5. How is BTP graded at your department, and how much does the grade depend on the professor's personal impression rather than measurable criteria?\n\nHe said that grading is closely connected to interaction with the professor and to the quality of the work and output, and that regular weekly interaction and meetings are important for a good evaluation. The extent to which the grade depends on personal impression rather than measurable criteria varies by professor; in his case, Prof. Archak Mittal cared more about the objective output and work than about personal impression.\n\n6. Any tips for getting a good evaluation?\n\nHe advised interacting regularly with the professor, attending the weekly meetings and focusing on the actual output expected from the nature of the project. For research-oriented projects, he suggested keeping expectations realistic, because one semester may be too short to achieve a strong research outcome.\n\nProfessor Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nProfessor's name: Prof. Archak Mittal\n\nRate 1\u201310:\n\n1. Availability (accessible for meetings and check-ins): 10/10\n\n2. Guidance quality (usefulness of feedback and direction): 7/10\n\n3. Technical depth (command over the BTP subject area): Not rated during the call.\n\n4. Student autonomy (freedom to explore your own ideas): 10/10\n\n5. Output push (encouragement to produce a paper or prototype): 10/10\n\n6. Overall rating: Not provided during the call.\n\nComments: who is this professor ideal for, and what kind of student thrives under them\n\nThe professor is ideal for students who want autonomy and are comfortable taking ownership of their project, and regular interaction with the professor is important. The senior valued the exposure to an interdisciplinary project, to Python and Sumo, and to project management.",
+    "rawContent": "BTP Review\n\nBTP title: Smart Mobility Solutions for Road Networks\n\nSemester undertaken: Seventh semester\n\nProfessor/guide: Prof. Archak Mittal\n\nDomain: Smart mobility and transportation (interdisciplinary application)\n\nProject Overview\n\n1. What was your BTP about in simple terms, and what gap or problem did it address?\n\n2. Was it more research-oriented or application-oriented?\n\nThe project was more application-oriented, and the senior specifically described his own work as being on the application-based side.\n\nLearnings & Applications\n\n3. What skills did you build, and what was the most challenging part intellectually?\n\nHe built skills in Python, the Sumo traffic-simulation software, interdisciplinary project work and project management, including experience in working towards weekly objectives. He did not identify one specific intellectual challenge, but he noted that a key adjustment was moving away from being spoon-fed in regular courses and taking ownership of the project work.\n\n4. Did it connect to your coursework, internship, or future plans?\n\nThe BTP gave him project-management experience that helped him in later projects and in his internship, and it also provided exposure to an interdisciplinary project.\n\nGrading\n\n5. How is BTP graded at your department, and how much does the grade depend on the professor's personal impression rather than measurable criteria?\n\nHe said that grading is closely connected to interaction with the professor and to the quality of the work and output, and that regular weekly interaction and meetings are important for a good evaluation. The extent to which the grade depends on personal impression rather than measurable criteria varies by professor; in his case, Prof. Archak Mittal cared more about the objective output and work than about personal impression.\n\n6. Any tips for getting a good evaluation?\n\nHe advised interacting regularly with the professor, attending the weekly meetings and focusing on the actual output expected from the nature of the project. For research-oriented projects, he suggested keeping expectations realistic, because one semester may be too short to achieve a strong research outcome.\n\nProfessor Review\n\nProfessor's name: Prof. Archak Mittal\n\nRate 1\u201310:\n\n1. Availability (accessible for meetings and check-ins): 10/10\n\n2. Guidance quality (usefulness of feedback and direction): 7/10\n\n4. Student autonomy (freedom to explore your own ideas): 10/10\n\n5. Output push (encouragement to produce a paper or prototype): 10/10\n\nComments: who is this professor ideal for, and what kind of student thrives under them\n\nThe professor is ideal for students who want autonomy and are comfortable taking ownership of their project, and regular interaction with the professor is important. The senior valued the exposure to an interdisciplinary project, to Python and Sumo, and to project management.",
     "verbatimSections": [
-      {
-        "heading": "During the call:",
-        "lines": [
-          "\u2022 Type up your notes immediately after the call while memory is fresh/do as you wish I only care about output, also we need really short answers."
-        ]
-      },
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Rishabh Jain",
-          "Senior's name: Dunggam Gao",
-          "Senior's batch/year: 2027",
-          "Date of call: 30/08/2026",
-          "Section(s) covered: BTP"
-        ]
-      },
       {
         "heading": "BTP Review",
         "lines": [
@@ -5453,7 +4678,6 @@ export const allProjects = [
         "heading": "Project Overview",
         "lines": [
           "1. What was your BTP about in simple terms, and what gap or problem did it address?",
-          "The project focused on improving traffic and mobility in road networks through traffic simulation, with the team using Sumo software and Python to model and analyse traffic scenarios. It addressed road-network mobility and traffic-management problems, although the exact problem statement was not described in detail during the call.",
           "2. Was it more research-oriented or application-oriented?",
           "The project was more application-oriented, and the senior specifically described his own work as being on the application-based side."
         ]
@@ -5479,15 +4703,12 @@ export const allProjects = [
       {
         "heading": "Professor Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Professor's name: Prof. Archak Mittal",
           "Rate 1\u201310:",
           "1. Availability (accessible for meetings and check-ins): 10/10",
           "2. Guidance quality (usefulness of feedback and direction): 7/10",
-          "3. Technical depth (command over the BTP subject area): Not rated during the call.",
           "4. Student autonomy (freedom to explore your own ideas): 10/10",
           "5. Output push (encouragement to produce a paper or prototype): 10/10",
-          "6. Overall rating: Not provided during the call.",
           "Comments: who is this professor ideal for, and what kind of student thrives under them",
           "The professor is ideal for students who want autonomy and are comfortable taking ownership of their project, and regular interaction with the professor is important. The senior valued the exposure to an interdisciplinary project, to Python and Sumo, and to project management."
         ]
@@ -5499,42 +4720,23 @@ export const allProjects = [
     "id": 2,
     "type": "BTP",
     "title": "Carbon Credit Trading in the Construction Industry",
-    "student": "Ritika Bhadrecha (B.Tech)",
+    "student": "B.Tech Senior Project",
     "year": "2024\u201325",
     "professor": "Prof. Albert Thomas",
-    "reviewer": "Rishabh Jain",
     "semester": "Not explicitly stated during the call; it was discussed as her BTP from a later semester.",
     "teamSize": "Individual",
     "domain": "Construction management and sustainability-related research",
-    "description": "\u2022 Type up your notes immediately after the call while memory is fresh/do as you wish I only care about output, also we need really short answers.",
+    "description": "Her BTP studied carbon credit trading in the construction industry. Since carbon trading is beginning to be introduced in sectors such as cement and steel, the project explored what would happen if it were introduced in construction and which factors and participants would be aff",
     "metrics": {
       "year": "2027",
-      "Date of call": "31",
       "Overall rating": "9/10"
     },
-    "rawContent": "During the call:\n\n\u2022 Type up your notes immediately after the call while memory is fresh/do as you wish I only care about output, also we need really short answers.\n\nCall Details\n\nYour name: Rishabh Jain\n\nSenior's name: Ritika Bhadrecha\n\nSenior's batch/year: 2027\n\nDate of call: 31/08/2026\n\nSection(s) covered: BTP\n\nBTP Review\n\nBTP title: Carbon Credit Trading in the Construction Industry\n\nSemester undertaken: Not explicitly stated during the call; it was discussed as her BTP from a later semester.\n\nProfessor/guide: Prof. Albert Thomas\n\nDomain: Construction management and sustainability-related research\n\nProject Overview\n\n1. What was your BTP about in simple terms, and what gap or problem did it address?\n\nHer BTP studied carbon credit trading in the construction industry. Since carbon trading is beginning to be introduced in sectors such as cement and steel, the project explored what would happen if it were introduced in construction and which factors and participants would be affected. The gap it addressed was that construction had made little to no progress in carbon trading, so the project examined the feasibility and impact of starting carbon credit trading in that sector.\n\n2. Was it more research-oriented or application-oriented?\n\nThe project started as research-oriented work, in which she first reviewed existing research, and then moved into simulation, modelling and application, building on that research using a causal loop diagram and system dynamics.\n\nLearnings & Applications\n\n3. What skills did you build, and what was the most challenging part intellectually?\n\nShe learned system dynamics and gained software skills for simulation and modelling. The most challenging part intellectually was turning the research into a simulation and modelling framework and working out how to structure the causal relationships for carbon trading in construction.\n\n4. Did it connect to your coursework, internship, or future plans?\n\nThe BTP did not connect directly to her internship or coursework, but the simulation and software skills she gained are useful more broadly, and the work also has potential future research value.\n\nGrading\n\n5. How is BTP graded at your department, and how much does the grade depend on the professor's personal impression rather than measurable criteria?\n\nHer grade was based on weekly meetings with the guide, regular progress updates and a final presentation, and her professor also encouraged a conference paper, so ongoing work appeared to matter a great deal. According to her, the grade depends quite a bit on the professor's personal impression, because the guide's ongoing impression of her weekly progress mattered and not just the final presentation.\n\n6. Any tips for getting a good evaluation?\n\nShe advised meeting the guide regularly, continuing to share progress and staying engaged throughout the semester. If possible, the work should be developed enough to lead to a paper or another tangible output.\n\nProfessor Review\n\n\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nProfessor's name: Prof. Albert Thomas\n\nRate 1\u201310:\n\n1. Availability (accessible for meetings and check-ins): 9/10\n\n2. Guidance quality (usefulness of feedback and direction): 9/10\n\n3. Technical depth (command over the BTP subject area): 8/10\n\n4. Student autonomy (freedom to explore your own ideas): 8/10\n\n5. Output push (encouragement to produce a paper or prototype): 10/10\n\n6. Overall rating: 9/10\n\nComments: who is this professor ideal for, and what kind of student thrives under them\n\nProf. Albert Thomas is ideal for students who are comfortable with research-oriented BTPs and regular mentorship. He appears to work well with students who like iterative feedback and regular check-ins, and who are open to writing a conference paper or producing a tangible research output.",
+    "rawContent": "BTP Review\n\nBTP title: Carbon Credit Trading in the Construction Industry\n\nProfessor/guide: Prof. Albert Thomas\n\nDomain: Construction management and sustainability-related research\n\nProject Overview\n\n1. What was your BTP about in simple terms, and what gap or problem did it address?\n\nHer BTP studied carbon credit trading in the construction industry. Since carbon trading is beginning to be introduced in sectors such as cement and steel, the project explored what would happen if it were introduced in construction and which factors and participants would be affected. The gap it addressed was that construction had made little to no progress in carbon trading, so the project examined the feasibility and impact of starting carbon credit trading in that sector.\n\n2. Was it more research-oriented or application-oriented?\n\nThe project started as research-oriented work, in which she first reviewed existing research, and then moved into simulation, modelling and application, building on that research using a causal loop diagram and system dynamics.\n\nLearnings & Applications\n\n3. What skills did you build, and what was the most challenging part intellectually?\n\nShe learned system dynamics and gained software skills for simulation and modelling. The most challenging part intellectually was turning the research into a simulation and modelling framework and working out how to structure the causal relationships for carbon trading in construction.\n\n4. Did it connect to your coursework, internship, or future plans?\n\nThe BTP did not connect directly to her internship or coursework, but the simulation and software skills she gained are useful more broadly, and the work also has potential future research value.\n\nGrading\n\n5. How is BTP graded at your department, and how much does the grade depend on the professor's personal impression rather than measurable criteria?\n\nHer grade was based on weekly meetings with the guide, regular progress updates and a final presentation, and her professor also encouraged a conference paper, so ongoing work appeared to matter a great deal. According to her, the grade depends quite a bit on the professor's personal impression, because the guide's ongoing impression of her weekly progress mattered and not just the final presentation.\n\n6. Any tips for getting a good evaluation?\n\nShe advised meeting the guide regularly, continuing to share progress and staying engaged throughout the semester. If possible, the work should be developed enough to lead to a paper or another tangible output.\n\nProfessor Review\n\nProfessor's name: Prof. Albert Thomas\n\nRate 1\u201310:\n\n1. Availability (accessible for meetings and check-ins): 9/10\n\n2. Guidance quality (usefulness of feedback and direction): 9/10\n\n3. Technical depth (command over the BTP subject area): 8/10\n\n4. Student autonomy (freedom to explore your own ideas): 8/10\n\n5. Output push (encouragement to produce a paper or prototype): 10/10\n\n6. Overall rating: 9/10\n\nComments: who is this professor ideal for, and what kind of student thrives under them\n\nProf. Albert Thomas is ideal for students who are comfortable with research-oriented BTPs and regular mentorship. He appears to work well with students who like iterative feedback and regular check-ins, and who are open to writing a conference paper or producing a tangible research output.",
     "verbatimSections": [
-      {
-        "heading": "During the call:",
-        "lines": [
-          "\u2022 Type up your notes immediately after the call while memory is fresh/do as you wish I only care about output, also we need really short answers."
-        ]
-      },
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Rishabh Jain",
-          "Senior's name: Ritika Bhadrecha",
-          "Senior's batch/year: 2027",
-          "Date of call: 31/08/2026",
-          "Section(s) covered: BTP"
-        ]
-      },
       {
         "heading": "BTP Review",
         "lines": [
           "BTP title: Carbon Credit Trading in the Construction Industry",
-          "Semester undertaken: Not explicitly stated during the call; it was discussed as her BTP from a later semester.",
           "Professor/guide: Prof. Albert Thomas",
           "Domain: Construction management and sustainability-related research"
         ]
@@ -5569,7 +4771,6 @@ export const allProjects = [
       {
         "heading": "Professor Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY: Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Professor's name: Prof. Albert Thomas",
           "Rate 1\u201310:",
           "1. Availability (accessible for meetings and check-ins): 9/10",
@@ -5589,27 +4790,18 @@ export const allProjects = [
     "id": 3,
     "type": "BTP",
     "title": "UI Development for an Existing Transport Engine",
-    "student": "Parv Seth (B.Tech)",
+    "student": "B.Tech Senior Project",
     "year": "2024\u201325",
     "professor": "Prof. Sangram Nirmale",
-    "reviewer": "Disha Agrawal",
     "semester": "Not provided",
     "teamSize": "4 members",
     "domain": "Transportation / UI Development",
-    "description": "BTP title: UI Development for an Existing Transport Engine",
+    "description": "The BTP focused on developing the user interface (UI) for an already-developed transport engine.",
     "metrics": {
       "Team size": "4"
     },
-    "rawContent": "Call Details\n\nYour name: Disha Agrawal\n\nSenior's name: Parv Seth\n\nSection(s) covered: BTP\n\nBTP Review\n\nBTP title: UI Development for an Existing Transport Engine\n\nSemester undertaken: Not provided\n\nProfessor/guide: Prof. Sangram Nirmale\n\nTeam size: 4 members\n\nDomain: Transportation / UI Development\n\nProject Overview\n\n1. What was your BTP about in simple terms?\n\nThe BTP focused on developing the user interface (UI) for an already-developed transport engine.\n\n2. What gap or problem were you addressing?\n\nNot provided.\n\n3. Was it more research-oriented or application-oriented?\n\nIt was primarily application-oriented, involving UI development for an existing transportation engine.\n\nLearnings & Applications\n\n4. What skills did you build through the BTP?\n\nThe specific technical skills developed were not provided. The project involved UI development and working with an existing transport engine.\n\n5. Did it connect to your coursework, internship, or future plans?\n\nNot provided.\n\n6. What was the most challenging part intellectually?\n\nNot provided.\n\nGrading\n\n7. How is BTP graded at your department?\n\nThe grade depends on the professor as well as the external evaluator. The senior felt that, in their experience, it was relatively easy to get a good grade by regularly meeting the professor and giving updates on the work.\n\n8. How much does the final grade depend on the professor's personal impression of you and your work, rather than objective measurable criteria?\n\nAccording to the senior, the professor's impression and consistent engagement throughout the BTP matter considerably. Regular meetings and progress updates were important in their experience.\n\n9. Any tips for getting a good evaluation?\n\nMeet the professor regularly.\n\nKeep giving consistent updates about the work.\n\nStay engaged throughout the BTP rather than only working toward the final evaluation.\n\nChoose the professor carefully, as the overall BTP experience and workload depend significantly on the professor.\n\nWorkload & Recommendation\n\n10. How would you describe the overall workload of the BTP?\n\nThe BTP under Prof. Sangram Nirmale was described as quite chill.\n\n11. Does the workload remain the same across different BTPs?\n\nNo. According to the senior, the workload mostly depends on the professor under whom the BTP is undertaken.\n\n12. When would you recommend taking a BTP?\n\nThe BTP can be taken in 3rd or 4th year.\n\nProfessor Review\n\n\u26a0 INTERNAL ONLY \u2014 Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nProfessor's name: Prof. Sangram Nirmale\n\nRate 1\u201310:\n\n1. Availability \u2014 How consistently accessible is the professor for meetings and check-ins when needed?\n\nNot provided.\n\n2. Guidance quality \u2014 How useful and actionable is the feedback and direction the professor provides?\n\nNot provided.\n\n3. Technical depth \u2014 How strong is the professor's command over the subject area of your BTP?\n\nNot provided.\n\n4. Student autonomy \u2014 How much freedom does the professor give you to explore your own ideas vs directing everything?\n\nNot provided.\n\n5. Publication/output push \u2014 How actively does the professor encourage you to produce a tangible outcome like a paper or prototype?\n\nNot provided.\n\n6. Overall rating \u2014\n\nNot provided.\n\nComments: who is this prof ideal for, what kind of student thrives under them\n\nNot provided.\n\nAdditional IDP Feedback\n\nThe senior did not personally do an IDP, so this feedback is based on their observations. They felt that the IDP experience has not been equally fruitful for everyone, and that not everyone received good grades.",
+    "rawContent": "BTP Review\n\nBTP title: UI Development for an Existing Transport Engine\n\nSemester undertaken: Not provided\n\nProfessor/guide: Prof. Sangram Nirmale\n\nTeam size: 4 members\n\nDomain: Transportation / UI Development\n\nProject Overview\n\n1. What was your BTP about in simple terms?\n\nThe BTP focused on developing the user interface (UI) for an already-developed transport engine.\n\n2. What gap or problem were you addressing?\n\nNot provided.\n\n3. Was it more research-oriented or application-oriented?\n\nIt was primarily application-oriented, involving UI development for an existing transportation engine.\n\nLearnings & Applications\n\n4. What skills did you build through the BTP?\n\nThe specific technical skills developed were not provided. The project involved UI development and working with an existing transport engine.\n\n5. Did it connect to your coursework, internship, or future plans?\n\nNot provided.\n\n6. What was the most challenging part intellectually?\n\nNot provided.\n\nGrading\n\n7. How is BTP graded at your department?\n\nThe grade depends on the professor as well as the external evaluator. The senior felt that, in their experience, it was relatively easy to get a good grade by regularly meeting the professor and giving updates on the work.\n\n8. How much does the final grade depend on the professor's personal impression of you and your work, rather than objective measurable criteria?\n\nAccording to the senior, the professor's impression and consistent engagement throughout the BTP matter considerably. Regular meetings and progress updates were important in their experience.\n\n9. Any tips for getting a good evaluation?\n\nMeet the professor regularly.\n\nKeep giving consistent updates about the work.\n\nStay engaged throughout the BTP rather than only working toward the final evaluation.\n\nChoose the professor carefully, as the overall BTP experience and workload depend significantly on the professor.\n\nWorkload & Recommendation\n\n10. How would you describe the overall workload of the BTP?\n\nThe BTP under Prof. Sangram Nirmale was described as quite chill.\n\n11. Does the workload remain the same across different BTPs?\n\nNo. According to the senior, the workload mostly depends on the professor under whom the BTP is undertaken.\n\n12. When would you recommend taking a BTP?\n\nThe BTP can be taken in 3rd or 4th year.\n\nProfessor Review\n\nProfessor's name: Prof. Sangram Nirmale\n\nRate 1\u201310:\n\n1. Availability \u2014 How consistently accessible is the professor for meetings and check-ins when needed?\n\nNot provided.\n\n2. Guidance quality \u2014 How useful and actionable is the feedback and direction the professor provides?\n\nNot provided.\n\n3. Technical depth \u2014 How strong is the professor's command over the subject area of your BTP?\n\nNot provided.\n\n4. Student autonomy \u2014 How much freedom does the professor give you to explore your own ideas vs directing everything?\n\nNot provided.\n\n5. Publication/output push \u2014 How actively does the professor encourage you to produce a tangible outcome like a paper or prototype?\n\nNot provided.\n\n6. Overall rating \u2014\n\nNot provided.\n\nComments: who is this prof ideal for, what kind of student thrives under them\n\nNot provided.\n\nAdditional IDP Feedback\n\nThe senior did not personally do an IDP, so this feedback is based on their observations. They felt that the IDP experience has not been equally fruitful for everyone, and that not everyone received good grades.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Disha Agrawal",
-          "Senior's name: Parv Seth",
-          "Section(s) covered: BTP"
-        ]
-      },
       {
         "heading": "BTP Review",
         "lines": [
@@ -5666,7 +4858,6 @@ export const allProjects = [
       {
         "heading": "Professor Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY \u2014 Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Professor's name: Prof. Sangram Nirmale",
           "Rate 1\u201310:",
           "1. Availability \u2014 How consistently accessible is the professor for meetings and check-ins when needed?",
@@ -5694,28 +4885,19 @@ export const allProjects = [
     "id": 4,
     "type": "IDP",
     "title": "Feasibility Study of Implementation of PRT",
-    "student": "Soyal Khan (B.Tech)",
+    "student": "Civil Engineering IDP Group",
     "year": "2024\u201325",
     "professor": "Prof. Sangram",
-    "reviewer": "Disha Agrawal",
     "semester": "Not disclosed",
     "teamSize": "Group of 5",
     "domain": "Industrial & Interdisciplinary Project",
-    "description": "IDP title: Feasibility Study of Implementation of PRT",
+    "description": "The project focused on the feasibility study of implementing PRT (Personal Rapid Transit), falling under the domain of Transportation Engineering.",
     "metrics": {
       "year": "4",
       "Credits": "12"
     },
-    "rawContent": "IDP Review\n\nCall Details\n\nYour name: Disha Agrawal\n\nSenior's name: Soyal Khan\n\nSenior's batch/year: 4th year\n\nIDP Details\n\nIDP title: Feasibility Study of Implementation of PRT\n\nSemester undertaken: Not disclosed\n\nProfessor/guide: Prof. Sangram\n\nTeam size & department mix: Group of 5\n\nCredits: 12\n\nProject Overview\n\n1. What problem or domain did the IDP address?\n\nThe project focused on the feasibility study of implementing PRT (Personal Rapid Transit), falling under the domain of Transportation Engineering.\n\n2. What was the final deliverable?\n\nThe major deliverables were the feasibility study of the proposed PRT implementation, along with the accompanying report preparation and presentations.\n\n3. Was the project more core civil engineering oriented, or was civil knowledge rarely used in practice?\n\nIt was related to core civil engineering, specifically transportation engineering, though a significant amount of time went into report and presentation preparation rather than directly working on the problem statement.\n\nLearnings & Applications\n\n4. What did you personally take away from the experience?\n\nThe IDP provided experience working on a transportation engineering problem as a team, along with developing skills in preparing technical reports and presentations.\n\n5. What skills \u2014 technical or soft \u2014 did the IDP help you build?\n\nTechnical report writing\n\nPresentation-making and communication\n\nTeamwork\n\nWorking on a transportation engineering problem\n\nManaging regular project meetings and deadlines\n\n6. Did it lead anywhere further, like a publication, startup, BTP, or internship?\n\nNot disclosed.\n\nGrading\n\n7. How is IDP evaluated at your department?\n\nGrading is largely dependent on the professor and the nature of the project. Overall, the grading was described as quite good, though it can vary from professor to professor.\n\n8. How much does presentation vs output vs process matter for the grade?\n\nThe exact weightage was not disclosed. However, this particular IDP had a considerable emphasis on report-making and presentations.\n\n9. What would you do differently to get a stronger evaluation?\n\nMore focus on the actual problem statement and technical work would be preferable, rather than spending a disproportionate amount of time on report and presentation preparation. Choosing a professor/project with a suitable workload and expectations would also matter.\n\nWorkload & Experience\n\n10. How would you describe the overall workload of the IDP?\n\nThe workload depends significantly on the professor. While IDP is generally considered relatively chill, this particular project carried a higher workload compared with some other IDPs \u2014 the team had 2\u20133 compulsory meetings every week, and one team member eventually left the IDP midway through the semester due to the workload.\n\n11. Does the workload remain the same across different IDPs?\n\nNo, the workload can vary considerably depending on the professor and the specific IDP.\n\nRecommendation\n\n12. When would you recommend taking an IDP?\n\nThird year is a good time to take an IDP, as it serves as a useful resume pointer while letting students complete it without the added pressure of placements.\n\nProfessor Review\n\nProfessor's name: Prof. Sangram\n\n1. Vision clarity \u2014 How clearly does the professor communicate the project's goals, scope, and expectations from the start?\n\nNot disclosed.\n\n2. Team facilitation \u2014 How effectively does the professor help the team resolve conflicts, stay aligned, and work well together?\n\nNot disclosed.\n\n4. Creative freedom \u2014 How much does the professor encourage bold, innovative ideas rather than defaulting to safe and conventional approaches?\n\nNot disclosed.\n\n5. Milestone management \u2014 How well does the professor structure check-ins, deadlines, and progress reviews throughout the project?\n\nNot disclosed.\n\n6. Overall rating:\n\nNot disclosed.",
+    "rawContent": "IDP Review\n\nIDP Details\n\nIDP title: Feasibility Study of Implementation of PRT\n\nSemester undertaken: Not disclosed\n\nProfessor/guide: Prof. Sangram\n\nTeam size & department mix: Group of 5\n\nCredits: 12\n\nProject Overview\n\n1. What problem or domain did the IDP address?\n\nThe project focused on the feasibility study of implementing PRT (Personal Rapid Transit), falling under the domain of Transportation Engineering.\n\n2. What was the final deliverable?\n\nThe major deliverables were the feasibility study of the proposed PRT implementation, along with the accompanying report preparation and presentations.\n\n3. Was the project more core civil engineering oriented, or was civil knowledge rarely used in practice?\n\nIt was related to core civil engineering, specifically transportation engineering, though a significant amount of time went into report and presentation preparation rather than directly working on the problem statement.\n\nLearnings & Applications\n\n4. What did you personally take away from the experience?\n\nThe IDP provided experience working on a transportation engineering problem as a team, along with developing skills in preparing technical reports and presentations.\n\n5. What skills \u2014 technical or soft \u2014 did the IDP help you build?\n\nTechnical report writing\n\nPresentation-making and communication\n\nTeamwork\n\nWorking on a transportation engineering problem\n\nManaging regular project meetings and deadlines\n\n6. Did it lead anywhere further, like a publication, startup, BTP, or internship?\n\nNot disclosed.\n\nGrading\n\n7. How is IDP evaluated at your department?\n\nGrading is largely dependent on the professor and the nature of the project. Overall, the grading was described as quite good, though it can vary from professor to professor.\n\n8. How much does presentation vs output vs process matter for the grade?\n\nThe exact weightage was not disclosed. However, this particular IDP had a considerable emphasis on report-making and presentations.\n\n9. What would you do differently to get a stronger evaluation?\n\nMore focus on the actual problem statement and technical work would be preferable, rather than spending a disproportionate amount of time on report and presentation preparation. Choosing a professor/project with a suitable workload and expectations would also matter.\n\nWorkload & Experience\n\n10. How would you describe the overall workload of the IDP?\n\nThe workload depends significantly on the professor. While IDP is generally considered relatively chill, this particular project carried a higher workload compared with some other IDPs \u2014 the team had 2\u20133 compulsory meetings every week, and one team member eventually left the IDP midway through the semester due to the workload.\n\n11. Does the workload remain the same across different IDPs?\n\nNo, the workload can vary considerably depending on the professor and the specific IDP.\n\nRecommendation\n\n12. When would you recommend taking an IDP?\n\nThird year is a good time to take an IDP, as it serves as a useful resume pointer while letting students complete it without the added pressure of placements.\n\nProfessor Review\n\nProfessor's name: Prof. Sangram\n\n1. Vision clarity \u2014 How clearly does the professor communicate the project's goals, scope, and expectations from the start?\n\nNot disclosed.\n\n2. Team facilitation \u2014 How effectively does the professor help the team resolve conflicts, stay aligned, and work well together?\n\nNot disclosed.\n\n4. Creative freedom \u2014 How much does the professor encourage bold, innovative ideas rather than defaulting to safe and conventional approaches?\n\nNot disclosed.\n\n5. Milestone management \u2014 How well does the professor structure check-ins, deadlines, and progress reviews throughout the project?\n\nNot disclosed.\n\n6. Overall rating:\n\nNot disclosed.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Disha Agrawal",
-          "Senior's name: Soyal Khan",
-          "Senior's batch/year: 4th year"
-        ]
-      },
       {
         "heading": "IDP Details",
         "lines": [
@@ -5794,31 +4976,20 @@ export const allProjects = [
     "id": 5,
     "type": "IDP",
     "title": "AI/ML applications for Western Railways",
-    "student": "Avishkar Bahirwar (B.Tech)",
+    "student": "Civil Engineering IDP Group",
     "year": "2024\u201325",
     "professor": "Prof. Avijit Maje",
-    "reviewer": "Raj Achliya",
     "semester": "6th",
     "teamSize": "5 members, all from Civil Engineering",
     "domain": "Industrial & Interdisciplinary Project",
-    "description": "IDP title: AI/ML applications for Western Railways",
+    "description": "Team size & department mix: 5 members, all from Civil Engineering",
     "metrics": {
       "year": "2027",
-      "Date of call": "01",
       "Semester undertaken": "6",
       "department mix": "5"
     },
-    "rawContent": "IDP Review\n\nCall Details\n\nYour name: Raj Achliya\n\nSenior's name: Avishkar Bahirwar\n\nSenior's batch/year: 2027\n\nDate of call \u2013 01/09/26\n\nIDP Details\n\nIDP title: AI/ML applications for Western Railways\n\nSemester undertaken: 6th\n\nProfessor/guide: Avijit Maje\n\nTeam size & department mix: 5 members, all from Civil Engineering\n\nProject Overview\n\n1. What problem or domain did the IDP address?\n\nDomain was Western Railways; the problem addressed was how rainfall affects trains and causes delays.\n\n2. What was the final deliverable?\n\nTwo models were built - a predictive model based on all relevant factors, and a descriptive model that gave an in-depth analysis.\n\n3. Was the project more core civil engineering oriented, or was civil knowledge rarely used in practice?\n\nA mix of both. Civil oriented as well as ML based, since it involved sections and blocks of rail tracks.\n\nLearnings & Applications\n\n4. What did you personally take away from the experience?\n\nFirst-hand experience of an industrial project. Since it was a project with the Government of India, gained insight into government hierarchy, how to source data, and especially how hard it is to find data, which was also largely unstructured.\n\n5. What skills \u2014 technical or soft \u2014 did the IDP help you build?\n\nApplied existing ML skills on large datasets and learned about railway functioning. On the soft skills side, learned how to interact with higher authorities.\n\n6. Did it lead anywhere further, like a publication, startup, BTP, or internship?\n\nIn the last meeting, the railway officer suggested continuing the project, but since we were busy, it was handed off to a post-doc under the professor to take forward.\n\nGrading\n\n7. How is IDP evaluated at your department?\n\nGrading scheme is not disclosed. From interactions with others who've taken it, it is mainly based on the final presentation of about 7 minutes, even the professor did not know what grades students were awarded.\n\n8. How much does presentation vs output vs process matter for the grade?\n\nPresentation matters a lot as groups that presented well got better grades. Grades may also differ between individuals within the same group.\n\n9. What would you do differently to get a stronger evaluation?\n\nNot much to change but it would help if the grading scheme were disclosed.\n\nProfessor Review\n\nProfessor's name: Avijit Maje\n\n1. Vision clarity \u2014 How clearly does the professor communicate the project's goals, scope, and expectations from the start?\n\n7/10\n\n2. Team facilitation \u2014 How effectively does the professor help the team resolve conflicts, stay aligned, and work well together?\n\n8/10\n\n4. Creative freedom \u2014 How much does the professor encourage bold, innovative ideas rather than defaulting to safe and conventional approaches?\n\n6/10\n\n5. Milestone management \u2014 How well does the professor structure check-ins, deadlines, and progress reviews throughout the project?\n\n9/10\n\n6. Overall rating\n\n6/10",
+    "rawContent": "IDP Review\n\nIDP Details\n\nIDP title: AI/ML applications for Western Railways\n\nSemester undertaken: 6th\n\nProfessor/guide: Avijit Maje\n\nTeam size & department mix: 5 members, all from Civil Engineering\n\nProject Overview\n\n1. What problem or domain did the IDP address?\n\nDomain was Western Railways; the problem addressed was how rainfall affects trains and causes delays.\n\n2. What was the final deliverable?\n\nTwo models were built - a predictive model based on all relevant factors, and a descriptive model that gave an in-depth analysis.\n\n3. Was the project more core civil engineering oriented, or was civil knowledge rarely used in practice?\n\nA mix of both. Civil oriented as well as ML based, since it involved sections and blocks of rail tracks.\n\nLearnings & Applications\n\n4. What did you personally take away from the experience?\n\nFirst-hand experience of an industrial project. Since it was a project with the Government of India, gained insight into government hierarchy, how to source data, and especially how hard it is to find data, which was also largely unstructured.\n\n5. What skills \u2014 technical or soft \u2014 did the IDP help you build?\n\nApplied existing ML skills on large datasets and learned about railway functioning. On the soft skills side, learned how to interact with higher authorities.\n\n6. Did it lead anywhere further, like a publication, startup, BTP, or internship?\n\nIn the last meeting, the railway officer suggested continuing the project, but since we were busy, it was handed off to a post-doc under the professor to take forward.\n\nGrading\n\n7. How is IDP evaluated at your department?\n\nGrading scheme is not disclosed. From interactions with others who've taken it, it is mainly based on the final presentation of about 7 minutes, even the professor did not know what grades students were awarded.\n\n8. How much does presentation vs output vs process matter for the grade?\n\nPresentation matters a lot as groups that presented well got better grades. Grades may also differ between individuals within the same group.\n\n9. What would you do differently to get a stronger evaluation?\n\nNot much to change but it would help if the grading scheme were disclosed.\n\nProfessor Review\n\nProfessor's name: Avijit Maje\n\n1. Vision clarity \u2014 How clearly does the professor communicate the project's goals, scope, and expectations from the start?\n\n7/10\n\n2. Team facilitation \u2014 How effectively does the professor help the team resolve conflicts, stay aligned, and work well together?\n\n8/10\n\n4. Creative freedom \u2014 How much does the professor encourage bold, innovative ideas rather than defaulting to safe and conventional approaches?\n\n6/10\n\n5. Milestone management \u2014 How well does the professor structure check-ins, deadlines, and progress reviews throughout the project?\n\n9/10\n\n6. Overall rating\n\n6/10",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Raj Achliya",
-          "Senior's name: Avishkar Bahirwar",
-          "Senior's batch/year: 2027",
-          "Date of call \u2013 01/09/26"
-        ]
-      },
       {
         "heading": "IDP Details",
         "lines": [
@@ -5884,10 +5055,9 @@ export const allProjects = [
     "id": 6,
     "type": "IDP",
     "title": "AI/ML",
-    "student": "Aryan Kashyap (B.Tech)",
+    "student": "Civil Engineering IDP Group",
     "year": "2024\u201325",
     "professor": "Prof. Avijit Maje",
-    "reviewer": "Raj",
     "semester": "6th Semester",
     "teamSize": "5 members, all from Civil Engineering",
     "domain": "Industrial & Interdisciplinary Project",
@@ -5967,20 +5137,19 @@ export const allProjects = [
     "id": 7,
     "type": "IDP",
     "title": "AI/ML Computer Vision Based Monitoring",
-    "student": "Ashwin Mankar (B.Tech)",
+    "student": "Civil Engineering IDP Group",
     "year": "2024\u201325",
     "professor": "Prof. Varun Reja",
-    "reviewer": "Raj",
     "semester": "6th Semester",
     "teamSize": "5 members, all from Civil Engineering",
     "domain": "Industrial & Interdisciplinary Project",
-    "description": "IDP title: AI/ML Computer Vision Based Monitoring",
+    "description": "Team size & department mix: 5 members, all from Civil Engineering",
     "metrics": {
       "Semester undertaken": "6",
       "department mix": "5",
       "Score": "10/10"
     },
-    "rawContent": "IDP Review\n\nIDP title: AI/ML Computer Vision Based Monitoring\n\nSemester undertaken: 6th Semester\n\nProfessor/guide: Varun Reja\n\nSenior Name: Ashwin Mankar\n\nTeam size & department mix: 5 members, all from Civil Engineering\n\nProject Overview\n\n1. What problem or domain did the IDP address?\n\nThe project was based on construction management, building a framework to be deployed on-site.\n\n2. What was the final deliverable?\n\nThe deliverable was a framework designed keeping in mind safety, progress, and productivity monitoring.\n\n3. Was the project more core civil engineering oriented, or was civil knowledge rarely used in practice?\n\nIt started off as core civil engineering, with ML-based components incorporated later on.\n\nLearnings & Applications\n\n4. What did you personally take away from the experience?\n\nAs the group leader, I got to interact directly with the industry partner, which was a great exposure.\n\n5. What skills \u2014 technical or soft \u2014 did the IDP help you build?\n\nTime management, efficient email writing to industry professionals, and weekly meetings with the professor.\n\n6. Did it lead anywhere further, like a publication, startup, BTP, or internship?\n\nYes, it led to a publication \u2014 the work done was good, so the professor suggested publishing it.\n\nGrading\n\n7. How is IDP evaluated at your department?\n\nEvaluation is through a final presentation in front of a panel of 4, along with a midterm report.\n\n8. How much does presentation vs output vs process matter for the grade?\n\nRoughly 40% presentation and 60% process and effort.\n\n9. What would you do differently to get a stronger evaluation?\n\nThe final website could have been made even better with enhanced features.\n\nProfessor Review\n\nProfessor's name: Varun Reja\n\nRate 1\u201310:\n\n1. Vision clarity \u2014 How clearly does the professor communicate the project's goals, scope, and expectations from the start?\n\nScore: 10/10\n\n2. Team facilitation \u2014 How effectively does the professor help the team resolve conflicts, stay aligned, and work well together?\n\nScore: 10/10\n\n4. Creative freedom \u2014 How much does the professor encourage bold, innovative ideas rather than defaulting to safe and conventional approaches?\n\nScore: 10/10\n\n5. Milestone management \u2014 How well does the professor structure check-ins, deadlines, and progress reviews throughout the project?\n\nScore: 10/10\n\n6. Overall rating \u2014\n\nScore: 10/10",
+    "rawContent": "IDP Review\n\nIDP title: AI/ML Computer Vision Based Monitoring\n\nSemester undertaken: 6th Semester\n\nProfessor/guide: Varun Reja\n\nTeam size & department mix: 5 members, all from Civil Engineering\n\nProject Overview\n\n1. What problem or domain did the IDP address?\n\nThe project was based on construction management, building a framework to be deployed on-site.\n\n2. What was the final deliverable?\n\nThe deliverable was a framework designed keeping in mind safety, progress, and productivity monitoring.\n\n3. Was the project more core civil engineering oriented, or was civil knowledge rarely used in practice?\n\nIt started off as core civil engineering, with ML-based components incorporated later on.\n\nLearnings & Applications\n\n4. What did you personally take away from the experience?\n\nAs the group leader, I got to interact directly with the industry partner, which was a great exposure.\n\n5. What skills \u2014 technical or soft \u2014 did the IDP help you build?\n\nTime management, efficient email writing to industry professionals, and weekly meetings with the professor.\n\n6. Did it lead anywhere further, like a publication, startup, BTP, or internship?\n\nYes, it led to a publication \u2014 the work done was good, so the professor suggested publishing it.\n\nGrading\n\n7. How is IDP evaluated at your department?\n\nEvaluation is through a final presentation in front of a panel of 4, along with a midterm report.\n\n8. How much does presentation vs output vs process matter for the grade?\n\nRoughly 40% presentation and 60% process and effort.\n\n9. What would you do differently to get a stronger evaluation?\n\nThe final website could have been made even better with enhanced features.\n\nProfessor Review\n\nProfessor's name: Varun Reja\n\nRate 1\u201310:\n\n1. Vision clarity \u2014 How clearly does the professor communicate the project's goals, scope, and expectations from the start?\n\nScore: 10/10\n\n2. Team facilitation \u2014 How effectively does the professor help the team resolve conflicts, stay aligned, and work well together?\n\nScore: 10/10\n\n4. Creative freedom \u2014 How much does the professor encourage bold, innovative ideas rather than defaulting to safe and conventional approaches?\n\nScore: 10/10\n\n5. Milestone management \u2014 How well does the professor structure check-ins, deadlines, and progress reviews throughout the project?\n\nScore: 10/10\n\n6. Overall rating \u2014\n\nScore: 10/10",
     "verbatimSections": [
       {
         "heading": "IDP Review",
@@ -5988,7 +5157,6 @@ export const allProjects = [
           "IDP title: AI/ML Computer Vision Based Monitoring",
           "Semester undertaken: 6th Semester",
           "Professor/guide: Varun Reja",
-          "Senior Name: Ashwin Mankar",
           "Team size & department mix: 5 members, all from Civil Engineering"
         ]
       },
@@ -6049,29 +5217,20 @@ export const allProjects = [
     "id": 8,
     "type": "IDP",
     "title": "Composite Mixture, UHPC and Concrete Research",
-    "student": "Vishwat Dubey (B.Tech)",
+    "student": "Civil Engineering IDP Group",
     "year": "2024\u201325",
     "professor": "Prof. Najeeb Sharif",
-    "reviewer": "Raj Achliya",
     "semester": "6",
     "teamSize": "5 , all from Civil",
     "domain": "Industrial & Interdisciplinary Project",
-    "description": "IDP title: Composite Mixture, UHPC and Concrete Research",
+    "description": "Team size & department mix: 5 , all from Civil",
     "metrics": {
       "year": "2027",
       "Semester undertaken": "6",
       "department mix": "5"
     },
-    "rawContent": "IDP Review\n\nCall Details\n\nYour name: Raj Achliya\n\nSenior's name: Vishwat Dubey\n\nSenior's batch/year: 2027\n\nIDP Details\n\nIDP title: Composite Mixture, UHPC and Concrete Research\n\nSemester undertaken: 6\n\nProfessor/guide: Najeeb Sharif\n\nTeam size & department mix: 5 , all from Civil\n\nProject Overview\n\n1. What problem or domain did the IDP address?\n\nThe project addressed the waterproofing of concrete tanks, looking at how material composition and design choices could improve their water-tightness and durability.\n\n2. What was the final deliverable?\n\nA final tank composition/mix design, along with the accompanying structural design of the tank and its steel reinforcement (rebars).\n\n3. Was the project more core civil engineering oriented, or was civil knowledge rarely used in practice?\n\nStrongly civil-oriented. The work centered on structural design and material behavior, core civil engineering territory.\n\nLearnings & Applications\n\n4. What did you personally take away from the experience?\n\nA good experience, the professor was helpful, L&T was very supportive, and it was great exposure to industry.\n\n5. What skills \u2014 technical or soft \u2014 did the IDP help you build?\n\nCivil core-related skills, using ETABS and Dynalog software.\n\n6. Did it lead anywhere further, like a publication, startup, BTP, or internship?\n\nNo, but L&T used it in their research project as they found it helpful.\n\nGrading\n\n7. How is IDP evaluated at your department?\n\nLack of proper guidelines and a clear grading scheme leaves it open to interpretation.\n\n8. How much does presentation vs output vs process matter for the grade?\n\nCan't say with surety, but from colleagues' reviews, the final presentation seems more dominant, while midterm reports don't matter much.\n\n9. What would you do differently to get a stronger evaluation?\n\nCan't comment since the grading scheme isn't known \u2014 but personally, L&T (industry partner) was really satisfied with the work, which was satisfying in itself.\n\nProfessor Review\n\nProfessor's name: Najeeb Sharif\n\n1. Vision clarity \u2014 How clearly does the professor communicate the project's goals, scope, and expectations from the start?\n\n10/10\n\n2. Team facilitation \u2014 How effectively does the professor help the team resolve conflicts, stay aligned, and work well together?\n\n7/10\n\n4. Creative freedom \u2014 How much does the professor encourage bold, innovative ideas rather than defaulting to safe and conventional approaches?\n\n3/10\n\n5. Milestone management \u2014 How well does the professor structure check-ins, deadlines, and progress reviews throughout the project?\n\n9/10\n\n6. Overall rating\n\n9/10",
+    "rawContent": "IDP Review\n\nIDP Details\n\nIDP title: Composite Mixture, UHPC and Concrete Research\n\nSemester undertaken: 6\n\nProfessor/guide: Najeeb Sharif\n\nTeam size & department mix: 5 , all from Civil\n\nProject Overview\n\n1. What problem or domain did the IDP address?\n\nThe project addressed the waterproofing of concrete tanks, looking at how material composition and design choices could improve their water-tightness and durability.\n\n2. What was the final deliverable?\n\nA final tank composition/mix design, along with the accompanying structural design of the tank and its steel reinforcement (rebars).\n\n3. Was the project more core civil engineering oriented, or was civil knowledge rarely used in practice?\n\nStrongly civil-oriented. The work centered on structural design and material behavior, core civil engineering territory.\n\nLearnings & Applications\n\n4. What did you personally take away from the experience?\n\nA good experience, the professor was helpful, L&T was very supportive, and it was great exposure to industry.\n\n5. What skills \u2014 technical or soft \u2014 did the IDP help you build?\n\nCivil core-related skills, using ETABS and Dynalog software.\n\n6. Did it lead anywhere further, like a publication, startup, BTP, or internship?\n\nNo, but L&T used it in their research project as they found it helpful.\n\nGrading\n\n7. How is IDP evaluated at your department?\n\nLack of proper guidelines and a clear grading scheme leaves it open to interpretation.\n\n8. How much does presentation vs output vs process matter for the grade?\n\nCan't say with surety, but from colleagues' reviews, the final presentation seems more dominant, while midterm reports don't matter much.\n\n9. What would you do differently to get a stronger evaluation?\n\nCan't comment since the grading scheme isn't known \u2014 but personally, L&T (industry partner) was really satisfied with the work, which was satisfying in itself.\n\nProfessor Review\n\nProfessor's name: Najeeb Sharif\n\n1. Vision clarity \u2014 How clearly does the professor communicate the project's goals, scope, and expectations from the start?\n\n10/10\n\n2. Team facilitation \u2014 How effectively does the professor help the team resolve conflicts, stay aligned, and work well together?\n\n7/10\n\n4. Creative freedom \u2014 How much does the professor encourage bold, innovative ideas rather than defaulting to safe and conventional approaches?\n\n3/10\n\n5. Milestone management \u2014 How well does the professor structure check-ins, deadlines, and progress reviews throughout the project?\n\n9/10\n\n6. Overall rating\n\n9/10",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Raj Achliya",
-          "Senior's name: Vishwat Dubey",
-          "Senior's batch/year: 2027"
-        ]
-      },
       {
         "heading": "IDP Details",
         "lines": [
@@ -6137,27 +5296,18 @@ export const allProjects = [
     "id": 9,
     "type": "IDP",
     "title": "Structural Retrofitting of Columns",
-    "student": "Anshika Tripathi (B.Tech)",
+    "student": "Civil Engineering IDP Group",
     "year": "2024\u201325",
     "professor": "Prof. Not disclosed",
-    "reviewer": "Disha Agrawal",
     "semester": "Last semester",
     "teamSize": "Not disclosed",
     "domain": "Industrial & Interdisciplinary Project",
-    "description": "IDP title: Structural Retrofitting of Columns",
+    "description": "Team size & department mix: Not disclosed",
     "metrics": {
       "year": "4"
     },
-    "rawContent": "IDP Review\n\nCall Details\n\nYour name: Disha Agrawal\n\nSenior's name: Anshika Tripathi\n\nSenior's batch/year: 4th year\n\nIDP Details\n\nIDP title: Structural Retrofitting of Columns\n\nSemester undertaken: Last semester\n\nProfessor/guide: Not disclosed\n\nTeam size & department mix: Not disclosed\n\nProject Overview\n\n1. What problem or domain did the IDP address?\n\nThe project focused on structural retrofitting of columns, specifically investigating methods to increase the compressive strength of structural columns.\n\n2. What was the final deliverable?\n\nThe team combined theoretical calculations, structural-analysis software modelling (using ANSYS/Abaqus), and experimental model testing in HSL, and compared the software-based results with the experimental outcomes.\n\n3. Was the project more core civil engineering oriented, or was civil knowledge rarely used in practice?\n\nIt was strongly core civil engineering oriented, drawing on structural engineering concepts, theoretical calculations, software modelling, and physical model testing.\n\nLearnings & Applications\n\n4. What did you personally take away from the experience?\n\nA major takeaway was learning to execute a project within a fixed timeline, especially since the IDP was being run for the first time that semester. The software component was entirely new to the group, so the team had to learn the tools while simultaneously working toward the expected results.\n\n5. What skills \u2014 technical or soft \u2014 did the IDP help you build?\n\nStructural analysis and theoretical calculations\n\nModelling using ANSYS/Abaqus\n\nExperimental/model testing in HSL\n\nLearning and applying a new software tool from scratch\n\nTime management and working within project deadlines\n\nTeamwork and adapting to an unfamiliar technical workflow\n\n6. Did it lead anywhere further, like a publication, startup, BTP, or internship?\n\nNot disclosed.\n\nGrading\n\n7. How is IDP evaluated at your department?\n\nThe project is graded jointly by the professor and industry guide, with the final presentation and panel evaluation also playing an important role.\n\n8. How much does presentation vs output vs process matter for the grade?\n\nThis seems to vary by professor. In general, the evaluation leaned more toward effort and process rather than only the final output.\n\n9. What would you do differently to get a stronger evaluation?\n\nSince the software component was completely new and had to be learned mid-project, starting the software/modelling work earlier and managing the timeline more efficiently would help \u2014 the senior specifically flagged fitting everything into the required time as one of the biggest challenges.\n\nProfessor Review\n\nProfessor's name: Not disclosed\n\n1. Vision clarity \u2014 How clearly does the professor communicate the project's goals, scope, and expectations from the start?\n\nNot disclosed.\n\n2. Team facilitation \u2014 How effectively does the professor help the team resolve conflicts, stay aligned, and work well together?\n\nNot disclosed.\n\n4. Creative freedom \u2014 How much does the professor encourage bold, innovative ideas rather than defaulting to safe and conventional approaches?\n\nNot disclosed.\n\n5. Milestone management \u2014 How well does the professor structure check-ins, deadlines, and progress reviews throughout the project?\n\nNot disclosed.\n\n6. Overall rating:\n\nNot disclosed.",
+    "rawContent": "IDP Review\n\nIDP Details\n\nIDP title: Structural Retrofitting of Columns\n\nSemester undertaken: Last semester\n\nProfessor/guide: Not disclosed\n\nTeam size & department mix: Not disclosed\n\nProject Overview\n\n1. What problem or domain did the IDP address?\n\nThe project focused on structural retrofitting of columns, specifically investigating methods to increase the compressive strength of structural columns.\n\n2. What was the final deliverable?\n\nThe team combined theoretical calculations, structural-analysis software modelling (using ANSYS/Abaqus), and experimental model testing in HSL, and compared the software-based results with the experimental outcomes.\n\n3. Was the project more core civil engineering oriented, or was civil knowledge rarely used in practice?\n\nIt was strongly core civil engineering oriented, drawing on structural engineering concepts, theoretical calculations, software modelling, and physical model testing.\n\nLearnings & Applications\n\n4. What did you personally take away from the experience?\n\nA major takeaway was learning to execute a project within a fixed timeline, especially since the IDP was being run for the first time that semester. The software component was entirely new to the group, so the team had to learn the tools while simultaneously working toward the expected results.\n\n5. What skills \u2014 technical or soft \u2014 did the IDP help you build?\n\nStructural analysis and theoretical calculations\n\nModelling using ANSYS/Abaqus\n\nExperimental/model testing in HSL\n\nLearning and applying a new software tool from scratch\n\nTime management and working within project deadlines\n\nTeamwork and adapting to an unfamiliar technical workflow\n\n6. Did it lead anywhere further, like a publication, startup, BTP, or internship?\n\nNot disclosed.\n\nGrading\n\n7. How is IDP evaluated at your department?\n\nThe project is graded jointly by the professor and industry guide, with the final presentation and panel evaluation also playing an important role.\n\n8. How much does presentation vs output vs process matter for the grade?\n\nThis seems to vary by professor. In general, the evaluation leaned more toward effort and process rather than only the final output.\n\n9. What would you do differently to get a stronger evaluation?\n\nSince the software component was completely new and had to be learned mid-project, starting the software/modelling work earlier and managing the timeline more efficiently would help \u2014 the senior specifically flagged fitting everything into the required time as one of the biggest challenges.\n\nProfessor Review\n\nProfessor's name: Not disclosed\n\n1. Vision clarity \u2014 How clearly does the professor communicate the project's goals, scope, and expectations from the start?\n\nNot disclosed.\n\n2. Team facilitation \u2014 How effectively does the professor help the team resolve conflicts, stay aligned, and work well together?\n\nNot disclosed.\n\n4. Creative freedom \u2014 How much does the professor encourage bold, innovative ideas rather than defaulting to safe and conventional approaches?\n\nNot disclosed.\n\n5. Milestone management \u2014 How well does the professor structure check-ins, deadlines, and progress reviews throughout the project?\n\nNot disclosed.\n\n6. Overall rating:\n\nNot disclosed.",
     "verbatimSections": [
-      {
-        "heading": "Call Details",
-        "lines": [
-          "Your name: Disha Agrawal",
-          "Senior's name: Anshika Tripathi",
-          "Senior's batch/year: 4th year"
-        ]
-      },
       {
         "heading": "IDP Details",
         "lines": [
@@ -6228,26 +5378,18 @@ export const allProjects = [
     "id": 10,
     "type": "IDP",
     "title": "Modular Strengthening of Reinforced Concrete Columns Using High Strength Concrete Strips",
-    "student": "Dunggam Gao (B.Tech)",
+    "student": "Civil Engineering IDP Group",
     "year": "2024\u201325",
     "professor": "Prof. Souvik Banerji (industrial supervisor's name not disclosed)",
-    "reviewer": "Rishabh Jain",
     "semester": "Sixth semester",
     "teamSize": "5 members; all were Civil Engineering students",
     "domain": "Industrial & Interdisciplinary Project",
-    "description": "Reviewer: Rishabh Jain | Senior: Dunggam Gao | Date of call: 30/08/2026",
+    "description": "Team size & department mix: 5 members; all were Civil Engineering students",
     "metrics": {
-      "Date of call": "30",
       "department mix": "5"
     },
-    "rawContent": "Reviewer: Rishabh Jain | Senior: Dunggam Gao | Date of call: 30/08/2026\n\nIDP Review\n\nIDP title: Modular Strengthening of Reinforced Concrete Columns Using High Strength Concrete Strips\n\nSemester undertaken: Sixth semester\n\nProfessor/guide: Prof. Souvik Banerji (industrial supervisor's name not disclosed)\n\nTeam size & department mix: 5 members; all were Civil Engineering students\n\nProject Overview\n\n1. What problem or domain did the IDP address?The project focused on retrofitting reinforced concrete (RC) columns to increase their load-carrying capacity. The team studied the use of high-strength concrete strips as an alternative to conventional steel-strip retrofitting. The broader aim was to selectively strengthen weaker structural elements, such as a weaker floor in a building, particularly in the context of earthquake performance.\n\n2. What was the final deliverable?The team tested RC columns strengthened using steel versus high-strength concrete and compared the resulting increase in capacity and cost effectiveness. Steel provided a higher increase in capacity, but high-strength concrete was found to be better on a cost-per-volume basis.\n\n3. Was the project more core civil engineering oriented, or was civil knowledge rarely used in practice?It was a core Civil Engineering project.\n\nLearnings & Applications\n\n4. What did you personally take away from the experience?The senior learned about retrofitting, which was a new topic not covered in the core courses. The project also provided exposure to finite-element modelling using Abaqus and to comparing theoretical, software-based and laboratory results. He also developed project-management experience through working toward weekly objectives.\n\n5. What skills \u2014 technical or soft \u2014 did the IDP help you build?Technical: retrofitting concepts, Abaqus/finite-element modelling, stress analysis and comparison of theoretical, simulation and lab results. Soft/professional: project management, planning weekly objectives, communication with supervisors and understanding how industry projects operate. The project also included site visits.\n\n6. Did it lead anywhere further, like a publication, startup, BTP, or internship?The team explored publication opportunities, and the industrial supervisor was interested in pursuing a patent. However, the senior felt that the one-semester duration was too short for a strong publication or patent, which would generally require substantially longer research. No completed publication/patent outcome was mentioned.\n\nGrading\n\n7. How is IDP evaluated at your department?The evaluation involves the presentation, the work itself, feedback from the project guide to the DUGC, feedback from the industrial supervisor, and the midterm report. The senior rated the transparency of the grading process only 5/10 because the department did not clearly disclose how marks were allocated across these components.\n\n8. How much does presentation vs output vs process matter for the grade?The exact weightage was not disclosed. Presentation, project work/output, guide feedback, industrial-supervisor feedback and the midterm report all form part of the evaluation, but the senior could not identify how much each contributes.\n\n9. What would you do differently to get a stronger evaluation?The biggest differentiator was interaction with the professor and industrial supervisor. The team communicated with both supervisors very well, and the professor attended weekly meetings and gave genuine feedback. Maintaining strong, regular communication and using supervisor feedback actively appears to have helped the team receive a stronger evaluation.\n\nProfessor Review\n\n\u26a0 INTERNAL ONLY \u2014 Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.\n\nProfessor's name: Prof. Souvik Banerji\n\nRate 1\u201310:\n\n1. Vision clarity \u2014 How clearly does the professor communicate the project's goals, scope, and expectations from the start?6/10 \u2014 During the first month, the professor was described as somewhat disconnected and did not fully know what the team was doing. However, in weekly meetings he provided useful ideas and gave the team substantial time when needed.\n\n2. Team facilitation \u2014 How effectively does the professor help the team resolve conflicts, stay aligned, and work well together?Not explicitly rated. The professor was not very involved in team facilitation; the team itself managed its work and avoided conflicts through careful assignment and discussion. The professor was nevertheless responsive when contacted.\n\n4. Creative freedom \u2014 How much does the professor encourage bold, innovative ideas rather than defaulting to safe and conventional approaches?7/10 \u2014 He was quite open to new ideas when they were well thought out.\n\n5. Milestone management \u2014 How well does the professor structure check-ins, deadlines, and progress reviews throughout the project?Not explicitly rated. Weekly meetings were held, and the professor was willing to spend one to two hours when useful. The senior also emphasized that the team had to set weekly objectives because of the project\u2019s industry-scale nature.\n\n6. Overall rating \u2014\n\nComments: what kind of IDP thrives under them, any red flagsA project that benefits from independent work, experimentation and regular supervisor interaction can work well under him. The professor is encouraging and gives students freedom, useful ideas and time in weekly meetings, but may initially be disconnected from the project's detailed execution. The industrial supervisor was more directly involved in the project. A major positive was the team's strong communication with both supervisors. The senior described the IDP as valuable for learning something new, project management, software, site exposure and understanding industry practices.",
+    "rawContent": "IDP Review\n\nIDP title: Modular Strengthening of Reinforced Concrete Columns Using High Strength Concrete Strips\n\nSemester undertaken: Sixth semester\n\nProfessor/guide: Prof. Souvik Banerji (industrial supervisor's name not disclosed)\n\nTeam size & department mix: 5 members; all were Civil Engineering students\n\nProject Overview\n\n1. What problem or domain did the IDP address?The project focused on retrofitting reinforced concrete (RC) columns to increase their load-carrying capacity. The team studied the use of high-strength concrete strips as an alternative to conventional steel-strip retrofitting. The broader aim was to selectively strengthen weaker structural elements, such as a weaker floor in a building, particularly in the context of earthquake performance.\n\n2. What was the final deliverable?The team tested RC columns strengthened using steel versus high-strength concrete and compared the resulting increase in capacity and cost effectiveness. Steel provided a higher increase in capacity, but high-strength concrete was found to be better on a cost-per-volume basis.\n\n3. Was the project more core civil engineering oriented, or was civil knowledge rarely used in practice?It was a core Civil Engineering project.\n\nLearnings & Applications\n\n4. What did you personally take away from the experience?The senior learned about retrofitting, which was a new topic not covered in the core courses. The project also provided exposure to finite-element modelling using Abaqus and to comparing theoretical, software-based and laboratory results. He also developed project-management experience through working toward weekly objectives.\n\n5. What skills \u2014 technical or soft \u2014 did the IDP help you build?Technical: retrofitting concepts, Abaqus/finite-element modelling, stress analysis and comparison of theoretical, simulation and lab results. Soft/professional: project management, planning weekly objectives, communication with supervisors and understanding how industry projects operate. The project also included site visits.\n\n6. Did it lead anywhere further, like a publication, startup, BTP, or internship?The team explored publication opportunities, and the industrial supervisor was interested in pursuing a patent. However, the senior felt that the one-semester duration was too short for a strong publication or patent, which would generally require substantially longer research. No completed publication/patent outcome was mentioned.\n\nGrading\n\n7. How is IDP evaluated at your department?The evaluation involves the presentation, the work itself, feedback from the project guide to the DUGC, feedback from the industrial supervisor, and the midterm report. The senior rated the transparency of the grading process only 5/10 because the department did not clearly disclose how marks were allocated across these components.\n\n8. How much does presentation vs output vs process matter for the grade?The exact weightage was not disclosed. Presentation, project work/output, guide feedback, industrial-supervisor feedback and the midterm report all form part of the evaluation, but the senior could not identify how much each contributes.\n\n9. What would you do differently to get a stronger evaluation?The biggest differentiator was interaction with the professor and industrial supervisor. The team communicated with both supervisors very well, and the professor attended weekly meetings and gave genuine feedback. Maintaining strong, regular communication and using supervisor feedback actively appears to have helped the team receive a stronger evaluation.\n\nProfessor Review\n\nProfessor's name: Prof. Souvik Banerji\n\nRate 1\u201310:\n\n1. Vision clarity \u2014 How clearly does the professor communicate the project's goals, scope, and expectations from the start?6/10 \u2014 During the first month, the professor was described as somewhat disconnected and did not fully know what the team was doing. However, in weekly meetings he provided useful ideas and gave the team substantial time when needed.\n\n2. Team facilitation \u2014 How effectively does the professor help the team resolve conflicts, stay aligned, and work well together?Not explicitly rated. The professor was not very involved in team facilitation; the team itself managed its work and avoided conflicts through careful assignment and discussion. The professor was nevertheless responsive when contacted.\n\n4. Creative freedom \u2014 How much does the professor encourage bold, innovative ideas rather than defaulting to safe and conventional approaches?7/10 \u2014 He was quite open to new ideas when they were well thought out.\n\n5. Milestone management \u2014 How well does the professor structure check-ins, deadlines, and progress reviews throughout the project?Not explicitly rated. Weekly meetings were held, and the professor was willing to spend one to two hours when useful. The senior also emphasized that the team had to set weekly objectives because of the project\u2019s industry-scale nature.\n\n6. Overall rating \u2014\n\nComments: what kind of IDP thrives under them, any red flagsA project that benefits from independent work, experimentation and regular supervisor interaction can work well under him. The professor is encouraging and gives students freedom, useful ideas and time in weekly meetings, but may initially be disconnected from the project's detailed execution. The industrial supervisor was more directly involved in the project. A major positive was the team's strong communication with both supervisors. The senior described the IDP as valuable for learning something new, project management, software, site exposure and understanding industry practices.",
     "verbatimSections": [
-      {
-        "heading": "General",
-        "lines": [
-          "Reviewer: Rishabh Jain | Senior: Dunggam Gao | Date of call: 30/08/2026"
-        ]
-      },
       {
         "heading": "IDP Review",
         "lines": [
@@ -6284,7 +5426,6 @@ export const allProjects = [
       {
         "heading": "Professor Review",
         "lines": [
-          "\u26a0 INTERNAL ONLY \u2014 Do not screenshot, forward, or share outside the subgroup. Inform the senior of confidentiality before asking this section.",
           "Professor's name: Prof. Souvik Banerji",
           "Rate 1\u201310:",
           "1. Vision clarity \u2014 How clearly does the professor communicate the project's goals, scope, and expectations from the start?6/10 \u2014 During the first month, the professor was described as somewhat disconnected and did not fully know what the team was doing. However, in weekly meetings he provided useful ideas and gave the team substantial time when needed.",

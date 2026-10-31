@@ -584,15 +584,13 @@ export default function Academics() {
                     </p>
 
                     {/* Senior Reviewer tag */}
-                    {c.senior && (
-                      <div className="inline-flex items-center gap-1.5 px-2 py-0.5 rounded-md text-meta font-medium mb-3 bg-[#F7F5EE] text-[#5A5F59]">
-                        <User size={11} className="text-[#173F35]" />
-                        <span>Senior: <strong>{c.senior}</strong></span>
-                        {c.leniency && (
-                          <span className="text-amber-700 ml-1">({c.leniency})</span>
-                        )}
-                      </div>
-                    )}
+                    <div className="inline-flex items-center gap-1.5 px-2 py-0.5 rounded-md text-meta font-medium mb-3 bg-[#F7F5EE] text-[#5A5F59]">
+                      <User size={11} className="text-[#173F35]" />
+                      <span>Senior Review</span>
+                      {c.leniency && (
+                        <span className="text-amber-700 ml-1">({c.leniency})</span>
+                      )}
+                    </div>
 
                     <p className="text-small leading-relaxed line-clamp-3 mb-2" style={{ color: '#5A5F59' }}>
                       {c.review}

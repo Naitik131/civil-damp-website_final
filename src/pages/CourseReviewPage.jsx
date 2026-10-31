@@ -29,8 +29,22 @@ function Tag({ label, colorKey, colors }) {
 }
 function isInternalWarning(line) {
   const l = line.trim().toLowerCase()
-  return l.startsWith("⚠") || l.includes("internal only") || l.includes("do not screenshot") ||
-    l.includes("do not forward") || l.includes("inform the senior of confidentiality")
+  return (
+    l.startsWith("⚠") ||
+    l.includes("internal only") ||
+    l.includes("do not screenshot") ||
+    l.includes("do not forward") ||
+    l.includes("inform the senior of confidentiality") ||
+    l.startsWith("your name:") ||
+    l.startsWith("senior's name:") ||
+    l.startsWith("senior name:") ||
+    l.startsWith("date of call:") ||
+    l.startsWith("call date:") ||
+    l.startsWith("section(s) covered:") ||
+    l.startsWith("during the call:") ||
+    l.includes("type up your notes") ||
+    l.includes("call details")
+  )
 }
 export default function CourseReviewPage() {
   const { id } = useParams()
@@ -73,14 +87,12 @@ export default function CourseReviewPage() {
             <span>Semester: <strong>Sem {item.semester}</strong></span>
             {item.rating && (<><span>·</span><span className="inline-flex items-center gap-1 text-amber-600 font-bold"><Star size={14} className="fill-amber-500 text-amber-500" />{item.rating} / 5</span></>)}
           </div>
-          {item.senior && (
-            <div className="mt-3.5 inline-flex flex-wrap items-center gap-2 px-3 py-1.5 rounded-xl text-meta" style={{ background: "#F7F5EE", border: "1px solid #E8E5DC", color: "#5A5F59" }}>
-              <span className="font-semibold flex items-center gap-1.5" style={{ color: "#20241F" }}>
-                <User size={13} style={{ color: "#173F35" }} />
-                Reviewed by: <strong>{item.senior}</strong>{item.batch ? ` (${item.batch})` : ""}
-              </span>
-            </div>
-          )}
+          <div className="mt-3.5 inline-flex flex-wrap items-center gap-2 px-3 py-1.5 rounded-xl text-meta" style={{ background: "#F7F5EE", border: "1px solid #E8E5DC", color: "#5A5F59" }}>
+            <span className="font-semibold flex items-center gap-1.5" style={{ color: "#20241F" }}>
+              <User size={13} style={{ color: "#173F35" }} />
+              Verified Department Senior Review
+            </span>
+          </div>
         </div>
         <hr style={{ borderColor: "#E8E5DC", marginBottom: "1.5rem" }} />
         {item.review && (

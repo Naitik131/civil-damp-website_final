@@ -150,55 +150,8 @@ export const professors = [
   },
 ];
 
-export const departmentAwards = [
-  {
-    award: 'Shanti Swarup Bhatnagar (SSB) Prize',
-    recipient: 'Prof. Subimal Ghosh (2019)',
-    field: 'Earth, Atmosphere, Ocean & Planetary Sciences',
-  },
-  {
-    award: 'Swarnajayanti Fellowship of DST',
-    recipient: 'Prof. Subimal Ghosh (2019)',
-    field: 'Hydrological & Atmospheric Sciences',
-  },
-  {
-    award: 'Fellow of Indian Academy of Sciences (FASc)',
-    recipient: 'Prof. Tarun Kant (2004), Prof. Deepankar Choudhury (2024)',
-    field: 'Engineering Sciences',
-  },
-  {
-    award: 'Fellow of Indian National Academy of Engineering (FNAE)',
-    recipient: 'Prof. Tarun Kant (1999), Prof. D. N. Singh (2011), Prof. M. C. Deo (2013), Prof. Deepankar Choudhury (2023)',
-    field: 'Civil & Geotechnical Engineering',
-  },
-  {
-    award: 'Fellow of National Academy of Sciences, India (FNASc)',
-    recipient: 'Prof. Tarun Kant (2011), Prof. Deepankar Choudhury (2017), Prof. Subimal Ghosh (2023)',
-    field: 'Science & Engineering',
-  },
-  {
-    award: 'Fellow of American Society of Civil Engineers (F.ASCE)',
-    recipient: 'Prof. D. N. Singh, Prof. Deepankar Choudhury (2019)',
-    field: 'Civil Engineering International Excellence',
-  },
-  {
-    award: 'Fellow of American Geophysical Union (AGU)',
-    recipient: 'Prof. Subimal Ghosh',
-    field: 'Global Earth & Hydrologic Sciences',
-  },
-  {
-    award: 'Alexander von Humboldt Fellowship (Germany)',
-    recipient: 'Prof. Deepankar Choudhury (2009)',
-    field: 'Geotechnical Earthquake Engineering',
-  },
-  {
-    award: 'VASVIK Industrial Research Award',
-    recipient: 'Prof. Tarun Kant (2020)',
-    field: 'Mechanical & Structural Science and Technology',
-  },
-];
+export const departmentAwards = [];
 
-// ===================== INTERNSHIPS =====================
 export const internships = [
   {
     id: 1,
@@ -216,38 +169,8 @@ export const internships = [
   },
 ];
 
-export const scholarships = [
-  {
-    name: 'OPJEMS Scholarship',
-    eligibility: 'CGPA > 8.5, 2nd year onwards, all engineering branches',
-    deadline: '31 October',
-    amount: '₹40,000 / year',
-    link: '#',
-  },
-  {
-    name: 'DAAD WISE Fellowship',
-    eligibility: '3rd year B.Tech students applying for research internship in Germany',
-    deadline: '1 November',
-    amount: '€861 / month + travel allowance',
-    link: 'https://www.daad.de/en/',
-  },
-  {
-    name: 'INSDAG National Steel Design Award',
-    eligibility: 'Final year CE / Structural students with steel design BTP/thesis',
-    deadline: '28 February',
-    amount: '₹1,00,000 (1st prize)',
-    link: '#',
-  },
-  {
-    name: 'HUDCO Chair Fellowship',
-    eligibility: 'Students working on affordable housing or urban infrastructure projects',
-    deadline: '30 November',
-    amount: '₹25,000 + certificate',
-    link: '#',
-  },
-];
+export const scholarships = [];
 
-// ===================== COMPETITIONS =====================
 export const competitions = [
   {
     id: 1,
@@ -260,37 +183,8 @@ export const competitions = [
   },
 ];
 
-export const international = [
-  {
-    id: 1,
-    university: 'ETH Zürich',
-    country: 'Switzerland',
-    program: 'Student Exchange Program',
-    duration: '1 semester (Spring)',
-    deadline: '1 October',
-    description: 'Study at the world\'s leading civil engineering university. Advanced courses in structural dynamics, geotechnical centrifuge modeling, and hydrology. CGPA cutoff typically 8.5+.',
-  },
-  {
-    id: 2,
-    university: 'TU Delft',
-    country: 'Netherlands',
-    program: 'International Semester Exchange',
-    duration: '1 semester',
-    deadline: '15 November',
-    description: 'Global benchmark for water management, hydraulic engineering, and coastal defenses. IIT Bombay has an active bilateral MOU through the IRCC portal.',
-  },
-  {
-    id: 3,
-    university: 'National University of Singapore (NUS)',
-    country: 'Singapore',
-    program: 'Student Exchange Program (SEP)',
-    duration: '1 semester',
-    deadline: '15 September',
-    description: 'Premier Asian hub for transportation systems, geotechnical engineering, and smart city infrastructure. Seamless credit transfer with IITB.',
-  },
-];
+export const international = [];
 
-// ===================== BLOGS =====================
 export const blogs = [
   {
     id: 1,
@@ -388,223 +282,13 @@ export const facultyCoordinator = {
 };
 
 // ===================== EVENTS =====================
-export const events = [
-  {
-    id: 1,
-    name: 'Civil DAMP Freshers Orientation',
-    date: 'July 28, 2025',
-    day: '28',
-    month: 'Jul',
-    description: 'Comprehensive orientation for first-year CE students. Seniors and mentors share tips on academics, lab safety, grading, and campus life.',
-    venue: 'LT 001, Civil Engineering Building',
-  },
-  {
-    id: 2,
-    name: 'AAKAAR 2026 — Asia\'s Largest Civil Engineering Festival',
-    date: 'March 14, 2026',
-    day: '14',
-    month: 'Mar',
-    description: 'The annual technical festival of IIT Bombay Civil Engineering featuring international competitions, keynote lectures, industrial exhibits, and research symposiums.',
-    venue: 'Civil Engineering Department & Convocation Hall',
-  },
-  {
-    id: 3,
-    name: 'CEA Research & Industry Showcase',
-    date: 'September 12, 2025',
-    day: '12',
-    month: 'Sep',
-    description: 'Organised by the Civil Engineering Association (CEA). Undergrad and postgrad research presentations, industry panels, and BTP project demonstrations.',
-    venue: 'Main Building Auditorium, IIT Bombay',
-  },
-  {
-    id: 4,
-    name: 'Civil Internship & Placement Prep Panel',
-    date: 'October 15, 2025',
-    day: '15',
-    month: 'Oct',
-    description: 'Seniors who cleared interviews at L&T, Arup, McKinsey, AECOM, and Schlumberger share resume strategies, technical interview questions, and prep timelines.',
-    venue: 'Room 302, Civil Engineering Building',
-  },
-];
-
-// ===================== ACHIEVEMENTS =====================
-export const achievements = [
-  {
-    year: '2024',
-    title: 'Rank #1 in India — QS World University Rankings',
-    description: 'The Department of Civil Engineering at IIT Bombay was ranked 1st in India and among the Top 51-100 civil engineering institutions in the world in the QS Rankings 2024.',
-  },
-  {
-    year: '2023',
-    title: 'Stanford Global Top 2% Scientists',
-    description: 'Nine faculty members from the department were featured in Stanford University\'s global list of Top 2% most cited scientists published by Elsevier.',
-  },
-  {
-    year: '2023',
-    title: 'ASCE National Student Competition Winners',
-    description: 'IIT Bombay CE student chapter secured podium finishes at national student technical symposiums in bridge mechanics and concrete technology.',
-  },
-  {
-    year: '2019',
-    title: 'Shanti Swarup Bhatnagar Prize in Earth Sciences',
-    description: 'Prof. Subimal Ghosh of the Water Resources Engineering specialization received the prestigious Shanti Swarup Bhatnagar Prize from the Prime Minister of India.',
-  },
-];
-
-// ===================== ALUMNI =====================
-export const alumni = [
-  {
-    id: 1,
-    name: 'Preethi Krishnamurthy',
-    batch: 'B.Tech 2019',
-    role: 'Senior Associate — Infrastructure',
-    company: 'McKinsey & Company',
-    location: 'Dubai, UAE',
-    linkedin: '#',
-  },
-  {
-    id: 2,
-    name: 'Vikram Menon',
-    batch: 'B.Tech 2018',
-    role: 'Senior Structural Engineer',
-    company: 'Arup',
-    location: 'London, UK',
-    linkedin: '#',
-  },
-  {
-    id: 3,
-    name: 'Dr. Sunita Rao',
-    batch: 'M.Tech 2020',
-    role: 'Postdoctoral Fellow',
-    company: 'MIT',
-    location: 'Cambridge, USA',
-    linkedin: '#',
-  },
-  {
-    id: 4,
-    name: 'Rahul Kulkarni',
-    batch: 'B.Tech 2020',
-    role: 'Project Manager (Mega Infra)',
-    company: 'L&T Construction',
-    location: 'Mumbai, India',
-    linkedin: '#',
-  },
-  {
-    id: 5,
-    name: 'Divya Nambiar',
-    batch: 'B.Tech 2021',
-    role: 'Urban Mobility Analyst',
-    company: 'The World Bank',
-    location: 'Washington D.C., USA',
-    linkedin: '#',
-  },
-  {
-    id: 6,
-    name: 'Arjun Basu',
-    batch: 'B.Tech 2019',
-    role: 'Infrastructure Policy Consultant',
-    company: 'NITI Aayog',
-    location: 'New Delhi, India',
-    linkedin: '#',
-  },
-];
-
-// ===================== SEMEX CHRONICLES =====================
-export const semexBlogs = [
-  {
-    id: 1,
-    title: 'Six Months at ETH Zürich: Swiss Precision Meets Civil Engineering',
-    author: 'Ishaan Tiwari',
-    batch: 'B.Tech 2021',
-    date: 'June 2024',
-    university: 'ETH Zürich, Switzerland',
-    excerpt: 'Navigating a world-class university, advanced structural mechanics, and the Swiss Alps — a month-by-month guide to studying at Europe\'s premier technical institution.',
-  },
-  {
-    id: 2,
-    title: 'The NUS Experience: Smart City Tech & Urban Mobility in Singapore',
-    author: 'Kaveri Iyer',
-    batch: 'B.Tech 2022',
-    date: 'January 2024',
-    university: 'National University of Singapore',
-    excerpt: 'Singapore is a living laboratory for civil and transport engineering. Read about courses in transport networks, campus life, and credit transfers with IITB.',
-  },
-  {
-    id: 3,
-    title: 'TU Delft & the Dutch Water Miracle: A Civil Engineer\'s Dream Semester',
-    author: 'Meera Pillai',
-    batch: 'B.Tech 2021',
-    date: 'August 2023',
-    university: 'TU Delft, Netherlands',
-    excerpt: 'Studying coastal defense and hydraulic engineering in the country that mastered water management — an unforgettable academic semester.',
-  },
-];
-
-// ===================== LATEST BLOG POSTS & UPCOMING EVENTS =====================
-export const latestBlogs = blogs.slice(0, 3);
-export const upcomingEvents = events.slice(0, 2);
-
-// ===================== CURRICULUM =====================
-// Note: Curriculum page has been removed as per specification.
-
-
-// ===================== CLUBS & STUDENT ORGANIZATIONS =====================
-export const clubs = [
-  {
-    id: 1,
-    name: 'CEA — Civil Engineering Association',
-    shortName: 'CEA',
-    description: 'The official student and faculty body of the Civil Engineering Department at IIT Bombay. Coordinates guest lectures, industrial visits, alumni mentoring, and student welfare initiatives.',
-    members: 650,
-    category: 'Department Body',
-    link: 'https://www.civil.iitb.ac.in/cea/',
-  },
-  {
-    id: 2,
-    name: 'AAKAAR — Annual Civil Engineering Festival',
-    shortName: 'AAKAAR',
-    description: 'Asia\'s Largest Civil Engineering Technical Festival, organised annually by IIT Bombay students. Attracts over 10,000 participants for competitions, technical symposiums, exhibitions, and keynote lectures.',
-    members: 120,
-    category: 'Flagship Festival',
-    link: 'https://aakaariitbombay.org/',
-  },
-  {
-    id: 3,
-    name: 'EERI IIT Bombay Student Chapter',
-    shortName: 'EERI',
-    description: 'Earthquake Engineering Research Institute student chapter committed to advancing seismic safety, structural resilience, earthquake disaster mitigation, and educational outreach.',
-    members: 45,
-    category: 'Technical',
-    link: 'https://www.civil.iitb.ac.in/',
-  },
-  {
-    id: 4,
-    name: 'ASCE IIT Bombay Student Chapter',
-    shortName: 'ASCE',
-    description: 'American Society of Civil Engineers student chapter. Organises national Steel Bridge competitions, concrete design challenges, and professional networking with global ASCE members.',
-    members: 50,
-    category: 'Technical',
-    link: 'https://www.asce.org/',
-  },
-  {
-    id: 5,
-    name: 'Engineers Without Borders (EWB) — IITB Chapter',
-    shortName: 'EWB',
-    description: 'Applies sustainable civil and environmental engineering solutions to rural communities, including drinking water distribution, low-cost sanitation, and disaster resilience projects.',
-    members: 60,
-    category: 'Social Impact',
-    link: 'https://ewb-iitb.org',
-  },
-  {
-    id: 6,
-    name: 'Civil Insights Editorial Team',
-    shortName: 'Insights',
-    description: 'Student-led editorial team publishing the annual department magazine \'Civil Insights\', featuring faculty interviews, research spotlights, and alumni success chronicles.',
-    members: 20,
-    category: 'Publications',
-    link: 'https://www.civil.iitb.ac.in/civilinsights_2025.pdf',
-  },
-];
+export const events = [];
+export const achievements = [];
+export const alumni = [];
+export const semexBlogs = [];
+export const latestBlogs = blogs;
+export const upcomingEvents = events;
+export const clubs = [];
 
 // ===================== IMPORTANT LINKS =====================
 export const importantLinks = [

@@ -82,6 +82,41 @@ def extract_course_code(text, filename):
             return f"{dept} {num}"
     return "CE Elective"
 
+CALL_SECTION_HEADERS = [
+    'call details', 'during the call', 'during the call:', 'call notes', 'call meta', 'interview details', 'internal notes'
+]
+
+INTERNAL_LINE_PATTERNS = [
+    r'your name\s*[:–-]',
+    r'senior(?:\'s)?\s*name\s*[:–-]',
+    r'senior(?:\'s)?\s*batch(?:/year)?\s*[:–-]',
+    r'batch(?:/year)?\s*[:–-]',
+    r'date of call\s*[:–-]',
+    r'call date\s*[:–-]',
+    r'section\(s\)\s*covered\s*[:–-]',
+    r'during the call\s*[:–-]',
+    r'during the call',
+    r'type up your notes immediately',
+    r'i only care about output',
+    r'we need really short answers',
+    r'internal only',
+    r'do not screenshot',
+    r'inform the senior of confidentiality',
+    r'before asking this section',
+    r'interviewer\s*[:–-]',
+    r'interviewee\s*[:–-]',
+    r'call details',
+    r'call notes'
+]
+
+def is_internal_line(line):
+    l = line.strip().lower()
+    return any(re.search(pat, l, re.I) for pat in INTERNAL_LINE_PATTERNS)
+
+def is_call_sec_header(line):
+    l = line.strip().lower()
+    return any(l == h or l.startswith(h) for h in CALL_SECTION_HEADERS)
+
 def is_sec_header(line):
     l = line.strip().lower()
     if len(l) > 45:
@@ -101,25 +136,39 @@ def parse_verbatim_sections(lines):
     for line in lines:
         if is_sec_header(line):
             if current_sec['lines']:
-                sections.append(current_sec)
+                if not is_call_sec_header(current_sec['heading']):
+                    clean_l = [l for l in current_sec['lines'] if not is_internal_line(l)]
+                    if clean_l:
+                        current_sec['lines'] = clean_l
+                        sections.append(current_sec)
             current_sec = {'heading': line.strip(), 'lines': []}
         else:
-            current_sec['lines'].append(line)
+            if not is_internal_line(line):
+                current_sec['lines'].append(line)
             
-    if current_sec['lines']:
-        sections.append(current_sec)
+    if current_sec['lines'] and not is_call_sec_header(current_sec['heading']):
+        clean_l = [l for l in current_sec['lines'] if not is_internal_line(l)]
+        if clean_l:
+            current_sec['lines'] = clean_l
+            sections.append(current_sec)
     return sections
 
 def parse_elective_review(path, review_id):
     lines = get_text_lines(path)
     fname = os.path.basename(path)
-    raw_content = '\n\n'.join(lines)
+    
+    clean_lines = []
+    in_call_sec = False
+    for line in lines:
+        if is_sec_header(line):
+            in_call_sec = is_call_sec_header(line)
+            if not in_call_sec:
+                clean_lines.append(line)
+        elif not in_call_sec and not is_internal_line(line):
+            clean_lines.append(line)
+    raw_content = '\n\n'.join(clean_lines)
     verbatim_sections = parse_verbatim_sections(lines)
     
-    reviewer = ""
-    senior = ""
-    batch = "2027"
-    date = ""
     course_code = extract_course_code(raw_content[:500], fname)
     course_name = TITLE_MAP.get(course_code, "")
     sem_str = ""
@@ -127,37 +176,9 @@ def parse_elective_review(path, review_id):
     prof = ""
     ratings_dict = {}
     
-    # Filename fallback
-    if ' - ' in fname:
-        parts = fname.replace('.docx', '').split(' - ')
-        if len(parts) >= 4:
-            senior = parts[2].strip()
-            reviewer = parts[3].strip()
-        elif len(parts) == 3:
-            senior = parts[1].strip()
-            reviewer = parts[2].strip()
-    else:
-        m = re.search(r'Review_([A-Za-z]+(?:[A-Z][a-z]+)*)_([A-Za-z]+)', fname)
-        if m:
-            s_raw = m.group(1)
-            senior = re.sub(r'([a-z])([A-Z])', r'\1 \2', s_raw)
-            reviewer = m.group(2)
-
     for i, line in enumerate(lines):
         ll = line.lower()
-        if i < 15:
-            m_rev = re.search(r'(?:your name|reviewer)\s*[:–-]\s*([^|\n]+)', line, re.I)
-            if m_rev:
-                reviewer = m_rev.group(1).strip()
-            m_sen = re.search(r'senior(?:\'s)?(?:\s*name)?\s*[:–-]\s*([^|\n]+)', line, re.I)
-            if m_sen:
-                senior = m_sen.group(1).strip()
-            if 'batch' in ll or 'year' in ll:
-                b_match = re.search(r'(202\d|4th year|3rd year|fourth year)', line, re.I)
-                if b_match:
-                    batch = b_match.group(1)
-            if 'date of call' in ll:
-                date = re.split(r'[:–-]', line, maxsplit=1)[-1].strip()
+        if i < 20:
             if 'elective name & code:' in ll or 'course name & code:' in ll or 'elective name:' in ll:
                 val = line.split(':', 1)[-1].strip()
                 if not course_name:
@@ -186,7 +207,8 @@ def parse_elective_review(path, review_id):
             m_name = re.sub(r'^\d+\.\s*', '', rm.group(1)).strip()
             m_val = rm.group(2).strip()
             if any(k in m_name.lower() for k in ['teaching', 'clarity', 'approach', 'fairness', 'grading', 'predictability', 'overall', 'engagement']):
-                ratings_dict[m_name] = m_val
+                if not is_internal_line(m_name) and 'call' not in m_name.lower() and 'date' not in m_name.lower():
+                    ratings_dict[m_name] = m_val
 
     if not course_name:
         course_name = TITLE_MAP.get(course_code, course_code)
@@ -235,13 +257,13 @@ def parse_elective_review(path, review_id):
     dept_code = course_code.split()[0]
     ctype = TYPE_MAP.get(dept_code, 'Dept Elective')
 
-    # Inherit a short summary from the actual answers
-    # Look for answer lines after question 1 or comments
+    # Inherit a short summary from actual answers
     answers = []
-    for line in lines:
-        if not re.match(r'^\d+\.', line.strip()) and not is_sec_header(line) and not line.startswith(('Rate', '•', '⚠', 'Your name', 'Senior')):
-            if len(line.strip()) > 35:
-                answers.append(line.strip())
+    for line in clean_lines:
+        s_line = line.strip()
+        if not re.match(r'^\d+\.', s_line) and not is_sec_header(s_line) and not s_line.startswith(('Rate', '•', '⚠', 'Your name', 'Senior', 'Elective name', 'Course name', 'Semester taken', 'Professor:')):
+            if len(s_line) > 35:
+                answers.append(s_line)
                 
     summary_excerpt = ""
     if answers:
@@ -263,10 +285,8 @@ def parse_elective_review(path, review_id):
         'difficulty': difficulty,
         'rating': star_rating,
         'leniency': leniency_score or ("Lenient" if difficulty == "Easy" else "Moderate"),
-        'senior': senior or "Department Senior",
-        'reviewer': reviewer or "DAMP Mentor",
-        'batch': batch,
-        'date': date,
+        'senior': "Verified Senior Review",
+        'batch': "B.Tech Senior",
         'metrics': ratings_dict,
         'review': summary_excerpt,
         'rawContent': raw_content,
@@ -277,12 +297,20 @@ def parse_elective_review(path, review_id):
 def parse_btp_review(path, project_id):
     lines = get_text_lines(path)
     fname = os.path.basename(path)
-    raw_content = '\n\n'.join(lines)
+    
+    clean_lines = []
+    in_call_sec = False
+    for line in lines:
+        if is_sec_header(line):
+            in_call_sec = is_call_sec_header(line)
+            if not in_call_sec:
+                clean_lines.append(line)
+        elif not in_call_sec and not is_internal_line(line):
+            clean_lines.append(line)
+    raw_content = '\n\n'.join(clean_lines)
     verbatim_sections = parse_verbatim_sections(lines)
     
     title = ""
-    senior = ""
-    reviewer = ""
     guide = ""
     domain = ""
     semester = ""
@@ -291,20 +319,14 @@ def parse_btp_review(path, project_id):
     
     for i, line in enumerate(lines):
         ll = line.lower()
-        if i < 15:
-            m_rev = re.search(r'(?:your name|reviewer)\s*[:–-]\s*([^|\n]+)', line, re.I)
-            if m_rev:
-                reviewer = m_rev.group(1).strip()
-            m_sen = re.search(r'senior(?:\'s)?(?:\s*name)?\s*[:–-]\s*([^|\n]+)', line, re.I)
-            if m_sen:
-                senior = m_sen.group(1).strip()
+        if i < 20:
             if 'btp title:' in ll or 'title:' in ll:
                 title = line.split(':', 1)[-1].strip()
             if 'semester undertaken:' in ll:
                 semester = line.split(':', 1)[-1].strip()
             if 'professor/guide:' in ll or 'guide:' in ll or "professor's name:" in ll:
                 val = line.split(':', 1)[-1].strip()
-                if val and 'rate' not in val.lower() and '⚠' not in val:
+                if val and 'rate' not in val.lower() and '⚠' not in val and 'internal' not in val.lower():
                     guide = val
             if 'domain:' in ll:
                 domain = line.split(':', 1)[-1].strip()
@@ -314,22 +336,22 @@ def parse_btp_review(path, project_id):
         rm = re.search(r'([A-Za-z\s]+)[:—–-]\s*(\d+(\.\d+)?(\s*/\s*10)?)', line)
         if rm:
             m_name = re.sub(r'^\d+\.\s*', '', rm.group(1)).strip()
-            metrics[m_name] = rm.group(2).strip()
+            if not is_internal_line(m_name) and 'call' not in m_name.lower() and 'date' not in m_name.lower():
+                metrics[m_name] = rm.group(2).strip()
 
     if guide and not guide.startswith("Prof.") and not guide.startswith("Dr."):
         guide = f"Prof. {guide}"
         
-    answers = [l.strip() for l in lines if len(l.strip()) > 40 and not re.match(r'^\d+\.', l) and not is_sec_header(l)]
+    answers = [l.strip() for l in clean_lines if len(l.strip()) > 40 and not re.match(r'^\d+\.', l) and not is_sec_header(l) and not l.startswith(('Rate', '•', '⚠', 'BTP title:', 'Semester undertaken:', 'Professor/guide:', 'Domain:', 'Team size:'))]
     desc_summary = answers[0] if answers else "Bachelor Thesis Project addressing civil engineering challenges."
 
     return {
         'id': project_id,
         'type': 'BTP',
         'title': title or "Bachelor Thesis Project",
-        'student': f"{senior} (B.Tech)",
+        'student': "B.Tech Senior Project",
         'year': '2024–25',
         'professor': guide or "Department Faculty",
-        'reviewer': reviewer,
         'semester': semester or "7th/8th Semester",
         'teamSize': team_size,
         'domain': domain or "Civil Engineering Research",
@@ -343,38 +365,35 @@ def parse_btp_review(path, project_id):
 def parse_idp_review(path, project_id):
     lines = get_text_lines(path)
     fname = os.path.basename(path)
-    raw_content = '\n\n'.join(lines)
+    
+    clean_lines = []
+    in_call_sec = False
+    for line in lines:
+        if is_sec_header(line):
+            in_call_sec = is_call_sec_header(line)
+            if not in_call_sec:
+                clean_lines.append(line)
+        elif not in_call_sec and not is_internal_line(line):
+            clean_lines.append(line)
+    raw_content = '\n\n'.join(clean_lines)
     verbatim_sections = parse_verbatim_sections(lines)
     
     title = ""
-    senior = ""
-    reviewer = ""
     guide = ""
     semester = ""
     team_size = "5 members (Civil Engineering)"
     metrics = {}
     
-    m = re.search(r'IDP_Review_(?:[A-Za-z_]+_)?([A-Za-z]+(?:[A-Z][a-z]+)*)_([A-Za-z]+)', fname)
-    if m:
-        senior = m.group(1)
-        reviewer = m.group(2)
-        
     for i, line in enumerate(lines):
         ll = line.lower()
-        if i < 15:
-            m_rev = re.search(r'(?:your name|reviewer)\s*[:–-]\s*([^|\n]+)', line, re.I)
-            if m_rev:
-                reviewer = m_rev.group(1).strip()
-            m_sen = re.search(r'senior(?:\'s)?(?:\s*name)?\s*[:–-]\s*([^|\n]+)', line, re.I)
-            if m_sen:
-                senior = m_sen.group(1).strip()
+        if i < 20:
             if 'idp title:' in ll or 'title:' in ll:
                 title = line.split(':', 1)[-1].strip()
             if 'semester undertaken:' in ll:
                 semester = line.split(':', 1)[-1].strip()
             if 'professor/guide:' in ll or 'guide:' in ll or "professor's name:" in ll:
                 val = line.split(':', 1)[-1].strip()
-                if val and 'rate' not in val.lower() and '⚠' not in val:
+                if val and 'rate' not in val.lower() and '⚠' not in val and 'internal' not in val.lower():
                     guide = val
             if 'team size' in ll:
                 team_size = line.split(':', 1)[-1].strip()
@@ -382,22 +401,22 @@ def parse_idp_review(path, project_id):
         rm = re.search(r'([A-Za-z\s]+)[:—–-]\s*(\d+(\.\d+)?(\s*/\s*10)?)', line)
         if rm:
             m_name = re.sub(r'^\d+\.\s*', '', rm.group(1)).strip()
-            metrics[m_name] = rm.group(2).strip()
+            if not is_internal_line(m_name) and 'call' not in m_name.lower() and 'date' not in m_name.lower():
+                metrics[m_name] = rm.group(2).strip()
 
     if guide and not guide.startswith("Prof.") and not guide.startswith("Dr."):
         guide = f"Prof. {guide}"
         
-    answers = [l.strip() for l in lines if len(l.strip()) > 40 and not re.match(r'^\d+\.', l) and not is_sec_header(l)]
+    answers = [l.strip() for l in clean_lines if len(l.strip()) > 40 and not re.match(r'^\d+\.', l) and not is_sec_header(l) and not l.startswith(('Rate', '•', '⚠', 'IDP title:', 'Semester undertaken:', 'Professor/guide:', 'Domain:', 'Team size:'))]
     desc_summary = answers[0] if answers else "Interdisciplinary industrial project applying engineering principles to real-world infrastructure."
 
     return {
         'id': project_id,
         'type': 'IDP',
         'title': title or "Institute Development Project",
-        'student': f"{senior} (B.Tech)",
+        'student': "Civil Engineering IDP Group",
         'year': '2024–25',
         'professor': guide or "Department Faculty",
-        'reviewer': reviewer,
         'semester': semester or "6th Semester",
         'teamSize': team_size,
         'domain': "Industrial & Interdisciplinary Project",
